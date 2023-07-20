@@ -1,14 +1,16 @@
 ---
 layout: layouts/default.njk
-title: Get in touch with Gloucester Thai Massage
-description: To book a massage please call Joy on 0411 447 704, use our booking page or email joy@gtmassage.com.au. Gloucester Thai Massage is located at Shop 2/78 Church St, Gloucester, 2422
-section: contact
+title: About James Taylor Bathurst Solicitor – Criminal and Family Law Lawyer
+description: James Taylor Bathurst Solicitor – Criminal and Family Law Lawyer offering specialist advice and or representation in Criminal and Family Law matters and services in all areas of law including Conveyancing, Wills Probate and Administration.
+section: about
 date: 2023-07-20
 permalink: /about/
 eleventyNavigation:
   key: About
   order: 2
 ---
+
+*About James Taylor Bathurst Solicitor – Criminal and Family Law Lawyer*
 
 <div class="entry-content">
 	<p style="text-align: justify;"><em>“Being contacted by the police about a criminal offence, attending the police station, receiving court attendance notices for criminal and driving offences or any other involvement in traffic matters can be a concerning and worrying experience. From my past experience in representing clients in criminal and driving offences I understand client’s concerns and what is at stake and most importantly what needs to be done to provide clients with the best possible representation. I pride myself and take great satisfaction from making sure that my clients obtain the best possible results in all matters”</em></p>
