@@ -100,8 +100,10 @@ module.exports = (eleventyConfig) => {
   let markdownItAnchor = require("markdown-it-anchor");
   let options = {
     breaks: true,
-    linkify: true
+    linkify: true,
+    html: true,
   };
+
   let opts = {
     permalink: false
   };
