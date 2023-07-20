@@ -2,7 +2,7 @@
 layout: layouts/home.njk
 title: James Taylor Bathurst Solicitor – Criminal and Family Law Lawyer
 
-date: 2023-04-22T00:00:00.000Z
+date: 2023-07-20
 description: James Taylor Bathurst Solicitor – Criminal and Family Law Lawyer offering specialist advice and or representation in Criminal and Family Law matters and services in all areas of law including Conveyancing, Wills Probate and Administration.
 permalink: /
 eleventyNavigation:
