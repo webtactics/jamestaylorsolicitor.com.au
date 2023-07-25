@@ -14,11 +14,11 @@ eleventyNavigation:
 
 James has been a practicing solicitor for more than 30 years. 
 
-*“Being contacted by the police about a criminal offence, attending the police station, receiving court attendance notices for criminal and driving offences or any other involvement in traffic matters can be a concerning and worrying experience. 
+*“Being contacted by the police about a criminal offence, attending the police station, receiving court attendance notices for criminal and driving offences or any other involvement in traffic matters can be a concerning and worrying experience.*
 
-From my past experience in representing clients in criminal and driving offences I understand client’s concerns and what is at stake and most importantly what needs to be done to provide clients with the best possible representation. 
+*From my past experience in representing clients in criminal and driving offences I understand client’s concerns and what is at stake and most importantly what needs to be done to provide clients with the best possible representation.*
 
-I pride myself and take great satisfaction from making sure that my clients obtain the best possible results in all matters”*
+*I pride myself and take great satisfaction from making sure that my clients obtain the best possible results in all matters”*
 
 James can be contacted at work or outside work hours on his mobile [0400 316 661](tel:+61400316661) for any urgent matters. 
 
