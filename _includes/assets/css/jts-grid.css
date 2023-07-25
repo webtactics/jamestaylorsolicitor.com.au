@@ -673,9 +673,10 @@ align-content: center;}
 .content {
 position: relative;
 margin: -20vh auto 0 auto;
-padding: 1rem;
+padding: 2rem;
 z-index: 2;
 max-width: 1280px;
+min-height: 600px;
 background-color: var(--white);
 }
 
