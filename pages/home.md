@@ -10,7 +10,7 @@ eleventyNavigation:
   order: 0
 ---
 # James Taylor Bathurst Solicitor – Criminal and Family Law Lawyer
-**James Taylor Bathurst Solicitor – Criminal and Family Law Lawyer offering specialist advice and or representation in Criminal and Family Law matters and services in all areas of law including Conveyancing, Wills Probate and Administration.**
+**James Taylor Bathurst Solicitor is a Criminal and Family Law Lawyer offering specialist advice and or representation in Criminal and Family Law matters and services in all areas of law including Conveyancing, Wills Probate and Administration.**
 
 James has been a practicing solicitor for more than 30 years. 
 
@@ -20,7 +20,7 @@ James has been a practicing solicitor for more than 30 years.
 
 *I pride myself and take great satisfaction from making sure that my clients obtain the best possible results in all matters”*
 
-James can be contacted at work or outside work hours on his mobile [0400 316 661](tel:+61400316661) for any urgent matters. 
+James Taylor Bathurst Solicitor can be contacted at work on [02 6338 2600](tel:+61263382600) or outside work hours on his mobile [0400 316 661](tel:+61400316661) for any urgent matters. 
 
 **First Consultations with clients are free.**
 
