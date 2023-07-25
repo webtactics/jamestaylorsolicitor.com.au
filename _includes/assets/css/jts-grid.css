@@ -684,9 +684,9 @@ background-color: var(--white);
   margin: -40vh auto 0 auto;
   background-color: var(--white);
   }
-.massage-detail .content {
+  .home.internal .content {
   margin: -60vh auto 0 auto;
-    background-color: var(--white);
+ 
     }
 
 @media (max-width: 1024px) {
