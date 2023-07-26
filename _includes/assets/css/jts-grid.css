@@ -163,7 +163,7 @@ font-style: normal;
     
 .hamburger { grid-area: hamburger; }
       .logo { grid-area: logo; }
-      .navwrapper { grid-area: navwrapper; }
+      .navwrapper { grid-area: navwrapper;padding-left: 2rem;}
       .socialwrapper { grid-area: socialwrapper; }
       
         
@@ -209,7 +209,7 @@ font-style: normal;
       transition: all 1s;}
       
       }
-
+            
 
 @media screen and (max-width: 1025px) {
 .navwrapper, .socialwrapper {
