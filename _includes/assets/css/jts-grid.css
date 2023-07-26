@@ -266,7 +266,7 @@ transition: all 1s;}
 
 .toggle-nav {
   display: block;
-  margin: 10px;
+  margin: 5px;
   font-size: 1rem;
   font-weight: 400;
   color: white;
@@ -554,7 +554,7 @@ display: block;
 position: relative;
 border-bottom: none;
 background-color: var(--white);
-margin:15px 0;
+margin:10px 0;
 -webkit-transition: all 0.6s;
   -moz-transition: all 0.6s;
   -ms-transition: all 0.6s;
