@@ -143,7 +143,7 @@ font-style: normal;
     display: grid;
     grid-template-columns: 120px 280px 1fr 50px;
     grid-template-areas:
-      "hamburger logo nav socialwrapper";
+      "hamburger logo navwrapper socialwrapper";
       grid-template-rows: 64px; } 
   
       .headerwrapper.scrolled {
@@ -155,7 +155,7 @@ font-style: normal;
     display: grid;
     grid-template-columns: 120px 360px 1fr 50px;
     grid-template-areas:
-      "hamburger logo nav socialwrapper";
+      "hamburger logo navwrapper socialwrapper";
       grid-template-rows: 64px; } 
   
    
@@ -163,7 +163,7 @@ font-style: normal;
     
 .hamburger { grid-area: hamburger; }
       .logo { grid-area: logo; }
-      .nav { grid-area: nav; }
+      .navwrapper { grid-area: nav; }
       .socialwrapper { grid-area: socialwrapper; }
       
         
@@ -474,7 +474,6 @@ ul, ul.menusocial, ul.main-menu {
 }
 ul.main-menu li {
   float: left;
-  margin:0 1rem 0 3rem;
 }
 ul.menusocial li {
   float: right;
