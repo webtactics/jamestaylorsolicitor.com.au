@@ -476,8 +476,8 @@ ul.main-menu li {
   float: right;
 }
 ul.menusocial li {
-  float: right;
-  margin:0 1rem 0 0;
+  float: left;
+  margin:0 4rem 0 0;
 }
 .main-menu > li {
     display: inline-block;
