@@ -473,7 +473,7 @@ ul, ul.menusocial, ul.main-menu {
     padding-inline-start: 0;
 }
 ul.main-menu li {
-  float: left;
+  float: right;
 }
 ul.menusocial li {
   float: right;
@@ -486,7 +486,7 @@ ul.menusocial li {
     border: none;
     position: relative;
     left: 0;
-    width: 200px;
+    width: 160px;
     text-align: center;
 }
 .main-menu > li.hide {
