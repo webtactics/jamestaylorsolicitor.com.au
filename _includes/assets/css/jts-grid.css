@@ -499,7 +499,7 @@ ul.menusocial li {
 
 .main-menu > li > a {
   padding: 0;
-  line-height: 52px;
+  line-height: 50px;
   font-size: 1.2rem;
   color: var(--white);
 text-decoration: none;
@@ -519,43 +519,43 @@ background-color: transparent;
 .main-menu > li > a:hover {
   color: var(--white);
   background-color: var(--primarylight);
-  border-bottom: 2px solid var(--white);
+  border-bottom: 4px solid var(--white);
   transition: all 0.3s;
 }
 .main-menu > li.current > a, .main-menu > li.active-class > a {
   color: var(--white);
   background-color: var(--primarylight);
-  border-bottom: 2px solid var(--white);
+  border-bottom: 4px solid var(--white);
   transition: all 0.3s;
 }
 
 
 
 .scrolled .main-menu > li > a {
-  line-height: 42px;
+  line-height: 40px;
   -webkit-transition: all 0.6s;
   -moz-transition: all 0.6s;
   -ms-transition: all 0.6s;
   -o-transition: all 0.6s;
   transition: all 0.6s;
-  border-bottom: 2px solid transparent;
+  border-bottom: 4px solid transparent;
 }
 
 .scrolled .main-menu > li > a:hover {
-  line-height: 42px;
+  line-height: 40px;
   -webkit-transition: all 0.6s;
   -moz-transition: all 0.6s;
   -ms-transition: all 0.6s;
   -o-transition: all 0.6s;
   transition: all 0.6s;
   color: var(--primary);
-  background-color: var(--white10);
-  border-bottom: 2px solid var(--white);
+  background-color: transparent;
+  border-bottom: 4px solid var(--white);
 }
 .scrolled .main-menu > li.current > a, .scrolled .main-menu > li.active-class > a {
   color: var(--primary);
-  background-color: var(--white50);
-  border-bottom: 2px solid var(--white);
+  background-color: transparent;
+  border-bottom: 4px solid var(--white);
   transition: all 0.3s;
 }
   
