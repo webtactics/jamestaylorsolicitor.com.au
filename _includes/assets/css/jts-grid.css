@@ -12,6 +12,7 @@
 	--background: #FFF0EB;
 	--red: #D90000;
   --black: #000000;
+  --mattblack: #191C20;
   --green: hsla(144, 80%, 22%, 1);
 }
 
@@ -457,7 +458,7 @@ transition: all 0.6s;
 }
 
 .topbar.scrolled {
-  background-color: var(--black);
+  background-color: var(--mattblack);
   -webkit-transition: all 0.6s;
 -moz-transition: all 0.6s;
 -ms-transition: all 0.6s;
