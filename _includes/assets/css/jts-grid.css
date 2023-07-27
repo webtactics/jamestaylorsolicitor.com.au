@@ -513,8 +513,6 @@ background-color: transparent;
   transition: all 0.6s;
 }
 
-
-
 .main-menu > li > a:hover {
   color: var(--white);
   background-color: var(--primarylight);
@@ -528,6 +526,35 @@ background-color: transparent;
   transition: all 0.3s;
 }
 
+
+
+.scrolled .main-menu > li > a {
+  line-height: 42px;
+  -webkit-transition: all 0.6s;
+  -moz-transition: all 0.6s;
+  -ms-transition: all 0.6s;
+  -o-transition: all 0.6s;
+  transition: all 0.6s;
+  border-bottom: 2px solid transparent;
+}
+
+.scrolled .main-menu > li > a:hover {
+  line-height: 42px;
+  -webkit-transition: all 0.6s;
+  -moz-transition: all 0.6s;
+  -ms-transition: all 0.6s;
+  -o-transition: all 0.6s;
+  transition: all 0.6s;
+  color: var(--primary);
+  background-color: var(--white);
+  border-bottom: 2px solid var(--black);
+}
+.scrolled .main-menu > li.current > a, .scrolled .main-menu > li.active-class > a {
+  color: var(--primary);
+  background-color: var(--white);
+  border-bottom: 2px solid var(--black);
+  transition: all 0.3s;
+}
   
 
 .menusocial > li {
@@ -549,7 +576,6 @@ background-color: transparent;
   font-size: 2.4rem;
   width:34px;
   height:34px;
-
 text-decoration: none;
 font-weight: 700;
 cursor: pointer;
@@ -569,27 +595,18 @@ margin:10px 0;
 
 
 .menusocial > li > a:hover {
-
   background-color: #4267B2;
   border-bottom: none;
   transition: all 0.3s;
 }
 
 
-.scrolled .main-menu > li > a {
-  line-height: 44px;
-  -webkit-transition: all 0.6s;
-  -moz-transition: all 0.6s;
-  -ms-transition: all 0.6s;
-  -o-transition: all 0.6s;
-  transition: all 0.6s;
-}
+
 
 .scrolled .menusocial > li > a {
   line-height: 44px;
   width:34px;
   height:34px;
-
 text-decoration: none;
 font-weight: 700;
 cursor: pointer;
