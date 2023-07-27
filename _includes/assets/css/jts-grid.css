@@ -5,6 +5,7 @@
 	--primary: hsla(211,50%,53%,1);
   --primarylight: hsla(211,50%,53%,0.6);
 	--white: #ffffff;
+  --white10: hsla(0,0%,100%,0.1);
 	--background: #FFF0EB;
 	--red: #D90000;
   --black: #000000;
@@ -546,12 +547,12 @@ background-color: transparent;
   -o-transition: all 0.6s;
   transition: all 0.6s;
   color: var(--primary);
-  background-color: var(--white);
+  background-color: var(--white10);
   border-bottom: 2px solid var(--black);
 }
 .scrolled .main-menu > li.current > a, .scrolled .main-menu > li.active-class > a {
   color: var(--primary);
-  background-color: var(--white);
+  background-color: var(--white10);
   border-bottom: 2px solid var(--black);
   transition: all 0.3s;
 }
