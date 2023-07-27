@@ -496,7 +496,7 @@ ul.menusocial li {
 
 .main-menu > li > a {
   padding: 0;
-  line-height: 54px;
+  line-height: 52px;
   font-size: 1.2rem;
   color: var(--white);
 text-decoration: none;
@@ -516,13 +516,13 @@ background-color: transparent;
 
 
 .main-menu > li > a:hover {
-  color: var(--primary);
+  color: var(--white);
   background-color: var(--primarylight);
   border-bottom: 2px solid var(--white);
   transition: all 0.3s;
 }
 .main-menu > li.current > a, .main-menu > li.active-class > a {
-  color: var(--primary);
+  color: var(--white);
   background-color: var(--primarylight);
   border-bottom: 2px solid var(--white);
   transition: all 0.3s;
