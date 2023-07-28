@@ -85,14 +85,20 @@ module.exports = (eleventyConfig) => {
 
   // Don't process folders with static assets e.g. images
   eleventyConfig.addPassthroughCopy("favicon.ico");
+  eleventyConfig.addPassthroughCopy("android-chrome-192x192.png");
+  eleventyConfig.addPassthroughCopy("android-chrome-512x512.png");
+  eleventyConfig.addPassthroughCopy("apple-touch-icon.png");
+  eleventyConfig.addPassthroughCopy("favicon-16x16.png");
+  eleventyConfig.addPassthroughCopy("favicon-32x32.png");
+  eleventyConfig.addPassthroughCopy("site.webmanifest");
   eleventyConfig.addPassthroughCopy({ static: "/" });
   eleventyConfig.addPassthroughCopy("admin/");
   // We additionally output a copy of our CSS for use in Netlify CMS previews
   eleventyConfig.addPassthroughCopy("_includes/assets/css/jts-grid.css");
     // We additionally output a copy of our js for use in Netlify CMS previews
-    eleventyConfig.addPassthroughCopy("_includes/assets/js/script.js");
+  eleventyConfig.addPassthroughCopy("_includes/assets/js/script.js");
   module.exports = function(eleventyConfig) {
-    eleventyConfig.addPassthroughCopy("script.js");
+  eleventyConfig.addPassthroughCopy("script.js");
   };
 
   /* Markdown Plugins */
