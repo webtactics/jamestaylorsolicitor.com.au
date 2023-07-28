@@ -14,7 +14,7 @@ eleventyNavigation:
 
 <div class="entry-content">
 
-<p>Below are some of the criminal Law matters that he has acted in:</p>
+<p>Below are some of the criminal Law matters James Taylor Bathurst Solicitor have acted in:</p>
 <ul>
 <li>Sexual Assault Offences.</li>
 <li>Assault Offences – Common, assault occasion actual bodily harm, reckless wound and others.</li>
@@ -32,7 +32,7 @@ eleventyNavigation:
 <li>Attempted Murder/ Murder.</li>
 <li>Firearms Offences – unlicensed, fail to store safely, supply, possess prohibited weapons</li>
 </ul>
-<p>Below are some of the most recent Criminal cases that he has acted in:</p>
+<p>Below are some of the most recent Criminal cases James Taylor Bathurst Solicitor have acted in:</p>
 <ul>
 <li>Supply Firearms/Prohibited Weapons – District Court at Bathurst and Sydney</li>
 <li>Supply Prohibited Drug – District Court at Bathurst and Parramatta.</li>
