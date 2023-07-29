@@ -683,7 +683,7 @@ ul.off-canvas-list > li.current > a, ul.off-canvas-list > li.active-class > a {
 
 
 
-.hero {height: 100svh;height: 100vh;}
+
 .homebooklogo {
   position: absolute;
   z-index: 2;
@@ -710,6 +710,43 @@ align-content: center;}
   width: 100%;
   text-align: center;
 }
+
+
+
+
+.herohome {height: 100svh;height: 100vh;background: url(https://ik.imagekit.io/webtactics/jamestaylor/Bathurst-Court-House-Russel-Street-View_JBiEQbALZ.jpg?tr=w-1200,h-800) no-repeat center center;width:100%; background-size:cover;position: relative;}
+
+  @media (max-width: 1279px) {
+    .herohome {height: 60svh;height: 60vh;background: url(https://ik.imagekit.io/webtactics/jamestaylor/Bathurst-Court-House-Russel-Street-View_JBiEQbALZ.jpg?tr=w-900,h-600) no-repeat center center;width:100%; background-size:cover;position: relative;}
+  }
+  @media (max-width: 500px) {
+    .herohome {height: 50svh;height: 50vh;background: url(https://ik.imagekit.io/webtactics/jamestaylor/Bathurst-Court-House-Russel-Street-View_JBiEQbALZ.jpg?tr=w-400,h-600) no-repeat center center;width:100%; background-size:cover;position: relative;}
+  }
+  
+
+
+.hero {height: 100svh;height: 100vh;background: url(https://ik.imagekit.io/webtactics/jamestaylor/Bathurst-Court-House-Russel-Street-View_JBiEQbALZ.jpg?tr=w-1200,h-800) no-repeat center center;width:100%; background-size:cover;position: relative;}
+
+@media (max-width: 1279px) {
+  .hero {height: 60svh;height: 60vh;background: url(https://ik.imagekit.io/webtactics/jamestaylor/Bathurst-Court-House-Russel-Street-View_JBiEQbALZ.jpg?tr=w-900,h-600) no-repeat center center;width:100%; background-size:cover;position: relative;}
+}
+@media (max-width: 500px) {
+  .hero {height: 10svh;height: 10vh;background: url(https://ik.imagekit.io/webtactics/jamestaylor/Bathurst-Court-House-Russel-Street-View_JBiEQbALZ.jpg?tr=w-400,h-200) no-repeat center center;width:100%; background-size:cover;position: relative;}
+}
+
+
+
+.herodetail {height: 100svh;height: 100vh;background: url(https://ik.imagekit.io/webtactics/gtm/assets/Gloucester-Thai-Massage-5_BMsQaHq_y.jpg?tr=w-1200,h-800) no-repeat center center;width:100%; background-size:cover;position: relative;}
+@media (max-width: 1279px) {
+  .herodetail {height: 60svh;height: 60vh;background: url(https://ik.imagekit.io/webtactics/gtm/assets/Gloucester-Thai-Massage-5_BMsQaHq_y.jpg?tr=w-900,h-600) no-repeat center center;width:100%; background-size:cover;position: relative;}
+}
+
+@media (max-width: 500px) {
+  .herodetail {height: 10svh;height: 10vh;background: url(https://ik.imagekit.io/webtactics/gtm/assets/Gloucester-Thai-Massage-5_BMsQaHq_y.jpg?tr=w-400,h-200) no-repeat center center;width:100%; background-size:cover;position: relative;}
+}
+
+
+
 .content {
 position: relative;
 margin: -20vh auto 0 auto;
