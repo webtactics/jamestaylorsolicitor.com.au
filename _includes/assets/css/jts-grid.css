@@ -701,7 +701,7 @@ ul.off-canvas-list > li.current > a, ul.off-canvas-list > li.active-class > a {
 
 
 
-.herohome {height: 100svh;height: 100vh;background: url(https://ik.imagekit.io/webtactics/jamestaylor/Bathurst-Court-House-Russel-Street-1600x900_wpnmqqB_x.jpg?updatedAt=1690783824569?tr=w-1600,h-900) no-repeat center center;width:100%; background-size:cover;position: relative;}
+.herohome {height: 100svh;height: 100vh;background: url(https://ik.imagekit.io/webtactics/jamestaylor/Bathurst-Court-House-Russel-Street-1600x900_wpnmqqB_x.jpg?updatedAt=1690783824569) no-repeat center center;width:100%; background-size:cover;position: relative;}
 
   @media (max-width: 1279px) {
     .home .hero  {height: 60svh;height: 60vh;background: url(https://ik.imagekit.io/webtactics/jamestaylor/Bathurst-Court-House-Russel-Street-900x600_4qJab6XIw.jpg?updatedAt=1690782916418?tr=w-900,h-600) no-repeat center center;width:100%; background-size:cover;position: relative;}
@@ -711,7 +711,7 @@ ul.off-canvas-list > li.current > a, ul.off-canvas-list > li.active-class > a {
   }
 
 
-.hero {height: 100svh;height: 100vh;background: url(https://ik.imagekit.io/webtactics/jamestaylor/Bathurst-Court-House-Russel-Street-1600x900_wpnmqqB_x.jpg?updatedAt=1690783824569?tr=w-1600,h-900) no-repeat center center;width:100%; background-size:cover;position: relative;}
+.hero {height: 100svh;height: 100vh;background: url(https://ik.imagekit.io/webtactics/jamestaylor/Bathurst-Court-House-Russel-Street-1600x900_wpnmqqB_x.jpg?updatedAt=1690783824569) no-repeat center center;width:100%; background-size:cover;position: relative;}
 
 @media (max-width: 1279px) {
   .hero {height: 60svh;height: 60vh;background: url(https://ik.imagekit.io/webtactics/jamestaylor/Bathurst-Court-House-Russel-Street-900x600_4qJab6XIw.jpg?updatedAt=1690782916418?tr=w-900,h-600) no-repeat center center;width:100%; background-size:cover;position: relative;}
