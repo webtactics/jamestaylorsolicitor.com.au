@@ -768,7 +768,7 @@ align-content: center;}
       min-height: 400px;
       }
     @media (max-width: 1279px) {
-     .internal .content {
+     .internal .content, .home.internal .content {
         margin: 0 auto;
         min-height: 400px;
         }
