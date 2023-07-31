@@ -274,10 +274,10 @@ transition: all 1s;}
   text-align: left;
   padding-left: 1rem;
   background: var(--primary);
-  height: 60px;
-  line-height: 60px;
+  height: 64px;
+  line-height: 64px;
   margin: 0 0 2px 0;
-  font-size: 1.2rem;
+  font-size: 1.5rem;
 }
 
 
