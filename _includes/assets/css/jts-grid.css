@@ -506,6 +506,15 @@ ul.menusocial li {
     width: 160px;
     text-align: center;
 }
+
+@media screen and (max-width: 1200px) {
+
+.main-menu > li {
+width: 120px;
+}
+}
+
+
 .main-menu > li.hide {
     display: none;
 }
