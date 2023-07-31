@@ -720,7 +720,7 @@ ul.off-canvas-list > li.current > a, ul.off-canvas-list > li.active-class > a {
   .hero {height: 60svh;height: 60vh;background: url(https://ik.imagekit.io/webtactics/jamestaylor/Bathurst-Court-House-Russel-Street-View_JBiEQbALZ.jpg?tr=w-900,h-600) no-repeat center center;width:100%; background-size:cover;position: relative;}
 }
 @media (max-width: 500px) {
-  .hero {height: 30svh;height: 30vh;background: url(https://ik.imagekit.io/webtactics/jamestaylor/Bathurst-Court-House-Russel-Street-View_JBiEQbALZ.jpg?tr=w-400,h-300) no-repeat center center;width:100%; background-size:cover;position: relative;}
+  .hero {height: 30svh;height: 30vh;background: url(https://ik.imagekit.io/webtactics/jamestaylor/Bathurst-Court-House-Russel-Street-View_JBiEQbALZ.jpg?tr=w-400,h-200) no-repeat center center;width:100%; background-size:cover;position: relative;}
 }
 
 
