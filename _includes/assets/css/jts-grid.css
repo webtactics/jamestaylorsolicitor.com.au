@@ -923,6 +923,17 @@ grid-template-columns: 2fr 1fr;}
   max-width: 400px;
   padding: 0 0 1rem 1rem;
 }
+
+@media (max-width: 500px) {
+
+  .imageright {
+    float: none;
+    max-width: 100%;
+    padding: 0 0 1rem 1rem;
+    text-align: center;
+  }
+}
+
 figure {
   margin: 0;
 }
