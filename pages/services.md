@@ -12,38 +12,38 @@ eleventyNavigation:
 
 
 
-<div class="entry-content">
 
-<h2>Below are some of the criminal Law matters James Taylor Bathurst Solicitor have acted in:</h2>
-<ul>
-<li>Sexual Assault Offences.</li>
-<li>Assault Offences – Common, assault occasion actual bodily harm, reckless wound and others.</li>
-<li>Apprehended Violence Orders– Personal and Domestic.</li>
-<li>Centrelink Offences and Centrelink Fraud.</li>
-<li>Drug Offences – Possess, supply and others</li>
-<li>Fraud Offences.</li>
-<li>Driving Manner Dangerous</li>
-<li>Driving Manner Dangerous Causing Grievous Bodily Harm/Death.</li>
-<li>Negligent Driving Causing Grievous Bodily Harm/Death.</li>
-<li>Robbery Offences – Armed/On person, Break and Enter.</li>
-<li>Stealing</li>
-<li>Affray and Riot Offences.</li>
-<li>Resist Arrest, Assault Police, Recklessly/Intentionally Destroy Property.</li>
-<li>Attempted Murder/ Murder.</li>
-<li>Firearms Offences – unlicensed, fail to store safely, supply, possess prohibited weapons</li>
-</ul>
-<h2>Below are some of the most recent Criminal cases James Taylor Bathurst Solicitor have acted in:</h2>
-<ul>
-<li>Supply Firearms/Prohibited Weapons – District Court at Bathurst and Sydney</li>
-<li>Supply Prohibited Drug – District Court at Bathurst and Parramatta.</li>
-<li>Sexual Assault- Local Court and District Court at Bathurst.</li>
-<li>Reckless Wound- Local Court at Bathurst.</li>
-<li>Appeal-Court of Criminal Appeal-Supreme Court Sydney</li>
-<li>Centrelink Fraud-District Court at Bathurst.</li>
-<li>Drive Manner Dangerous Causing Death-District Court at Sydney.</li>
-<li>Affray/Assault Occasioning Actual Bodily Harm- Local Court at Bathurst.</li>
-<li>Break and Enter Dwelling-District Court at Bathurst</li>
-<li>Steal Motor Vehicle-Local Court at Bathurst</li>
-<li>Rebirthing of motor vehicles-District Court at Sydney</li>
-</ul>
-</div>
+
+**Below are some of the criminal Law matters James Taylor Bathurst Solicitor have acted in:**
+
+- Sexual Assault Offences.
+- Assault Offences – Common, assault occasion actual bodily harm, reckless wound and others.
+- Apprehended Violence Orders– Personal and Domestic.
+- Centrelink Offences and Centrelink Fraud.
+- Drug Offences – Possess, supply and others
+- Fraud Offences.
+- Driving Manner Dangerous
+- Driving Manner Dangerous Causing Grievous Bodily Harm/Death.
+- Negligent Driving Causing Grievous Bodily Harm/Death.
+- Robbery Offences – Armed/On person, Break and Enter.
+- Stealing
+- Affray and Riot Offences.
+- Resist Arrest, Assault Police, Recklessly/Intentionally Destroy Property.
+- Attempted Murder/ Murder.
+- Firearms Offences – unlicensed, fail to store safely, supply, possess prohibited weapons
+
+**Below are some of the most recent Criminal cases James Taylor Bathurst Solicitor have acted in:**
+
+- Supply Firearms/Prohibited Weapons – District Court at Bathurst and Sydney
+- Supply Prohibited Drug – District Court at Bathurst and Parramatta.
+- Sexual Assault- Local Court and District Court at Bathurst.
+- Reckless Wound- Local Court at Bathurst.
+- Appeal-Court of Criminal Appeal-Supreme Court Sydney
+- Centrelink Fraud-District Court at Bathurst.
+- Drive Manner Dangerous Causing Death-District Court at Sydney.
+- Affray/Assault Occasioning Actual Bodily Harm- Local Court at Bathurst.
+- Break and Enter Dwelling-District Court at Bathurst
+- Steal Motor Vehicle-Local Court at Bathurst
+- Rebirthing of motor vehicles-District Court at Sydney
+
+
