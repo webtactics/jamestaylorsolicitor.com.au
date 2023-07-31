@@ -761,11 +761,22 @@ align-content: center;}
     background-color: var(--white);
     min-height: 400px;
     }
+
+   .home.internal .content {
+      margin: -20vh auto 0 auto;
+      background-color: var(--white);
+      min-height: 400px;
+      }
     @media (max-width: 1279px) {
      .internal .content {
         margin: 0 auto;
         min-height: 400px;
         }
+
+        .home.internal .content {
+          margin: -20vh auto 0 auto;
+        
+          }
       }
   
   
