@@ -14,7 +14,7 @@ eleventyNavigation:
 
 <div class="entry-content">
 <p style="text-align: justify;"><em>“Being contacted by the police about a criminal offence, attending the police station, receiving court attendance notices for criminal and driving offences or any other involvement in traffic matters can be a concerning and worrying experience. From my past experience in representing clients in criminal and driving offences I understand client’s concerns and what is at stake and most importantly what needs to be done to provide clients with the best possible representation. I pride myself and take great satisfaction from making sure that my clients obtain the best possible results in all matters”</em></p>
-<figure class="imageright"><img title="James Taylor Bathurst Solicitor" src="../img/james-taylor-linkedin.jpg" alt="James Taylor Bathurst Solicitor">
+<figure class="imageright"><img title="James Taylor Bathurst Solicitor" src="../img/james-taylor-linkedin.jpg" alt="James Taylor Bathurst Solicitor" >
 <figcaption>James Taylor Bathurst Solicitor</figcaption>
 </figure>
 <p style="text-align: justify;">James Taylor has 20 years’ experience in criminal and traffic matters. He has represented hundreds of clients charged with very serious and minor criminal and traffic matters in the Children’s Court, Local Court, District Court and Supreme Court of New South Wales.</p>
