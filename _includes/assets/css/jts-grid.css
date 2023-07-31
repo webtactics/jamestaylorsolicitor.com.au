@@ -926,6 +926,14 @@ grid-template-columns: 2fr 1fr;}
 figure {
   margin: 0 0 1rem;
 }
+
+figcaption {
+  font-size: 80%;
+  line-height: 120%;
+  color: var(--white);
+  background: var(--black);
+  padding: 0.5rem 0;
+}
 .scrollToTop {
   display: block;
   display: none;
