@@ -918,6 +918,14 @@ grid-template-columns: 2fr 1fr;}
 
 .right {float:right;text-align:right;}
 
+.imageright {
+  float: right;
+  max-width: 400px;
+  padding: 0 0 0.5rem 1rem;
+}
+figure {
+  margin: 0 0 1rem;
+}
 .scrollToTop {
   display: block;
   display: none;
