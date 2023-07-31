@@ -93,7 +93,7 @@ module.exports = (eleventyConfig) => {
   eleventyConfig.addPassthroughCopy("site.webmanifest");
   eleventyConfig.addPassthroughCopy({ static: "/" });
   eleventyConfig.addPassthroughCopy("admin/");
-  eleventyConfig.addPassthroughCopy("_redirect.txt");
+  eleventyConfig.addPassthroughCopy("_redirects.txt");
   // We additionally output a copy of our CSS for use in Netlify CMS previews
   eleventyConfig.addPassthroughCopy("_includes/assets/css/jts-grid.css");
     // We additionally output a copy of our js for use in Netlify CMS previews
