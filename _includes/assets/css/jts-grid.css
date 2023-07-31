@@ -444,8 +444,8 @@ button.close-nav {
   text-decoration:none;
 }
 button.close-nav:hover, button.close-nav:focus, .button.close-nav:hover, .button.close-nav:focus {
-  background-color: var(--primary);
-  color: var(--black);
+  background-color: var(--black);
+  color: var(--white);
   border-width: 0.1rem;
   border-color: var(--white);
 }
