@@ -759,7 +759,7 @@ align-content: center;}
   .internal .content {
     margin: -40vh auto 0 auto;
     background-color: var(--white);
-    min-height: 800px;
+    min-height: 400px;
     }
     @media (max-width: 1279px) {
      .internal .content {
