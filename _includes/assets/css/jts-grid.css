@@ -834,9 +834,9 @@ grid-template-columns: 2fr 1fr;}
   .imageright {
     float: none;
     max-width: 100%;
-    padding: 0 0 1rem 1rem;
+    padding: 0;
     text-align: center;
-  }
+    margin:0 auto;}
   .imageright img {margin:0 auto;}
 }
 
