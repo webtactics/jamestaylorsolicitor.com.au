@@ -1,6 +1,3 @@
-
-
-
 :root {
 	--primary: hsla(211,50%,53%,1);
   --primarylight: hsla(211,50%,53%,0.6);
@@ -11,6 +8,7 @@
   --white80: hsla(0,0%,100%,0.8);
 	--background: #FFF0EB;
 	--red: #D90000;
+  --text: #333;
   --black: hsla(0,0%,0%,1);
   --black40: hsla(0,0%,0%,0.4);
   --black80: hsla(0,0%,0%,0.8);
@@ -119,11 +117,7 @@ h1.heading-text {
   font-size: 1.9375rem;
 }
 
-.pricelistsum h3 {
-line-height: 1.1;
-margin: 0;
-font-size: 1.2rem;
-}
+
 .h4, h4 {
   font-size: 1.5625rem;
 }
@@ -131,8 +125,10 @@ font-size: 1.2rem;
 p {font-family: 'Open Sans', sans-serif;
 font-style: normal;
   font-weight: normal;
-  color: #333333;
-  text-rendering: optimizeLegibility;}
+  color: var(--text);
+  text-rendering: optimizeLegibility;
+font-size: 1rem;
+line-height: 1.5rem;}
 
 .container {background: white; }
   .content-title { background: #ebebeb; display: flex;
@@ -699,37 +695,6 @@ ul.off-canvas-list > li.current > a, ul.off-canvas-list > li.active-class > a {
 
 
 
-
-.homebooklogo {
-  position: absolute;
-  z-index: 2;
-  top: 22vh;
-  height: 130px;
-  width: 100%;
-  text-align: center;
-  display: flex;
-align-items: center;
-justify-content: center;
-align-content: center;
-}
-.homebooklogo img { 
-text-align: center;
-display: flex;
-align-items: center;
-justify-content: center;
-align-content: center;}
-.homebookingbutton {
-  position: absolute;
-  z-index: 2;
-  top: 50vh;
-  height: 100px;
-  width: 100%;
-  text-align: center;
-}
-
-
-
-
 .herohome {height: 100svh;height: 100vh;background: url(https://ik.imagekit.io/webtactics/jamestaylor/Bathurst-Court-House-Russel-Street-View_JBiEQbALZ.jpg?tr=w-1200,h-800) no-repeat center center;width:100%; background-size:cover;position: relative;}
 
   @media (max-width: 1279px) {
@@ -861,69 +826,6 @@ grid-template-columns: 2fr 1fr;}
 .grid-detailpage-sidebar-summary {
   grid-template-columns: 1fr 3fr;}
 
-.CGBlogSummaryField {position:relative;text-align:center}
-
-.CGBlogSummaryField a {padding:0;border:none;}
-
-.CGBlogSummaryField img{width:100%}
-
-.CGBlogSummaryField .image-overlay{position:absolute;top:0;left:0;width:100%;height:100%;background-color:rgba(0,0,0,.3);-webkit-transition:all .2s;-moz-transition:all .2s;-ms-transition:all .2s;-o-transition:all .2s;transition:all .2s;opacity:0;overflow:hidden}
-
-.CGBlogSummaryField:hover .image-overlay{opacity:1;background-color:rgba(0,0,0,.3);}
-
-.CGBlogSummaryField .image-overlay .overlay-icon{width:70px;height:70px;display:block;border-radius:50%;margin:-70px auto 0;opacity:0;-webkit-transition:all .2s;-moz-transition:all .2s;-ms-transition:all .2s;-o-transition:all .2s;transition:all .2s}
-.CGBlogSummaryField:hover .image-overlay .overlay-icon{opacity:1;margin:70px auto 0}.CGBlogSummaryField .image-overlay .overlay-icon img{width:70px;height:70px}
-
-.NewsSummaryLinkHome {padding:0.5rem 0 0 0;}
-.NewsSummaryPrice {font-size:0.85rem;color:var(--green);padding:0.5rem 0;}
-.NewsSummarySummaryHome {color:rgba(129,129,129,1.00);padding:0.5rem 0;min-height:150px;font-size:1rem;}
-.newssumbutton {margin:-2rem 0 0 0;}
-
-.NewsSummaryHome {
-  margin: 0 0 1.8750rem 0;
-   padding: 0.75rem;
-   background-color: var(--white);
-   border: 1px solid rgba(0,102,0,0.30);
-}
-.NewsSummaryHome:hover {
-   box-shadow: 0 2px 8px #CFCFCF;
-   -webkit-transition: box-shadow 0.2s ease-in-out;
-   -moz-transition: box-shadow 0.2s ease-in-out;
-   -o-transition: box-shadow 0.2s ease-in-out;
-   transition: box-shadow 0.2s ease-in-out;
-   border: 1px solid rgba(0,102,0,0.60);
-}
-.NewsSummaryHome h2 {font-size: 1.4rem;line-height: 1.2;font-weight:bold;}
-.NewsSummaryHome h2 a {border:none;}
-.NewsSummaryHome h2 a:hover {border:none;}
-
-
-
-.NewsSummaryHome h3 {font-size: 1.2rem;line-height: 1.2;}
-.NewsSummaryHome h3 a {border-bottom:1px dotted rgba(0,102,0,0.30);}
-.NewsSummaryHome h3 a:hover {border-bottom:1px solid #000000;}
-
-
-.detailcontent {
-  text-align: justify;
-  margin: 1rem 0 2rem 0;
-}
-.NewsSummaryPrice.detail {
-  font-size: 0.85rem;
-  color: var(--green);
-  padding: 0.5rem 0;
-  margin: 0 0 2rem 0;
-}
-
-.detailpagesummary {
-  border-bottom: 2px solid var(--primary);
-  margin-top: 1rem;
-}
-.detailpagesummaryborder {
-  border-bottom: 2px solid var(--primary);
-  margin-top: 1rem;
-}
-.pricesumpic {margin:0 0 1rem 0;}
 
 .right {float:right;text-align:right;}
 
