@@ -936,9 +936,7 @@ grid-template-columns: 2fr 1fr;}
 @media (max-width: 500px) {
 
   .imageright {
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    float: none;
     max-width: 100%;
     padding: 0 0 1rem 1rem;
     text-align: center;
