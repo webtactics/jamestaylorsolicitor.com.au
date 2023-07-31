@@ -941,6 +941,7 @@ grid-template-columns: 2fr 1fr;}
     padding: 0 0 1rem 1rem;
     text-align: center;
   }
+  .imageright img {margin:0 auto;}
 }
 
 figure {
