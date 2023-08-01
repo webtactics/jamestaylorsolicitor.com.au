@@ -136,16 +136,16 @@ line-height: 1.5rem;}
         justify-content: center;}
 
         .caption-text {
-          color: var(--primary);
+          color: var(--white);
           margin-top: 0;
           position: absolute;
-          top: 30vh;
-          right: 15vw;
-          max-width: 60vw;
+          top: -100px;
+          right: 0;
+          max-width: 80vw;
           display: flex;
         }
         .caption-text h1 span {
-          background-color: var(--white);
+          background-color: var(--black40);
           padding: 1rem;
         }
         .headerwrapper {
