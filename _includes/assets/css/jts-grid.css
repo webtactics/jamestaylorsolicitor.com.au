@@ -701,7 +701,7 @@ ul.off-canvas-list > li.current > a, ul.off-canvas-list > li.active-class > a {
 
 
 
-.herohome {height: 100svh;height: 100vh;background: url(https://ik.imagekit.io/webtactics/jamestaylorsolicitor/img/Bathurst-Court-House-Russel-Street-1600x900.jpg) no-repeat center center;width:100%; background-size:cover;position: relative;}
+.home .hero{height: 100svh;height: 100vh;background: url(https://ik.imagekit.io/webtactics/jamestaylorsolicitor/img/Bathurst-Court-House-Russel-Street-1600x900.jpg) no-repeat center center;width:100%; background-size:cover;position: relative;}
 
   @media (max-width: 1279px) {
     .home .hero  {height: 60svh;height: 60vh;background: url(https://ik.imagekit.io/webtactics/jamestaylorsolicitor/img/Bathurst-Court-House-Russel-Street-900x600.jpg) no-repeat center center;width:100%; background-size:cover;position: relative;}
@@ -711,14 +711,9 @@ ul.off-canvas-list > li.current > a, ul.off-canvas-list > li.active-class > a {
   }
 
 
-.hero {height: 100svh;height: 100vh;background: url(https://ik.imagekit.io/webtactics/jamestaylorsolicitor/img/Bathurst-Court-House-Russel-Street-1600x900.jpg) no-repeat center center;width:100%; background-size:cover;position: relative;}
+.hero {height: 400px;background: url(https://ik.imagekit.io/webtactics/jamestaylorsolicitor/img/james-taylor-solicitor.jpg) no-repeat center center;width:100%; background-size:cover;position: relative;}
 
-@media (max-width: 1279px) {
-  .hero {height: 60svh;height: 60vh;background: url(https://ik.imagekit.io/webtactics/jamestaylorsolicitor/img/Bathurst-Court-House-Russel-Street-900x600.jpg) no-repeat center center;width:100%; background-size:cover;position: relative;}
-}
-@media (max-width: 500px) {
-  .hero {height: 30svh;height: 30vh;background: url(https://ik.imagekit.io/webtactics/jamestaylorsolicitor/img/Bathurst-Court-House-Russel-Street-400x200.jpg) no-repeat center center;width:100%; background-size:cover;position: relative;}
-}
+
 
 
 
