@@ -782,16 +782,8 @@ ul.off-canvas-list > li.current > a, ul.off-canvas-list > li.active-class > a {
   }
   
 
-  .footernav {
-  margin: 0 auto;
-  padding: 0 1rem;
-  z-index: 2;
-  max-width: 1280px;
 
-  }
-  .footernavwrapper {
-    background-color: var(--black);
-  }
+
 
 
    .home .content {
@@ -808,7 +800,15 @@ ul.off-canvas-list > li.current > a, ul.off-canvas-list > li.active-class > a {
      
       }
   
-  
+      .footernavwrapper {
+        background-color: var(--black);
+      }
+        .footernav {
+        margin: 0 auto;
+        padding: 0 1rem;
+        z-index: 2;
+        max-width: 1280px;
+        }
   
 
 
