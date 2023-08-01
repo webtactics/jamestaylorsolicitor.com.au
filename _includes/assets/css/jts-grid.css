@@ -777,7 +777,7 @@ ul.off-canvas-list > li.current > a, ul.off-canvas-list > li.active-class > a {
     .home .hero  {height: 60svh;height: 60vh;background: url(https://ik.imagekit.io/webtactics/jamestaylorsolicitor/img/Bathurst-Court-House-Russel-Street-900x600.jpg) no-repeat center center;width:100%; background-size:cover;position: relative;}
   }
   @media (max-width: 500px) {
-    .home .hero  {height: 50svh;height: 50vh;background: url(https://ik.imagekit.io/webtactics/jamestaylorsolicitor/img/Bathurst-Court-House-Russel-Street-400x200.jpg) no-repeat center center;width:100%; background-size:cover;position: relative;}
+    .home .hero  {height: 50svh;height: 50vh;background: url(https://ik.imagekit.io/webtactics/jamestaylorsolicitor/img/Bathurst-Court-House-Russel-Street-900x600.jpg) no-repeat center center;width:100%; background-size:cover;position: relative;}
   }
 
 
