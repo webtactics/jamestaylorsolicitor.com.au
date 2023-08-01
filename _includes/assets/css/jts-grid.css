@@ -134,7 +134,20 @@ line-height: 1.5rem;}
   .content-title { background: #ebebeb; display: flex;
         align-items: center;
         justify-content: center;}
-     
+
+        .caption-text {
+          color: var(--primary);
+          margin-top: 0;
+          position: absolute;
+          top: 30vh;
+          right: 15vw;
+          max-width: 60vw;
+          display: flex;
+        }
+        .caption-text h1 span {
+          background-color: var(--white);
+          padding: 1rem;
+        }
         .headerwrapper {
           display: grid;
           grid-template-columns: 120px 1fr;

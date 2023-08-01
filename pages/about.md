@@ -42,5 +42,3 @@ James’ vast experience means that you will receive the best possible advice an
 If you need an experienced lawyer to act for you in a criminal or traffic matter you can be satisfied that James Taylor will represent you diligently and conscientiously. 
 
 More than 30 years’ experience in these areas has given James a thorough knowledge and understanding of the relevant legislation and the environment within which the criminal justice system operates.
-
-
