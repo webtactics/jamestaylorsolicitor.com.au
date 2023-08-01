@@ -730,19 +730,24 @@ ul.off-canvas-list > li.current > a, ul.off-canvas-list > li.active-class > a {
   background-color: var(--white);
   }
   
-  .internal .content {
-    margin: 4rem auto;
-    background-color: var(--white);
-    min-height: 400px;
-    }
 
-   .home.internal .content {
+  .footernav {
+  margin: 0 auto;
+  padding: 1rem 1rem 3rem;
+  z-index: 2;
+  max-width: 1280px;
+  background-color: var(--white);
+  }
+
+
+
+   .home .content {
       margin: -20vh auto 0 auto;
       background-color: var(--white);
       min-height: 400px;
       }
     @media (max-width: 1279px) {
-     .internal .content, .home.internal .content {
+    .home .content {
         margin: 0 auto;
         min-height: 400px;
         }
