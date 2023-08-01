@@ -596,7 +596,15 @@ background-color: transparent;
   -o-transition: all 0.6s;
   transition: all 0.6s;
 }
+.footer-menu > li {
 
+  padding: 0 1rem;
+  margin: 0;
+  border: none;
+  position: relative;
+  left: 0;
+  text-align: center;
+}
 .footer-menu > li > a {
   line-height: 38px;
   -webkit-transition: all 0.6s;
