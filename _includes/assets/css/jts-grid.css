@@ -658,10 +658,10 @@ ul.footer-menu li {
   .footer-menu > li {
     width: 70px;
     text-align: left;
-    font-size: 0.75rem;
+    font-size: 1rem;
   }
   .footer-menu > li > a {
-    padding: 0.5rem ;
+    padding: 0.5rem;
   }
 }
 
