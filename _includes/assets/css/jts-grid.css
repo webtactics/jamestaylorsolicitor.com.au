@@ -827,10 +827,10 @@ grid-template-columns: 2fr 1fr;}
 
   .footer-menu {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(min(120px, 100%), 1fr));
+    grid-template-columns: repeat(auto-fill, minmax(min(120px, 160px), 1fr));
     grid-template-rows: 1fr;
-    grid-column-gap: 0px;
-    grid-row-gap: 2rem;
+    grid-column-gap: 0;
+    grid-row-gap: 0;
     }
     
     
