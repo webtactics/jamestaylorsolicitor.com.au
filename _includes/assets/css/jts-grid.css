@@ -734,7 +734,7 @@ ul.off-canvas-list > li.current > a, ul.off-canvas-list > li.active-class > a {
   }
   
   .internal .content {
-    margin: -40vh auto 0 auto;
+    margin: 2rem auto;
     background-color: var(--white);
     min-height: 400px;
     }
