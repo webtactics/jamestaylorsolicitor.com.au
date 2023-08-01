@@ -1,7 +1,7 @@
 ---
 layout: layouts/default.njk
-title: "Legal Services we provide: James Taylor Bathurst Solicitor – Criminal and Family Law Lawyer"
-description: James Taylor Bathurst Solicitor – Criminal and Family Law Lawyer offering specialist advice and or representation in Criminal and Family Law matters and services in all areas of law including Conveyancing, Wills Probate and Administration.
+title: "Criminal and Family Law Legal Services we provide"
+description: James Taylor Bathurst Solicitor is a Criminal and Family Law Lawyer offering specialist advice and representation in Criminal and Family Law matters and services in all areas of law including Conveyancing, Wills Probate and Administration.
 class: services
 section: services
 date: 2023-07-20
