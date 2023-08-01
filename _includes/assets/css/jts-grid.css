@@ -644,7 +644,7 @@ ul.footer-menu li {
   -o-transition: all 0.6s;
   transition: all 0.6s;
   border:none;
-  background-color: transparent;
+  background-color: var(--primary);
 }
 
 .menusocial > li {
