@@ -7,7 +7,9 @@
 <body class=" {{ class }} internal" >
 {% include "components/header.njk" %}
   {% include "components/off-canvas.njk" %}
-  {% block hero %}{% endblock %}
+  {% block hero %}
+  {% include "components/hero.njk" %}
+  {% endblock %}
 
 <div class="container">
    
