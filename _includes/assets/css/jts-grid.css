@@ -770,7 +770,7 @@ ul.off-canvas-list > li.current > a, ul.off-canvas-list > li.active-class > a {
 
   .contact .hero {height: 400px;background: url(https://ik.imagekit.io/webtactics/jamestaylorsolicitor/img/james-taylor-solicitor-contact.jpg) no-repeat center center;width:100%; background-size:cover;position: relative;background-color: var(--black);}
 
-.home .hero{height: 100svh;height: 100vh;background: url(https://ik.imagekit.io/webtactics/jamestaylorsolicitor/img/Bathurst-Court-House-Russel-Street-view-1600x900.jpg) no-repeat center center;width:100%; background-size:cover;position: relative;background-color: var(--black);}
+.home .hero{height: 100svh;height: 100vh;background: url(https://ik.imagekit.io/webtactics/jamestaylorsolicitor/img/bathurst-courthouse-1600x900.jpg) no-repeat center center;width:100%; background-size:cover;position: relative;background-color: var(--black);}
 
   @media (max-width: 1279px) {
     .home .hero  {height: 60svh;height: 60vh;background: url(https://ik.imagekit.io/webtactics/jamestaylorsolicitor/img/bathurst-courthouse-1600x900.jpg) no-repeat center center;width:100%; background-size:cover;position: relative;}
