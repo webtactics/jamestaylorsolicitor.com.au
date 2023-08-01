@@ -699,7 +699,9 @@ ul.off-canvas-list > li.current > a, ul.off-canvas-list > li.active-class > a {
   color: var(--white);
   background-color: var(--primary); font-weight: bold;}
 
+  .hero {height: 400px;background: url(https://ik.imagekit.io/webtactics/jamestaylorsolicitor/img/james-taylor-solicitor-services.jpg) no-repeat center center;width:100%; background-size:cover;position: relative;background-color: var(--black);}
 
+  .contact .hero {height: 400px;background: url(https://ik.imagekit.io/webtactics/jamestaylorsolicitor/img/james-taylor-solicitor-contact.jpg) no-repeat center center;width:100%; background-size:cover;position: relative;}
 
 .home .hero{height: 100svh;height: 100vh;background: url(https://ik.imagekit.io/webtactics/jamestaylorsolicitor/img/Bathurst-Court-House-Russel-Street-1600x900.jpg) no-repeat center center;width:100%; background-size:cover;position: relative;}
 
@@ -711,9 +713,7 @@ ul.off-canvas-list > li.current > a, ul.off-canvas-list > li.active-class > a {
   }
 
 
-.hero {height: 400px;background: url(https://ik.imagekit.io/webtactics/jamestaylorsolicitor/img/james-taylor-solicitor-services.jpg) no-repeat center center;width:100%; background-size:cover;position: relative;}
 
-.contact .hero {height: 400px;background: url(https://ik.imagekit.io/webtactics/jamestaylorsolicitor/img/james-taylor-solicitor-contact.jpg) no-repeat center center;width:100%; background-size:cover;position: relative;}
 
 
 
