@@ -602,7 +602,7 @@ ul.footer-menu li {
 }
 .footer-menu > li {
   display: inline-block;
-  padding: 0 1rem;
+  padding:0
   margin: 0;
   border: none;
   position: relative;
@@ -621,6 +621,7 @@ ul.footer-menu li {
   color: var(--primary);
   border:none;
   background-color: transparent;
+  padding: 0 1rem;
 }
 
 .footer-menu > li > a:hover {
@@ -633,6 +634,7 @@ ul.footer-menu li {
   color: var(--white);
   border:none;
   background-color: transparent;
+  padding: 0 1rem;
  
 
 }
@@ -645,6 +647,7 @@ ul.footer-menu li {
   transition: all 0.6s;
   border:none;
   background-color: var(--primary);
+  padding: 0 1rem;
 }
 
 .menusocial > li {
