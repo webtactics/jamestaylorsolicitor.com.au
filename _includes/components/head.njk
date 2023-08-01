@@ -15,7 +15,7 @@
 <meta property="og:title" content="{{ title or metadata.title }}" />
 <meta property="og:description" content="{{ description or metadata.description or eleventyComputed.description }}" />
 <meta property="og:image" content="{{ image or metadata.image or eleventyComputed.image }}" />
-<meta property="og:url" content="https://jamestaylorsolicitor.com.au/{{ page.url or post.url or permalink }}" />
+<meta property="og:url" content="https://jamestaylorsolicitor.com.au{{ page.url or post.url or permalink }}" />
 
 
 {% set css %}
