@@ -20,7 +20,7 @@ James Tatlor has been a practicing solicitor for more than 30 years.
 
 *I pride myself and take great satisfaction from making sure that my clients obtain the best possible results in all matters”*
 
-**James Taylor Bathurst Solicitor can be contacted on his mobile [0400 316 661](tel:+61400316661) for any urgent matters.** 
+**James Taylor Bathurst Solicitor can be contacted on his mobile <a title="Call James Taylor Bathurst Solicitor" alt="Call James Taylor Bathurst Solicitor" href="tel:+61400316661">0400 316 661</a> for any urgent matters.** 
 
 ### First Consultations with clients are free. ###
 
