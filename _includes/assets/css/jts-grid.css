@@ -801,7 +801,7 @@ ul.off-canvas-list > li.current > a, ul.off-canvas-list > li.active-class > a {
       }
   
       .footernavwrapper {
-        background-color: var(--black);
+        background-color: var(--black);min-height:38px;
       }
         .footernav {
         margin: 0 auto;
