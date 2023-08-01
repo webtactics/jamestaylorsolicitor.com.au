@@ -598,10 +598,10 @@ background-color: transparent;
 }
 
 ul.footer-menu li {
-  float: left;
+  float: left;font-size: 1rem;
 }
 .footer-menu > li {
-  display: block;
+  display: inline-block;
   padding:0;
   margin: 0;
   border: none;
@@ -612,8 +612,9 @@ ul.footer-menu li {
 }
 
 .footer-menu > li > a {
-  height:38px;
-  line-height: 38px;
+  padding: 0.5rem 1rem;
+  height:36px;
+  line-height: 36px;
   -webkit-transition: all 0.6s;
   -moz-transition: all 0.6s;
   -ms-transition: all 0.6s;
@@ -622,12 +623,11 @@ ul.footer-menu li {
   color: var(--primary);
   border:none;
   background-color: transparent;
-  padding: 0 1rem;
+ 
 }
 
 .footer-menu > li > a:hover {
-  height:38px;
-  line-height: 38px;
+  
   -webkit-transition: all 0.6s;
   -moz-transition: all 0.6s;
   -ms-transition: all 0.6s;
@@ -636,7 +636,9 @@ ul.footer-menu li {
   color: var(--white);
   border:none;
   background-color: transparent;
-  padding: 0 1rem;
+  padding: 0.5rem 1rem;
+  height:36px;
+  line-height: 36px;
  
 
 }
@@ -649,9 +651,9 @@ ul.footer-menu li {
   transition: all 0.6s;
   border:none;
   background-color: var(--primary);
-  padding: 0 1rem;
-  height:38px;
-  line-height: 38px;
+  padding: 0.5rem 1rem;
+  height:36px;
+  line-height: 36px;
 }
 
 .footer-menu li.active-class  a {
@@ -663,9 +665,9 @@ ul.footer-menu li {
   transition: all 0.6s;
   border:none;
   background-color: var(--primary);
-  padding: 0 1rem;
-  height:38px;
-  line-height: 38px;
+  padding: 0.5rem 1rem;
+  height:36px;
+  line-height: 36px;
 }
 
 .menusocial > li {
@@ -820,7 +822,7 @@ ul.off-canvas-list > li.current > a, ul.off-canvas-list > li.active-class > a {
       }
   
       .footernavwrapper {
-        background-color: var(--black);height:38px;
+        background-color: var(--black);height:36px;
       }
         .footernav {
         margin: 0 auto;
