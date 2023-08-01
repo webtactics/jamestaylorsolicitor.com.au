@@ -1,7 +1,7 @@
 ---
-layout: layouts/default.njk
+layout: layouts/home.njk
 title: Get in touch with James Taylor Bathurst Solicitor
-class: contact
+class: home
 description: 
 section: contact
 date: 2023-07-20
