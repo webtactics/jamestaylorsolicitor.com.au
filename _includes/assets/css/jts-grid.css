@@ -654,6 +654,20 @@ ul.footer-menu li {
   line-height: 38px;
 }
 
+.footer-menu li.active-class  a {
+  color: var(--white);
+  -webkit-transition: all 0.6s;
+  -moz-transition: all 0.6s;
+  -ms-transition: all 0.6s;
+  -o-transition: all 0.6s;
+  transition: all 0.6s;
+  border:none;
+  background-color: var(--primary);
+  padding: 0 1rem;
+  height:38px;
+  line-height: 38px;
+}
+
 .menusocial > li {
     display: inline-block;
     padding: 0;
