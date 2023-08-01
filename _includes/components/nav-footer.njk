@@ -4,14 +4,14 @@
 <li{% if entry.url == page.url %} class="active-class"{% endif %}>
   <a href="{{ entry.url }}">{{ entry.title }}</a>
 {%- if entry.children.length -%}
-<ul class="main-menu">
+<ul class="footer-menu">
     {%- for child in entry.children %}{{ renderNavListItem(child) }}{% endfor -%}
   </ul>
 {%- endif -%}
 </li>
 {%- endmacro %}
 
-<ul class="main-menu">
+<ul class="footer-menu">
 {%- for entry in navPages %}{{ renderNavListItem(entry) }}{%- endfor -%}
 </ul>
 </nav>
