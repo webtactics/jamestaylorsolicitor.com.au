@@ -613,6 +613,7 @@ background-color: transparent;
   -o-transition: all 0.6s;
   transition: all 0.6s;
   border-bottom: 6px solid transparent;
+  width: 100%;
 }
 
 .footer-menu > li > a:hover {
