@@ -612,6 +612,7 @@ ul.footer-menu li {
 }
 
 .footer-menu > li > a {
+  height:38px;
   line-height: 38px;
   -webkit-transition: all 0.6s;
   -moz-transition: all 0.6s;
@@ -625,6 +626,7 @@ ul.footer-menu li {
 }
 
 .footer-menu > li > a:hover {
+  height:38px;
   line-height: 38px;
   -webkit-transition: all 0.6s;
   -moz-transition: all 0.6s;
@@ -648,6 +650,8 @@ ul.footer-menu li {
   border:none;
   background-color: var(--primary);
   padding: 0 1rem;
+  height:38px;
+  line-height: 38px;
 }
 
 .menusocial > li {
