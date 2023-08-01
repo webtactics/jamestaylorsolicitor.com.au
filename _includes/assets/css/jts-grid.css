@@ -598,7 +598,7 @@ background-color: transparent;
 }
 
 ul.footer-menu li {
-  float: left;font-size: 1rem;
+  float: left;
 }
 .footer-menu > li {
   display: inline-block;
@@ -609,12 +609,9 @@ ul.footer-menu li {
   left: 0;
   width: 120px;
   text-align: left;
+  font-size: 1rem;
 }
-@media (max-width: 767px) {
-  .footer-menu > li {
-    width: 100%;
-  }
-}
+
 .footer-menu > li > a {
   padding: 0.5rem 1rem;
   height:36px;
@@ -631,7 +628,6 @@ ul.footer-menu li {
 }
 
 .footer-menu > li > a:hover {
-  
   -webkit-transition: all 0.6s;
   -moz-transition: all 0.6s;
   -ms-transition: all 0.6s;
@@ -640,9 +636,7 @@ ul.footer-menu li {
   color: var(--white);
   border:none;
   background-color: transparent;
-  padding: 0.5rem 1rem;
-  height:36px;
-  line-height: 36px;
+
  
 
 }
@@ -655,24 +649,22 @@ ul.footer-menu li {
   transition: all 0.6s;
   border:none;
   background-color: var(--primary);
-  padding: 0.5rem 1rem;
-  height:36px;
-  line-height: 36px;
+
 }
 
-.footer-menu li.active-class  a {
-  color: var(--white);
-  -webkit-transition: all 0.6s;
-  -moz-transition: all 0.6s;
-  -ms-transition: all 0.6s;
-  -o-transition: all 0.6s;
-  transition: all 0.6s;
-  border:none;
-  background-color: var(--primary);
-  padding: 0.5rem 1rem;
-  height:36px;
-  line-height: 36px;
+
+
+@media (max-width: 767px) {
+  .footer-menu > li {
+    width: 70px;
+    text-align: left;
+    font-size: 0.75rem;
+  }
+  .footer-menu > li > a {
+    padding: 0.5rem ;
+  }
 }
+
 
 .menusocial > li {
     display: inline-block;
