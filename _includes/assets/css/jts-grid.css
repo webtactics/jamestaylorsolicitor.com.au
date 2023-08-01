@@ -602,7 +602,7 @@ ul.footer-menu li {
 }
 .footer-menu > li {
   display: inline-block;
-   padding: 0.5rem 1rem;
+  padding:0;
   margin: 0;
   border: none;
   position: relative;
@@ -624,6 +624,7 @@ ul.footer-menu li {
   color: var(--primary);
   border:none;
   background-color: transparent;
+  width: 120px;
  
 }
 
