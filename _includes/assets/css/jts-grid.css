@@ -602,7 +602,7 @@ ul.footer-menu li {
 }
 .footer-menu > li {
   display: inline-block;
-  padding:0;
+   padding: 0.5rem 1rem;
   margin: 0;
   border: none;
   position: relative;
