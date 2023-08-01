@@ -657,7 +657,7 @@ ul.footer-menu li {
 @media (max-width: 767px) {
   .footer-menu > li {
     width: 70px;
-    text-align: left;
+    text-align: center;
     font-size: 1rem;
   }
   .footer-menu > li > a {
