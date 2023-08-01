@@ -736,9 +736,11 @@ ul.off-canvas-list > li.current > a, ul.off-canvas-list > li.active-class > a {
   padding: 1rem 1rem 3rem;
   z-index: 2;
   max-width: 1280px;
-  background-color: var(--black);
-  }
 
+  }
+  .footernavwrapper {
+    background-color: var(--black);
+  }
 
 
    .home .content {
