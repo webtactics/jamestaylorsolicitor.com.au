@@ -482,7 +482,7 @@ transition: all 0.6s;
 
 
 
-ul, ul.menusocial, ul.main-menu {
+ul, ul.menusocial, ul.main-menu, ul.footer-menu {
   list-style: none;
   margin: 0;
   margin-block-start: 0;
