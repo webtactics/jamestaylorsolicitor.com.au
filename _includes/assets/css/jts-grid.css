@@ -90,15 +90,7 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6 {
 
 .largetext {font-size: 200%;}
 
-h1.heading-text {
-  color: var(--primary);
-  line-height: 3rem;
-  font-family: 'Encode Sans Condensed', sans-serif;
-  font-size: 3rem;
-  text-align: left;
-  text-transform: capitalize;
-  margin:1rem 0 2rem 0;
-}
+
 
 .h1, h1 {
     font-size: 3rem;
@@ -131,13 +123,9 @@ font-size: 1rem;
 line-height: 1.5rem;}
 
 .container {background: white; }
-  .content-title { background: #ebebeb; display: flex;
-        align-items: center;
-        justify-content: center;}
 
-        .caption-text {
-          color: var(--white);
-          margin-top: 0;
+.caption-text {
+         margin-top: 0;
           position: absolute;
           top: -100px;
           right: 0;
@@ -145,7 +133,8 @@ line-height: 1.5rem;}
           display: flex;
         }
         .caption-text h1 span {
-          background-color: var(--black40);
+          color: var(--white);
+          background-color: var(--black80);
           padding: 1rem;
         }
         .headerwrapper {
