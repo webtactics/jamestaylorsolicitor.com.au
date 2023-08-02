@@ -156,10 +156,9 @@ margin: 0 auto;}
 }
 
 .caption-text { 
-top: -6.75rem;
+position: relative;
 margin:0;
 display: block;
-position:absolute;
 right: 0;
 background: var(--black80);
          }
@@ -170,17 +169,6 @@ background: var(--black80);
           font-size: calc(2rem + 1vw);
        margin:0; }
 
- @media screen and (max-width: 1920px) {
-  .caption-text { 
-  top: -94px;
-  }
-}
-
-@media screen and (max-width: 1366px) {
-  .caption-text { 
-  top: -81px;
-  }
-}
 
 @media screen and (max-width: 1280px) {
   .caption-text { 
@@ -202,7 +190,6 @@ padding: 0.5rem;
 
 @media screen and (max-width: 500px) {
 .caption-text {
-    top: -90px;
     width: 100%;
     right: auto;
     left: 0;
