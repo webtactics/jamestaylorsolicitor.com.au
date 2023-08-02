@@ -140,7 +140,7 @@ margin: 0 auto;}
 @media (max-width: 1279px) {
 .home .content {
        
-  margin: 1vh auto 0 auto;}
+  margin: 0 auto;}
 
      
       }
@@ -174,14 +174,12 @@ background: var(--black80);
       margin:0; }
 
   @media screen and (max-width: 767px) {
-
-
-   .caption-text h1 {  
-    padding: 0.5rem;
+.caption-text h1 {  
+padding: 0.5rem;
 }
 
-    .caption-text h2 {  
-      padding: 0 0.5rem 0.5rem;
+.caption-text h2 {  
+padding: 0 0.5rem 0.5rem;
 }
 
 }
@@ -195,7 +193,13 @@ background: var(--black80);
     left: 0;
     background: var(--black);
    }
-
+.caption-text h1 {  
+padding: 0.5rem 1rem 0.5rem 0.5rem;
+  }
+    
+.caption-text h2 {  
+padding: 0.5rem 1rem 0.5rem 0.5rem;
+}
 }
         .headerwrapper {
           display: grid;
