@@ -13,7 +13,7 @@ eleventyNavigation:
 
 ## Criminal and Family Law Lawyer ##
 
-James Taylor has more than 30 years’ experience in criminal and traffic matters. 
+**James Taylor has more than 30 years’ experience in criminal and traffic matters.**
 
 <figure class="imageright"><img title="James Taylor Bathurst Solicitor" src="https://ik.imagekit.io/webtactics/jamestaylorsolicitor/img/james-taylor.jpg" alt="James Taylor Bathurst Solicitor" width="400px" height="400px">
 <figcaption>James Taylor Bathurst Solicitor</figcaption>
@@ -36,7 +36,7 @@ Often lecturing at the local Driver Awareness Program James Taylor has a thoroug
 
 James Taylor understands that your driver’s licence is very important and that going without a licence for any period of time can be very difficult.
  
-James’ vast experience enables him to be able to advise you of the best possible outcomes and how your criminal and traffic matters shall be dealt with including pleading guilty or not guilty and running a defending hearing or trial.
+**James’ vast experience enables him to be able to advise you of the best possible outcomes and how your criminal and traffic matters shall be dealt with including pleading guilty or not guilty and running a defending hearing or trial.**
 
 James’ vast experience means that you will receive the best possible advice and or representation in all kinds of criminal and traffic matters. James knows how important it is for someone to have the best possible legal representation in criminal and traffic matters. 
 If you need an experienced lawyer to act for you in a criminal or traffic matter you can be satisfied that James Taylor will represent you diligently and conscientiously. 
