@@ -162,13 +162,13 @@ background: var(--black80);
 
  @media screen and (max-width: 1920px) {
   .caption-text { 
-    top: -6rem;
+    top: -94px;
   }
 }
 
 @media screen and (max-width: 1366px) {
   .caption-text { 
-    top: -89px;
+    top: -81px;
   }
 }
   .caption-text h1 {  
@@ -179,7 +179,7 @@ background: var(--black80);
 
     .caption-text h2 {  
       color: var(--white);
-      padding: 0 1rem 1rem;
+      padding: 0 calc(0.5vw + 5px) calc(0.5vw + 5px) calc(0.5vw + 5px);
       font-size: calc(1.8rem + 1vw); 
       margin:0; }
 
