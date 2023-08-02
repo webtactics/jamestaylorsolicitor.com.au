@@ -125,7 +125,7 @@ line-height: 1.5rem;}
 
 .content {
   position: relative;
-  margin: 0 auto;
+  margin: 1rem auto;
   padding: 1rem 1rem 3rem;
   z-index: 2;
   max-width: 1280px;
@@ -146,7 +146,7 @@ margin: 0 auto;}
       }
 @media (max-width: 500px) {
   .home .content {         
-  margin: 50px auto 0 auto;
+  margin: 70px auto 0 auto;
 }
 }
 
@@ -192,8 +192,7 @@ padding: 0 0.5rem 0.5rem;
 
 @media screen and (max-width: 500px) {
   .caption-text {
-    position:absolute;
-    display:block;
+    top: -90px;
     width: 100%;
     right: auto;
     left: 0;
