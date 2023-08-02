@@ -126,7 +126,7 @@ line-height: 1.5rem;}
 .content {
   position: relative;
   margin: 0 auto;
-  padding: 2rem 1rem 3rem;
+  padding: 3rem 1rem;
   z-index: 2;
   max-width: 1280px;
   background-color: var(--white);
@@ -135,7 +135,7 @@ line-height: 1.5rem;}
   
 
 .home .content {
-margin: 0 auto;}
+margin: -200px auto 0 auto;}
 
 @media (max-width: 1279px) {
 .home .content {
