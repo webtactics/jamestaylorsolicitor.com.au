@@ -157,6 +157,7 @@ display: block;
 position:absolute;
 top: -104px;
 right: 0;
+background: var(--black);
          
   
         }
