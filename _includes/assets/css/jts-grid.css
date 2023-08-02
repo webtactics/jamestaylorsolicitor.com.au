@@ -126,7 +126,6 @@ line-height: 1.5rem;}
 .caption-text h1 { 
  margin:0;
   display: flex;
-  align-items: right;
   justify-content: center;
 position:absolute;
           top: -150px;
@@ -139,9 +138,8 @@ position:absolute;
         }
   
 
-@media only screen and (max-width: 767px) {
+  @media screen and (max-width: 767px) {
   .caption-text {
-    align-items: left;
      top: -200px;
      right: auto;
      left: 0;
