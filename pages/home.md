@@ -1,6 +1,6 @@
 ---
 layout: layouts/home.njk
-title: James Taylor Bathurst Solicitor Criminal and Family Law Lawyer
+title: James Taylor Bathurst Solicitor
 subtitle: Criminal and Family Law Lawyer
 class: home
 date: 2023-07-20
