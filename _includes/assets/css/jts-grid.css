@@ -962,7 +962,7 @@ figcaption {
   background: var(--black);
   padding: 0.5rem;
   text-align: center;
-  max-width: 100%;
+  max-width: auto;
   margin:0 auto;
 }
 
