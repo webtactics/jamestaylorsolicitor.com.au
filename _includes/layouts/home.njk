@@ -6,6 +6,7 @@
 
 {% block content %}
 <section role="main" class="content">  
+ <div class="caption-text"><h1><span>{{ title }}</span></h1></div>
 {{ layoutContent | safe }}
 {% set postslist = collections.massages %}
 {% include "components/postslist.njk" %}
