@@ -165,7 +165,8 @@ right: 0;
 color: var(--white);
 font-size: calc(2rem + 1vw);
 margin:0;
-text-align: end; }
+text-align: end;
+background-color: var(--red); }
 
 .caption-text h1 span { padding: calc(0.5vw + 5px);background: var(--black80);display:block;}
 
