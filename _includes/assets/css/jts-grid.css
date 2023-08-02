@@ -936,20 +936,16 @@ grid-template-columns: 2fr 1fr;}
   float: right;
   padding: 0 0 1rem 1rem;
 }
-.imageright600 {
-  float: right;
-  max-width: 616px;
-  padding: 0 0 1rem 1rem;
-}
+
 @media (max-width: 500px) {
 
-  .imageright, .imageright600 {
+  .imageright {
     float: none;
     max-width: 100%;
     padding: 0;
     text-align: center;
     margin:0 auto 1rem auto;}
-  .imageright img, .imageright600 img {margin:0 auto;}
+  .imageright img {margin:0 auto;}
 
 }
 
@@ -964,7 +960,7 @@ figcaption {
   background: var(--black);
   padding: 0.5rem;
   text-align: center;
-  max-width: 416px;
+  max-width: 100%;
   margin:0 auto;
 }
 
