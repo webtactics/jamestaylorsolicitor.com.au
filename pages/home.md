@@ -16,7 +16,7 @@ eleventyNavigation:
 **James Taylor Bathurst Solicitor is a Criminal and Family Law Lawyer offering specialist advice and or representation in Criminal and Family Law matters and services in all areas of law including Conveyancing, Wills Probate and Administration.**
 
 James Taylor has been a practicing solicitor for more than 30 years. 
-<figure class="imageright"><img title="James Taylor Bathurst Solicitor" src="https://ik.imagekit.io/webtactics/jamestaylorsolicitor/img/police-600x439.jpg" alt="James Taylor Bathurst Solicitor" width="300px" height="220px">
+<figure class="imageright"><img title="James Taylor Bathurst Solicitor" src="https://ik.imagekit.io/webtactics/jamestaylorsolicitor/img/police-600x439.jpg" alt="James Taylor Bathurst Solicitor" width="300px" height="auto">
 </figure>
 
 *“Being contacted by the police about a criminal offence, attending the police station, receiving court attendance notices for criminal and driving offences or any other involvement in traffic matters can be a concerning and worrying experience.*
