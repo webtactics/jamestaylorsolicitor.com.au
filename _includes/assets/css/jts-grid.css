@@ -813,13 +813,18 @@ ul.off-canvas-list > li.current > a, ul.off-canvas-list > li.active-class > a {
   }
   @media (max-width: 500px) {
     .home .hero  {height: 50svh;height: 50vh;background: url(https://ik.imagekit.io/webtactics/jamestaylorsolicitor/img/bathurst-courthouse-1600x900.jpg) no-repeat center center;width:100%; background-size:cover;position: relative;}
+
+    .hero {height: 400px;background: url(https://ik.imagekit.io/webtactics/jamestaylorsolicitor/img/jamestaylorbathurstsolictor-mobile-header-600x400.jpg) no-repeat center center;width:100%; background-size:cover;position: relative;background-color: var(--black);}
+
+    .contact .hero {height: 400px;background: url(https://ik.imagekit.io/webtactics/jamestaylorsolicitor/img/jamestaylorbathurstsolictor-mobile-header-600x400.jpg) no-repeat center center;width:100%; background-size:cover;position: relative;background-color: var(--black);}
+
   }
 
 
 
 
 
-
+ 
 
 
 
