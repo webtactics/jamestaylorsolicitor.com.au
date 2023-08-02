@@ -949,6 +949,8 @@ grid-template-columns: 2fr 1fr;}
   }
   .imageright img {margin:0 auto;}
 
+  .hidesmall {display:none;}
+
 }
 
 figure {
