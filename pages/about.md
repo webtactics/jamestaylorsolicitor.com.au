@@ -19,7 +19,7 @@ eleventyNavigation:
 <figcaption>James Taylor Bathurst Solicitor</figcaption>
 </figure>
 
-During this time James has represented hundreds of clients charged with very serious and minor criminal and traffic matters in the Children’s Court, Local Court, District Court and Supreme Court of New South Wales.
+**During this time James has represented hundreds of clients charged with very serious and minor criminal and traffic matters in the Children’s Court, Local Court, District Court and Supreme Court of New South Wales.**
 
 *“Being contacted by the police about a criminal offence, attending the police station, receiving court attendance notices for criminal and driving offences or any other involvement in traffic matters can be a concerning and worrying experience. From my past experience in representing clients in criminal and driving offences I understand client’s concerns and what is at stake and most importantly what needs to be done to provide clients with the best possible representation. I pride myself and take great satisfaction from making sure that my clients obtain the best possible results in all matters”*
 
