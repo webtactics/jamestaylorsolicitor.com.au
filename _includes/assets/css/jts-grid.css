@@ -155,7 +155,7 @@ margin: 0 auto;}
 margin:0;
 display: block;
 position:absolute;
-top: calc(-110px + 0.5vw);
+top: 6rem;
 right: 0;
 background: var(--black80);
          
