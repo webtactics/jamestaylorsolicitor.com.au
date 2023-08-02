@@ -23,9 +23,8 @@ Mobile: <a title="Call James Taylor Bathurst Solicitor" alt="Call James Taylor B
 Email: <a title="Email jtaylorsolicitor@gmail.com" alt="Email jtaylorsolicitor@gmail.com" href="mailto:jtaylorsolicitor@gmail.com">jtaylorsolicitor@gmail.com</a><br>
 Website: <a href="/" title="James Taylor Bathurst Solicitor Website" alt="James Taylor Bathurst Solicitor Website">www.jamestaylorsolicitor.com.au</a></p>
 
-
+<p><strong>James Taylor Bathurst Solicitor can be contacted on email <a title="jtaylorsolicitor@gmail.com" href="mailto:jtaylorsolicitor@gmail.com">jtaylorsolicitor@gmail.com</a> or on his mobile <a title="Call James Taylor Bathurst Solicitor" href="tel:+61400316661">0400 316 661</a> for any urgent matters.</strong></p>
 <div class="responsive-embed widescreen">
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1222.486707369501!2d149.57922032526344!3d-33.415435392773844!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6b11e5cd42b057b5%3A0x8f81db03621d7cda!2sJames%20Taylor%20Solicitor!5e0!3m2!1sen!2sau!4v1690855582699!5m2!1sen!2sau" width="100%" height="400px" style="border:0;" allowfullscreen="allowfullscreen" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
-<p><strong>James Taylor Bathurst Solicitor can be contacted on email <a title="jtaylorsolicitor@gmail.com" href="mailto:jtaylorsolicitor@gmail.com">jtaylorsolicitor@gmail.com</a> or on his mobile <a title="Call James Taylor Bathurst Solicitor" href="tel:+61400316661">0400 316 661</a> for any urgent matters.</strong></p>
