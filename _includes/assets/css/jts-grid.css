@@ -172,7 +172,7 @@ background: var(--black80);
 
 @media screen and (max-width: 1366px) {
   .caption-text { 
-    top: -97px;
+    top: -81px;
   }
 }
 
