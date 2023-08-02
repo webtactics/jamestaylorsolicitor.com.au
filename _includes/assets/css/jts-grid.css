@@ -134,13 +134,11 @@ line-height: 1.5rem;}
   }
   
 
-.home .content {
-margin: -200px auto 0 auto;}
+.home .content { margin: 0 auto;}
 
-@media (max-width: 1279px) {
+@media (max-width: 1280px) {
 .home .content {
-       
-  margin: 0 auto;}
+margin: 0 auto;}
 
      
       }
@@ -157,7 +155,7 @@ margin: -200px auto 0 auto;}
 
 .caption-text { 
 position: relative;
-margin:0;
+margin:-200px 0 0 0;
 display: block;
 right: 0;
 
@@ -838,7 +836,7 @@ ul.off-canvas-list > li.current > a, ul.off-canvas-list > li.active-class > a {
 
 .home .hero{height: 100svh;height: 100vh;background: url(https://ik.imagekit.io/webtactics/jamestaylorsolicitor/img/bathurst-courthouse-1600x900.jpg) no-repeat center center;width:100%; background-size:cover;position: relative;background-color: var(--black);}
 
-  @media (max-width: 1279px) {
+  @media (max-width: 1280px) {
     .home .hero  {height: 60svh;height: 60vh;background: url(https://ik.imagekit.io/webtactics/jamestaylorsolicitor/img/bathurst-courthouse-1600x900.jpg) no-repeat center center;width:100%; background-size:cover;position: relative;}
   }
   @media (max-width: 500px) {
