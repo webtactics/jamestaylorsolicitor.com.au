@@ -194,11 +194,11 @@ padding: 0 0.5rem 0.5rem;
     background: var(--black);
    }
 .caption-text h1 {  
-padding: 0.5rem 1rem 0.5rem 0.5rem;
+padding: 0.5rem 0.5rem 0.5rem 1rem;
   }
     
 .caption-text h2 {  
-padding: 0.5rem 1rem 0.5rem 0.5rem;
+padding: 0.5rem 0.5rem 0.5rem 1rem;
 }
 }
         .headerwrapper {
