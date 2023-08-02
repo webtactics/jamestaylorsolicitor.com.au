@@ -138,9 +138,7 @@ line-height: 1.5rem;}
 .caption-text { 
 margin:-170px 0 100px auto;
 position: absolute;
-right: 0;
-left:auto;
-top: 94vh;
+top: -4vh;
 
 
          }
