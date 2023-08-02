@@ -152,7 +152,7 @@ margin: 0 auto;}
 
 
 .caption-text { 
-top: -6.5rem;
+top: -6.75rem;
 margin:0;
 display: block;
 position:absolute;
@@ -177,11 +177,7 @@ background: var(--black80);
     font-size: calc(2rem + 1vw);
  margin:0; }
 
-    .caption-text h2 {  
-      color: var(--white);
-      padding: 0 calc(0.5vw + 5px) calc(0.5vw + 5px) calc(0.5vw + 5px);
-      font-size: calc(1.8rem + 1vw); 
-      margin:0; }
+
 
   @media screen and (max-width: 767px) {
 .caption-text h1 {  
