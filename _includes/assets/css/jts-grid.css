@@ -154,9 +154,9 @@ margin: 0 auto;}
 }
 
 .caption-text { 
-margin:-100px 0 100px 0;
+margin:-120px 0 100px auto;
 display: flex;
-right: 0;
+
 
          }
 
@@ -164,10 +164,11 @@ right: 0;
 color: var(--white);
 font-size: calc(2rem + 1vw);
 margin:0;
-text-align: end;
-background: var(--red); }
+text-align: right;
+background: var(--black80);
+padding: calc(0.5vw + 5px); }
 
-.caption-text h1 span { padding: calc(0.5vw + 5px);}
+.caption-text h1 span { }
 
 
 @media screen and (max-width: 1280px) {
