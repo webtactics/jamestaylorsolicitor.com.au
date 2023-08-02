@@ -173,7 +173,7 @@ background: var(--black80);
 }
   .caption-text h1 {  
     color: var(--white);
-    padding: calc(1vw + 5px);
+    padding: calc(0.5vw + 5px);
     font-size: calc(2rem + 1vw);
  margin:0; }
 
