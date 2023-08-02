@@ -137,13 +137,15 @@ position:absolute;
     color: var(--white);
     background: var(--black80);
     padding: 1rem;
-    font-size: calc(2rem + 1vw); }
+    font-size: calc(2rem + 1vw);
+  display: block; }
 
     .caption-text h2 {  
       color: var(--white);
       background: var(--black80);
       padding: 1rem;
-      font-size: calc(1.8rem + 1vw); }
+      font-size: calc(1.8rem + 1vw); 
+      display: block; }
 
   @media screen and (max-width: 767px) {
   .caption-text {
