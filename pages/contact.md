@@ -18,7 +18,7 @@ eleventyNavigation:
 
 
 <h2>Contact Details</h2>
-<p>Address: <a title="James Taylor Bathurst Solicitor Map" alt="James Taylor Bathurst Solicitor Map" href="https://goo.gl/maps/VH3KrRsjfEAdpWns9" target="_blank" rel="noopener">Suite A, 238 Howick St,<br>Bathurst NSW 2795</a><br>
+<p>Address: <a title="James Taylor Bathurst Solicitor Map" alt="James Taylor Bathurst Solicitor Map" href="https://goo.gl/maps/VH3KrRsjfEAdpWns9" target="_blank" rel="noopener">Suite A, 238 Howick St, Bathurst NSW 2795</a><br>
 Mobile: <a title="Call James Taylor Bathurst Solicitor" alt="Call James Taylor Bathurst Solicitor" href="tel:+61400316661">0400 316 661</a><br>
 Email: <a title="Email jtaylorsolicitor@gmail.com" alt="Email jtaylorsolicitor@gmail.com" href="mailto:jtaylorsolicitor@gmail.com">jtaylorsolicitor@gmail.com</a><br>
 Website: <a href="/" title="James Taylor Bathurst Solicitor Website" alt="James Taylor Bathurst Solicitor Website">www.jamestaylorsolicitor.com.au</a></p>
