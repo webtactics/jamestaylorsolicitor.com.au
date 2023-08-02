@@ -169,7 +169,7 @@ right: 0;
           font-size: calc(2rem + 1vw);
        margin:0; }
 
-.caption-text h1.span { padding: calc(0.5vw + 5px);background: var(--black80);display:block;}
+.caption-text h1 span { padding: calc(0.5vw + 5px);background: var(--black80);display:block;}
 
 
 @media screen and (max-width: 1280px) {
