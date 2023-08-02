@@ -125,8 +125,8 @@ line-height: 1.5rem;}
 
 .content {
   position: relative;
-  margin: 1rem auto;
-  padding: 1rem 1rem 3rem;
+  margin: 0 auto;
+  padding: 2rem 1rem 3rem;
   z-index: 2;
   max-width: 1280px;
   background-color: var(--white);
@@ -172,7 +172,13 @@ background: var(--black80);
 
 @media screen and (max-width: 1366px) {
   .caption-text { 
-    top: -81px;
+    top: -97px;
+  }
+}
+
+@media screen and (max-width: 1280px) {
+  .caption-text { 
+    top: -79px;
   }
 }
   .caption-text h1 {  
