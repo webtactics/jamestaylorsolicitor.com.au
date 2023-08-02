@@ -12,9 +12,6 @@ eleventyNavigation:
 ---
 
 
-
-
-
 **Below are some of the criminal Law matters James Taylor Bathurst Solicitor have acted in:**
 
 - Sexual Assault Offences.
@@ -36,9 +33,8 @@ eleventyNavigation:
 <figure class="imageright hidesmall"><img title="James Taylor Bathurst Solicitor" src="https://ik.imagekit.io/webtactics/jamestaylorsolicitor/img/police-600x439.jpg" alt="James Taylor Bathurst Solicitor" width="300px" height="auto">
 <figcaption>More than 30 years experience</figcaption>
 </figure>
+
 **Below are some of the most recent Criminal cases James Taylor Bathurst Solicitor have acted in:**
-
-
 
 - Supply Firearms/Prohibited Weapons – District Court at Bathurst and Sydney
 - Supply Prohibited Drug – District Court at Bathurst and Parramatta.
