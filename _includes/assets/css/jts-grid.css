@@ -815,6 +815,7 @@ ul.off-canvas-list > li.current > a, ul.off-canvas-list > li.active-class > a {
   z-index: 2;
   max-width: 1280px;
   background-color: var(--white);
+  min-height: 400px;
   }
   
 
@@ -823,9 +824,8 @@ ul.off-canvas-list > li.current > a, ul.off-canvas-list > li.active-class > a {
 
 
    .home .content {
-      margin: -20vh auto 0 auto;
-      background-color: var(--white);
-      min-height: 400px;
+      margin: -10vh auto 0 auto;
+
       }
     @media (max-width: 1279px) {
     .home .content {
