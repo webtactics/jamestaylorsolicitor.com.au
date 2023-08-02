@@ -993,29 +993,4 @@ figcaption {
 
 .responsive-embed{position:relative;height:0;margin:2rem 0;padding-bottom:75%;overflow:hidden}.flex-video embed,.flex-video iframe,.flex-video object,.flex-video video,.responsive-embed embed,.responsive-embed iframe,.responsive-embed object,.responsive-embed video{position:absolute;top:0;left:0;width:100%;height:100%}.flex-video.widescreen,.responsive-embed.widescreen{padding-bottom:56.25%}
 
-.scrollToTop {
-  display: block;
-  display: none;
-  z-index: 999;
-  opacity: 1;
-  position: fixed;
-  right: 20px;
-  bottom: 20px;
-  -moz-border-radius: 2px;
-  -webkit-border-radius: 2px;
-  border-radius: 2px;
-  width: 40px;
-  height: 40px;
-  background: #000000 url(https://ik.imagekit.io/webtactics/gtm/assets/to-top_pZCu6b8pa.png?updatedAt=1683952481082) no-repeat center center;
-  text-indent: -9999px;
-  opacity: 1;}
 
-.scrollToTop:hover {
-  padding: 0;
-  border: none;
-  background: transparent;
-  width: 40px;
-  height: 40px;
-  background: #000000 url(https://ik.imagekit.io/webtactics/gtm/assets/to-top_pZCu6b8pa.png?updatedAt=1683952481082) no-repeat center center;
-  text-indent: -9999px;
-}
