@@ -149,9 +149,9 @@ right: 0;
   @media screen and (max-width: 767px) {
   .caption-text {
     position:absolute;
-    display:bock;
+    display:block;
     width: 100%;
-    top: 0;
+    top: -108px;
      right: auto;
      left: 0;
    }
