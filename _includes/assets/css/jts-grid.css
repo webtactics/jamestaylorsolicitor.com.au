@@ -836,7 +836,7 @@ ul.off-canvas-list > li.current > a, ul.off-canvas-list > li.active-class > a {
   
 
    .home .content {
-      margin: -10vh auto 0 auto;
+    margin: 0 auto;
 
       }
     @media (max-width: 1279px) {
