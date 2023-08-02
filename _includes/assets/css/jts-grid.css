@@ -152,15 +152,19 @@ margin: 0 auto;}
 
 
 .caption-text { 
+top: -6.5rem;
 margin:0;
 display: block;
 position:absolute;
-top: -6.5rem;
 right: 0;
 background: var(--black80);
-         
-  
-        }
+         }
+
+ @media screen and (max-width: 1920px) {
+  .caption-text { 
+    top: -6rem;
+  }
+}
   .caption-text h1 {  
     color: var(--white);
     padding: 1rem;
