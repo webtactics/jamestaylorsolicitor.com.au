@@ -130,6 +130,7 @@ line-height: 1.5rem;}
   max-width: 1280px;
   background-color: var(--white);
   min-height: 400px;
+  position: absolute;
   }
   
 
@@ -137,7 +138,7 @@ line-height: 1.5rem;}
 
 .caption-text { 
 margin:0;
-position: absolute;
+position: relative;
 top: -150px;
 
 
