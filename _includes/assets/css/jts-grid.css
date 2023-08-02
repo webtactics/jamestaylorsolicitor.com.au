@@ -152,10 +152,10 @@ margin: 0 auto;}
 
 
 .caption-text { 
- margin:0;
- display: block;
+margin:0;
+display: block;
 position:absolute;
- top: -104px;
+top: -104px;
 right: 0;
          
   
@@ -198,9 +198,8 @@ right: 0;
     position:absolute;
     display:block;
     width: 100%;
-    top: -100px;
-     right: auto;
-     left: 0;
+    right: auto;
+    left: 0;
    }
 
 }
