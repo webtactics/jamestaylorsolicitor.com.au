@@ -127,7 +127,7 @@ line-height: 1.5rem;}
  margin:0;
  display: block;
 position:absolute;
- top: -100px;
+ top: -104px;
 right: 0;
          
   
@@ -148,6 +148,9 @@ right: 0;
 
   @media screen and (max-width: 767px) {
   .caption-text {
+    position:absolute;
+    display:bock;
+    width: 100%;
     top: 0;
      right: auto;
      left: 0;
