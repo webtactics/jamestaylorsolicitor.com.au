@@ -175,13 +175,7 @@ right: 0;
       margin:0; }
 
   @media screen and (max-width: 767px) {
-  .caption-text {
-    position:absolute;
-    display:block;
-    top: -108px;
-     right: auto;
-     left: 0;
-   }
+
 
    .caption-text h1 {  
     color: var(--white);
