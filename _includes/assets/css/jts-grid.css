@@ -944,7 +944,9 @@ grid-template-columns: 2fr 1fr;}
     max-width: 100%;
     padding: 0;
     text-align: center;
-    margin:0 auto 1rem auto;}
+    margin:0 auto 1rem auto;
+    border:1px solid var(--black);
+  }
   .imageright img {margin:0 auto;}
 
 }
