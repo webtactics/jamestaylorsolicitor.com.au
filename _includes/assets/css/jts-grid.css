@@ -133,27 +133,10 @@ line-height: 1.5rem;}
   }
   
 
-.home .content { margin: 0 auto;}
 
-@media (max-width: 1280px) {
-.home .content {
-margin: 0 auto;}
-
-     
-      }
-@media (max-width: 500px) {
-  .home .content {         
-  margin: 70px auto 0 auto;
-}
-}
-@media (max-width: 440px) {
-  .home .content {         
-  margin: 90px auto 0 auto;
-}
-}
 
 .caption-text { 
-margin:-120px 0 100px auto;
+margin:-170px 0 100px auto;
 position: absolute;
 
 
