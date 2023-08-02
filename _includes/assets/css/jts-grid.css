@@ -152,8 +152,7 @@ margin: 0 auto;}
 
 
 .caption-text { 
-z-index: 3;
-top: 94vh;
+top: -6.75rem;
 margin:0;
 display: block;
 position:absolute;
@@ -163,18 +162,18 @@ background: var(--black80);
 
  @media screen and (max-width: 1920px) {
   .caption-text { 
-    top: 90vh;
+    top: -94px;
   }
 }
 
 @media screen and (max-width: 1366px) {
   .caption-text { 
-    top: 300px;
+    top: -81px;
   }
 }
   .caption-text h1 {  
     color: var(--white);
-    padding: 1rem;
+    padding: calc(0.5vw + 5px);
     font-size: calc(2rem + 1vw);
  margin:0; }
 
@@ -204,6 +203,9 @@ padding: 0 0.5rem 0.5rem;
 padding: 0.5rem 0.5rem 0.5rem 1rem;
   }
     
+.caption-text h2 {  
+padding: 0.5rem 0.5rem 0.5rem 1rem;
+}
 }
         .headerwrapper {
           display: grid;
