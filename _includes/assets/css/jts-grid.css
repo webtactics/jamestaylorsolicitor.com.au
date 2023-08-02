@@ -154,7 +154,7 @@ margin: 0 auto;}
 
 .caption-text { 
 margin:-120px 0 100px auto;
-display: flex;
+position: absolute;
 
 
          }
