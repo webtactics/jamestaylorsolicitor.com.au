@@ -15,7 +15,7 @@ eleventyNavigation:
 
 **James Taylor has more than 30 years’ experience in criminal and traffic matters.**
 
-<figure class="imageright"><img title="James Taylor Bathurst Solicitor" src="https://ik.imagekit.io/webtactics/jamestaylorsolicitor/img/james-taylor.jpg" alt="James Taylor Bathurst Solicitor" width="400px" height="400px">
+<figure class="imageright400"><img title="James Taylor Bathurst Solicitor" src="https://ik.imagekit.io/webtactics/jamestaylorsolicitor/img/james-taylor.jpg" alt="James Taylor Bathurst Solicitor" width="400px" height="400px">
 <figcaption>James Taylor Bathurst Solicitor</figcaption>
 </figure>
 
@@ -29,7 +29,9 @@ In criminal matters James Taylor has appeared in complex and lengthy trials incl
 James has also appeared at New South Wales Parole Board Hearings, Police Integrity Commission Hearings, New South Wales Crime Commission Hearings and Coronial Inquests. 
 
 As an involved and concerned lawyer, James Taylor regularly appears in Bail Applications including weekend Bail Applications. He also regularly appears in the Children’s Court and the Local and District Courts for pleas of guilty, defended hearings, trials-jury and Judge alone, bail applications, sentence hearings, severity appeals, conviction appeals, committal hearings and other hearings.
-
+<figure class="imageright600"><img title="James Taylor Bathurst Solicitor" src="https://ik.imagekit.io/webtactics/jamestaylorsolicitor/img/police-600x439.jpg" alt="James Taylor Bathurst Solicitor" width="400px" height="400px">
+<figcaption>More than 30 years’ experience in criminal and traffic matters</figcaption>
+</figure>
 In Traffic matters James regularly appears for clients who have been issued with Infringement Notices by police or private Prosecutors and or clients who have been charged by the police for Traffic offences. James Taylor regularly appears for clients in Drink Driving and speeding matters and appeals against Roads and Maritime Services Licence Suspensions.
 
 Often lecturing at the local Driver Awareness Program James Taylor has a thorough understanding of the applicable traffic legislation. James experience in Traffic Law means that he is able to provide you with clear, precise and thorough advice in all types of traffic matters including Drink Driving, Driving Under the Influence, Drug Driving, Police Radar, Speed Camera, Dangerous Driving, Dangerous Driving Causes Death or Grievous Bodily Harm, Street Racing, Drive Speed Dangerous, Suspended Drivers Licence, Disqualified Driving, Licence Appeals, Applications to quash Habitual Traffic Offences Declarations and much more. 
