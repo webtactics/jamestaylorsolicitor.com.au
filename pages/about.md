@@ -29,13 +29,15 @@ In criminal matters James Taylor has appeared in complex and lengthy trials incl
 James has also appeared at New South Wales Parole Board Hearings, Police Integrity Commission Hearings, New South Wales Crime Commission Hearings and Coronial Inquests. 
 
 As an involved and concerned lawyer, James Taylor regularly appears in Bail Applications including weekend Bail Applications. He also regularly appears in the Children’s Court and the Local and District Courts for pleas of guilty, defended hearings, trials-jury and Judge alone, bail applications, sentence hearings, severity appeals, conviction appeals, committal hearings and other hearings.
-<figure class="imageright"><img title="James Taylor Bathurst Solicitor" src="https://ik.imagekit.io/webtactics/jamestaylorsolicitor/img/traffic-camera-600x360.jpg" alt="James Taylor Bathurst Solicitor" width="600px" height="auto">
-</figure>
+
 In Traffic matters James regularly appears for clients who have been issued with Infringement Notices by police or private Prosecutors and or clients who have been charged by the police for Traffic offences. James Taylor regularly appears for clients in Drink Driving and speeding matters and appeals against Roads and Maritime Services Licence Suspensions.
 
 Often lecturing at the local Driver Awareness Program James Taylor has a thorough understanding of the applicable traffic legislation. James experience in Traffic Law means that he is able to provide you with clear, precise and thorough advice in all types of traffic matters including Drink Driving, Driving Under the Influence, Drug Driving, Police Radar, Speed Camera, Dangerous Driving, Dangerous Driving Causes Death or Grievous Bodily Harm, Street Racing, Drive Speed Dangerous, Suspended Drivers Licence, Disqualified Driving, Licence Appeals, Applications to quash Habitual Traffic Offences Declarations and much more. 
 
 James Taylor understands that your driver’s licence is very important and that going without a licence for any period of time can be very difficult.
+<figure class="imageright"><img title="James Taylor Bathurst Solicitor" src="https://ik.imagekit.io/webtactics/jamestaylorsolicitor/img/traffic-camera-600x360.jpg" alt="James Taylor Bathurst Solicitor" width="600px" height="auto">
+<figcaption>Clear, precise and legal advice</figcaption>
+</figure>
  
 **James’ vast experience enables him to be able to advise you of the best possible outcomes and how your criminal and traffic matters shall be dealt with including pleading guilty or not guilty and running a defending hearing or trial.**
 

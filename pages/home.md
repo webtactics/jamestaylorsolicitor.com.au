@@ -17,6 +17,7 @@ eleventyNavigation:
 
 James Taylor has been a practicing solicitor for more than 30 years. 
 <figure class="imageright"><img title="James Taylor Bathurst Solicitor" src="https://ik.imagekit.io/webtactics/jamestaylorsolicitor/img/police-600x439.jpg" alt="James Taylor Bathurst Solicitor" width="300px" height="auto">
+<figcaption>More than 30 years experience</figcaption>
 </figure>
 
 *“Being contacted by the police about a criminal offence, attending the police station, receiving court attendance notices for criminal and driving offences or any other involvement in traffic matters can be a concerning and worrying experience.*
