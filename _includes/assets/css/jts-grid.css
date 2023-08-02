@@ -157,20 +157,18 @@ display: block;
 position:absolute;
 top: -104px;
 right: 0;
-background: var(--black);
+background: var(--black80);
          
   
         }
   .caption-text h1 {  
     color: var(--white);
-    background: var(--black80);
     padding: 1rem;
     font-size: calc(2rem + 1vw);
  margin:0; }
 
     .caption-text h2 {  
       color: var(--white);
-      background: var(--black80);
       padding: 0 1rem 1rem;
       font-size: calc(1.8rem + 1vw); 
       margin:0; }
@@ -179,18 +177,12 @@ background: var(--black);
 
 
    .caption-text h1 {  
-    color: var(--white);
-    background: var(--black80);
     padding: 0.5rem;
-    font-size: calc(2rem + 1vw);
- margin:0; }
+}
 
     .caption-text h2 {  
-      color: var(--white);
-      background: var(--black80);
       padding: 0 0.5rem 0.5rem;
-      font-size: calc(1.8rem + 1vw); 
-      margin:0; }
+}
 
 }
 
@@ -201,6 +193,7 @@ background: var(--black);
     width: 100%;
     right: auto;
     left: 0;
+    background: var(--black);
    }
 
 }
