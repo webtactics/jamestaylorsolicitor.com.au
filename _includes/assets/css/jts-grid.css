@@ -142,7 +142,7 @@ right: 0;
     .caption-text h2 {  
       color: var(--white);
       background: var(--black80);
-      padding: 1rem;
+      padding: 0 1rem 1rem;
       font-size: calc(1.8rem + 1vw); 
       margin:0; }
 
@@ -151,8 +151,21 @@ right: 0;
      top: -200px;
      right: auto;
      left: 0;
-     padding: 0.5rem;
    }
+
+   .caption-text h1 {  
+    color: var(--white);
+    background: var(--black80);
+    padding: 0.5rem;
+    font-size: calc(2rem + 1vw);
+ margin:0; }
+
+    .caption-text h2 {  
+      color: var(--white);
+      background: var(--black80);
+      padding: 0 0.5rem 0.5rem;
+      font-size: calc(1.8rem + 1vw); 
+      margin:0; }
 
 }
         .headerwrapper {
@@ -818,10 +831,6 @@ ul.off-canvas-list > li.current > a, ul.off-canvas-list > li.active-class > a {
   min-height: 400px;
   }
   
-
-
-
-
 
    .home .content {
       margin: -10vh auto 0 auto;
