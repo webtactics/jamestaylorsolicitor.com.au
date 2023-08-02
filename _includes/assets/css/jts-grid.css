@@ -152,6 +152,7 @@ margin: 0 auto;}
 
 
 .caption-text { 
+  z-index: 3;
 top: -6.75rem;
 margin:0;
 display: block;
