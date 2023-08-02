@@ -149,7 +149,11 @@ margin: 0 auto;}
   margin: 70px auto 0 auto;
 }
 }
-
+@media (max-width: 440px) {
+  .home .content {         
+  margin: 90px auto 0 auto;
+}
+}
 
 .caption-text { 
 top: -6.75rem;
