@@ -124,7 +124,7 @@ line-height: 1.5rem;}
 .container {position: relative; margin: -5rem auto 0 auto; }
 
 @media screen and (max-width: 600px) {
-  .container {position: relative; margin: -3rem auto 0 auto; }
+  .container {position: relative; margin: -4rem auto 0 auto; }
 }
 .content {
   margin: 0 auto;
@@ -159,29 +159,14 @@ padding: calc(0.5vw + 5px);
 }
 
 
-@media screen and (max-width: 1280px) {
-.caption-text h1 span { 
-background: var(--black80);
-padding: calc(0.5vw + 5px);
-  }
-}
 
-
-@media screen and (max-width: 768px) {
-  .caption-text h1 span { 
-    background: var(--black80);
-    padding: calc(0.5vw + 5px);
-  }
-
-
-}
 
 @media screen and (max-width: 600px) {
 .caption-text {
     width: 100%;
     right: auto;
     left: 0;
-    margin: 0 auto 2rem auto;
+    margin: 0 auto 1rem auto;
 
    }
 
