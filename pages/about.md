@@ -34,7 +34,7 @@ In Traffic matters James regularly appears for clients who have been issued with
 
 Often lecturing at the local Driver Awareness Program James Taylor has a thorough understanding of the applicable traffic legislation. James experience in Traffic Law means that he is able to provide you with clear, precise and thorough advice in all types of traffic matters including Drink Driving, Driving Under the Influence, Drug Driving, Police Radar, Speed Camera, Dangerous Driving, Dangerous Driving Causes Death or Grievous Bodily Harm, Street Racing, Drive Speed Dangerous, Suspended Drivers Licence, Disqualified Driving, Licence Appeals, Applications to quash Habitual Traffic Offences Declarations and much more. 
 
-<figure class="imageright img600"><img title="James Taylor Bathurst Solicitor" src="https://jamestaylorsolicitor.com.au/img/traffic-camera-600x360.jpg" alt="James Taylor Bathurst Solicitor" width="600px" height="auto">
+<figure class="imageright img600"><img title="James Taylor Bathurst Solicitor" src="https://ik.imagekit.io/webtactics/jamestaylor/traffic-camera-600x360_1TIdmloy_.jpg?updatedAt=1691036542658" alt="James Taylor Bathurst Solicitor" width="600px" height="auto">
 <figcaption>Clear, precise legal advice</figcaption>
 </figure>
 James Taylor understands that your driver’s licence is very important and that going without a licence for any period of time can be very difficult.
