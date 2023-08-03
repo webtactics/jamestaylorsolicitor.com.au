@@ -138,10 +138,8 @@ line-height: 1.5rem;}
 .caption-text { 
 margin:0;
 position: relative;
-top: -90px;
 
-
-         }
+}
 
 .caption-text h1 {  
 color: var(--white);
