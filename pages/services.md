@@ -31,7 +31,7 @@ eleventyNavigation:
 - Attempted Murder/ Murder.
 - Firearms Offences – unlicensed, fail to store safely, supply, possess prohibited weapons
 
-<figure class="imageright hidesmall"><img title="James Taylor Bathurst Solicitor" src="https://ik.imagekit.io/webtactics/jamestaylorsolicitor/img/police-600x439.jpg" alt="James Taylor Bathurst Solicitor" width="300px" height="auto">
+<figure class="imageright hidesmall"><img title="James Taylor Bathurst Solicitor" src="https://ik.imagekit.io/webtactics/jamestaylor/police-600x439_1l87ovAaq.jpg?updatedAt=1691040538539" alt="James Taylor Bathurst Solicitor" width="300px" height="auto">
 <figcaption>More than 30 years experience</figcaption>
 </figure>
 
