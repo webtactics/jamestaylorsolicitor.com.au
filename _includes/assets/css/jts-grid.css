@@ -877,19 +877,19 @@ text-align: center;
 }
 .footerwrap p {
   color: var(--white);
-  font-size: 1rem;
+  font-size: 0.875rem;
   
 }
 .footerwrap p a {
   color: var(--white);
-  border-bottom: 1px dotted var(--white);
+  border-bottom: 1px dotted var(--primary);
   padding: 0 0.25rem;
 
 }
 .footerwrap p a:hover {
   background: #ebebeb;
   color: #000000;
-  border-bottom: 1px solid #1468a0;
+  border-bottom: 1px solid var(--white);
 }
 
 
