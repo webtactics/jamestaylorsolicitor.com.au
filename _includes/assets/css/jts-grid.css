@@ -854,7 +854,7 @@ ul.off-canvas-list > li.current > a, ul.off-canvas-list > li.active-class > a {
 
   
       .footernavwrapper {
-        background-color: var(--black);height:36px;border-bottom: 1px solid var(--white);
+        background-color: var(--black);height:36px;border-bottom: 1px solid var(--lightgrey);
       }
         .footernav {
         margin: 0 auto;
