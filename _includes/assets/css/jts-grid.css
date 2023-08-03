@@ -817,7 +817,7 @@ ul.off-canvas-list > li.current > a, ul.off-canvas-list > li.active-class > a {
 
   .hero {background-attachment: fixed;}
 
-  .hero {height: 400px;background: url(https://jamestaylorsolicitor.com.au/img/james-taylor-solicitor-services.jpg) center; background-color: var(--black);background-attachment: fixed;}
+  .hero {height: 400px;background: url(https://jamestaylorsolicitor.com.au/img/james-taylor-solicitor-services.jpg) center top; background-color: var(--black);background-attachment: fixed;}
 
   .contact .hero {height: 400px;background: url(https://jamestaylorsolicitor.com.au/img/james-taylor-solicitor-contact.jpg) no-repeat center center;width:100%; background-size:cover;background-color: var(--black);background-attachment: fixed;}
 
