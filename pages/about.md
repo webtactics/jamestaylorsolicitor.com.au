@@ -15,7 +15,7 @@ eleventyNavigation:
 
 ## James Taylor has more than 30 years’ experience in criminal law, family law and traffic legal matters. ## 
 
-<figure class="imageright 400"><img title="James Taylor Bathurst Solicitor" src="https://jamestaylorsolicitor.com.au/img/james-taylor.jpg" alt="James Taylor Bathurst Solicitor" width="auto" height="auto">
+<figure class="imageright img400"><img title="James Taylor Bathurst Solicitor" src="https://jamestaylorsolicitor.com.au/img/james-taylor.jpg" alt="James Taylor Bathurst Solicitor" width="auto" height="auto">
 <figcaption>James Taylor Bathurst Solicitor</figcaption>
 </figure>
 
@@ -34,7 +34,7 @@ In Traffic matters James regularly appears for clients who have been issued with
 
 Often lecturing at the local Driver Awareness Program James Taylor has a thorough understanding of the applicable traffic legislation. James experience in Traffic Law means that he is able to provide you with clear, precise and thorough advice in all types of traffic matters including Drink Driving, Driving Under the Influence, Drug Driving, Police Radar, Speed Camera, Dangerous Driving, Dangerous Driving Causes Death or Grievous Bodily Harm, Street Racing, Drive Speed Dangerous, Suspended Drivers Licence, Disqualified Driving, Licence Appeals, Applications to quash Habitual Traffic Offences Declarations and much more. 
 
-<figure class="imageright 600"><img title="James Taylor Bathurst Solicitor" src="https://jamestaylorsolicitor.com.au/img/traffic-camera-600x360.jpg" alt="James Taylor Bathurst Solicitor" width="auto" height="auto">
+<figure class="imageright img600"><img title="James Taylor Bathurst Solicitor" src="https://jamestaylorsolicitor.com.au/img/traffic-camera-600x360.jpg" alt="James Taylor Bathurst Solicitor" width="auto" height="auto">
 <figcaption>Clear, precise legal advice</figcaption>
 </figure>
 James Taylor understands that your driver’s licence is very important and that going without a licence for any period of time can be very difficult.
