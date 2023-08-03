@@ -817,7 +817,7 @@ ul.off-canvas-list > li.current > a, ul.off-canvas-list > li.active-class > a {
 
   .hero {background-attachment: fixed;}
 
-  .hero {height: 400px;background: url(https://jamestaylorsolicitor.com.au/img/james-taylor-solicitor-services.jpg);   background-repeat: no-repeat;background-position: center top;background-size: contain;background-color: var(--black);background-attachment: fixed;}
+  .hero {height: 400px;background: url(https://jamestaylorsolicitor.com.au/img/james-taylor-solicitor-services.jpg);   background-repeat: no-repeat;background-position: center top;background-size: auto;background-color: var(--black);background-attachment: fixed;}
 
   .contact .hero {height: 400px;background: url(https://jamestaylorsolicitor.com.au/img/james-taylor-solicitor-contact.jpg);background-repeat: repeat;background-position: center top;background-size: auto;background-color: var(--black);background-attachment: fixed;}
 
@@ -825,8 +825,8 @@ ul.off-canvas-list > li.current > a, ul.off-canvas-list > li.active-class > a {
 
 @media (min-width: 2000px) {
   .home .hero{height: 100svh;height: 100vh;background: url(https://jamestaylorsolicitor.com.au/img/bathurst-courthouse-1600x900.jpg); background-repeat: no-repeat;background-position: center top;background-size: cover;background-color: var(--black);background-attachment:initial;}
-  .hero {height: 400px;background: url(https://jamestaylorsolicitor.com.au/img/james-taylor-solicitor-services.jpg);   background-repeat: no-repeat;background-position: center top;background-size: cover;background-color: var(--black);background-attachment: fixed;}
-  .contact .hero {height: 400px;background: url(https://jamestaylorsolicitor.com.au/img/james-taylor-solicitor-contact.jpg);background-repeat: repeat;background-position: center top;background-size: cover;background-color: var(--black);background-attachment: fixed;}
+  .hero {height: 400px;background: url(https://jamestaylorsolicitor.com.au/img/james-taylor-solicitor-services.jpg);   background-repeat: no-repeat;background-position: center top;background-size: auto;background-color: var(--black);background-attachment: fixed;}
+  .contact .hero {height: 400px;background: url(https://jamestaylorsolicitor.com.au/img/james-taylor-solicitor-contact.jpg);background-repeat: repeat;background-position: center top;background-size: auto;background-color: var(--black);background-attachment: fixed;}
 }
 
   @media (max-width: 1280px) {
