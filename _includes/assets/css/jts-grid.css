@@ -142,31 +142,33 @@ position: relative;
 
 }
 
-.caption-text h1 {  
+.caption-text h1 { 
+margin:0;
+text-align: right; 
 color: var(--white);
 font-size: calc(2rem + 1vw);
-margin:0;
-text-align: right;
+
  }
 
-.caption-text h1 span { background: var(--black80);
-  padding: calc(0.5vw + 5px);}
+.caption-text h1 span { 
+background: var(--black80);
+padding: calc(0.5vw + 5px);
+}
 
 
 @media screen and (max-width: 1280px) {
-  .caption-text { 
-  top: -79px;
+.caption-text h1 span { 
+background: var(--black80);
+padding: calc(0.5vw + 5px);
   }
-.caption-text h1 {  
-    padding: 0.75rem 1rem;
-      }
 }
 
 
-@media screen and (max-width: 767px) {
-.caption-text h1 {  
-padding: 0.5rem;
-}
+@media screen and (max-width: 768px) {
+  .caption-text h1 span { 
+    background: var(--black80);
+    padding: calc(0.5vw + 5px);
+  }
 
 
 }
@@ -176,9 +178,17 @@ padding: 0.5rem;
     width: 100%;
     right: auto;
     left: 0;
-    background: var(--black);
+
    }
 
+   .caption-text h1 { 
+    text-align: left; 
+     }
+    
+   .caption-text h1 span { 
+    background: var(--black);
+    padding: 0.5rem 1rem;
+  }
     
 
 }
@@ -700,7 +710,7 @@ ul.footer-menu li {
 
 
 
-@media (max-width: 767px) {
+@media (max-width: 768px) {
   .footer-menu > li {
     width: 80px;
     text-align: center;
