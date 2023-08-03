@@ -970,7 +970,9 @@ figcaption {
   }
   .imageright img {margin:0 auto;}
 
+  .img400 img,   .img600 img {max-width: 100%;}
 
+ 
 
   .hidesmall {display:none;}
 
