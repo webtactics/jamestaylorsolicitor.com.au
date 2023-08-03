@@ -944,10 +944,7 @@ grid-template-columns: 2fr 1fr;}
 
 }
 
-.imageright img {
 
-  border:1px solid var(--black);
-}
 
 .img400 img {max-width: 400px;aspect-ratio: 1 / 1;}
 
