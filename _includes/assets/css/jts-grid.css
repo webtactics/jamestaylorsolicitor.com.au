@@ -878,7 +878,7 @@ ul.off-canvas-list > li.current > a, ul.off-canvas-list > li.active-class > a {
     display: block;
     color: var(--white);
     background: var(--black);
-   padding: 0.35rem 1.5rem;
+   padding: 0.5rem 1.5rem;
     border-bottom: 1px solid var(--lightgrey);
     transition: background 300ms ease;
     font-weight: normal;
@@ -889,7 +889,7 @@ ul.off-canvas-list > li.current > a, ul.off-canvas-list > li.active-class > a {
     display: block;
     color: var(--white);
     background: var(--primary);
-    padding: 0.35rem 1.5rem;
+    padding: 0.5rem 1.5rem;
     border-bottom: 1px solid var(--lightgrey);
     transition: background 300ms ease;
     font-weight: normal;
@@ -899,7 +899,7 @@ ul.off-canvas-list > li.current > a, ul.off-canvas-list > li.active-class > a {
     border-bottom: 1px solid var(--lightgrey);
     color: var(--white);
     display: block;
-   padding: 0.35rem 1.5rem;
+   padding: 0.5rem 1.5rem;
     transition: background 300ms ease;
     background: var(--primary);
     font-weight: normal;
