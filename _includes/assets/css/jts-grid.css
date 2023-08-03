@@ -124,7 +124,7 @@ line-height: 1.5rem;}
 .container {position: relative; margin: -5rem auto 0 auto; }
 
 @media screen and (max-width: 600px) {
-  .container {position: relative; margin: -2rem auto 0 auto; }
+  .container {position: relative; margin: 0 auto; }
 }
 .content {
   margin: 0 auto;
