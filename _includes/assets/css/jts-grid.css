@@ -881,15 +881,15 @@ text-align: center;
   
 }
 .footerwrap p a {
-  color: var(--white);
-  border-bottom: 1px dotted var(--primary);
+  color: var(--primarylight);
+  border-bottom: 1px dotted var(--white);
   padding: 0 0.25rem;
 
 }
 .footerwrap p a:hover {
   background: #ebebeb;
   color: #000000;
-  border-bottom: 1px solid var(--white);
+  border-bottom: 1px solid var(--red);
 }
 
 
