@@ -4,7 +4,7 @@
 <li{% if entry.url == page.url %} class="active-class"{% endif %}>
   <a href="{{ entry.url }}">{{ entry.title }}</a>
 {%- if entry.children.length -%}
-<ul class="off-canvas-list">
+<ul class="second-level">
     {%- for child in entry.children %}{{ renderNavListItem(child) }}{% endfor -%}
   </ul>
 {%- endif -%}
