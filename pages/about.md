@@ -13,7 +13,7 @@ eleventyNavigation:
 
 
 
-## James Taylor has more than 30 years’ experience in criminal and traffic matters. ## 
+## James Taylor has more than 30 years’ experience in criminal law, fam,ily law and traffic legal matters. ## 
 
 <figure class="imageright"><img title="James Taylor Bathurst Solicitor" src="https://ik.imagekit.io/webtactics/jamestaylorsolicitor/img/james-taylor.jpg" alt="James Taylor Bathurst Solicitor" width="400px" height="auto">
 <figcaption>James Taylor Bathurst Solicitor</figcaption>
