@@ -866,7 +866,7 @@ ul.off-canvas-list > li.current > a, ul.off-canvas-list > li.active-class > a {
 
 
 .footer {
-  background-color: var(--primary);
+  background-color: var(--mattblack);
   padding: 1rem 0;
   z-index: 4;
 }
