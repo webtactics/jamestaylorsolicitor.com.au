@@ -173,13 +173,13 @@ padding: calc(0.5vw + 5px);
    .caption-text h1 { 
     margin:0;
     text-align: left; 
-    padding: 0.5rem 1rem;
+    padding: 1rem;
     background: var(--black);
     
      }
     
-    .caption-text h1 span { 
-    padding: 0;
+.caption-text h1 span { 
+padding: 0;
     }
     
 
