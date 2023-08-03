@@ -231,7 +231,7 @@ padding: 0;
         float:right;
       }
       @media screen and (min-width: 1025px) {
-        .logo img {max-width:260px;
+        .logo img {max-width:260px;aspect-ratio: 408 / 131;}
           -webkit-transition: all 1s;
       -moz-transition: all 1s;
       -ms-transition: all 1s;
