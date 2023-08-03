@@ -864,7 +864,7 @@ ul.off-canvas-list li a {
   background: #3A3A3A;
 }
 ul.off-canvas-list li a:hover, ul.off-canvas-list li a:focus {
-  color: #191C20;
+  color: var(--black);
   background: var(--primary);
   font-weight: bold;
 }
@@ -877,29 +877,32 @@ ul.off-canvas-list > li.current > a, ul.off-canvas-list > li.active-class > a {
   ul.off-canvas-list li ul.second li a {
     display: block;
     color: var(--white);
-    background: var(--red);
+    background: var(--black);
    padding: 0.35rem 1.5rem;
-    border-bottom: 1px solid #e6e6e6;
+    border-bottom: 1px solid var(--lightgrey);
     transition: background 300ms ease;
+    font-weight: normal;
 
   }
 
   ul.off-canvas-list li ul.second li a:hover {
     display: block;
     color: var(--white);
-    background: var(--green);
+    background: var(--primary);
     padding: 0.35rem 1.5rem;
-    border-bottom: 1px solid #e6e6e6;
+    border-bottom: 1px solid var(--lightgrey);
     transition: background 300ms ease;
+    font-weight: normal;
   }
 
   ul.off-canvas-list li ul.second li.active-class a {
-    border-bottom: 1px solid #e6e6e6;
+    border-bottom: 1px solid var(--lightgrey);
     color: var(--white);
     display: block;
    padding: 0.35rem 1.5rem;
     transition: background 300ms ease;
     background: var(--black);
+    font-weight: normal;
   }
 
 
