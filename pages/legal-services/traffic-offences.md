@@ -2,7 +2,7 @@
 layout: layouts/default.njk
 title: Traffic and Driving Offences
 description: James Taylor Bathurst Solicitor is a Criminal and Family Law Lawyer offering specialist advice and representation in Criminal and Family Law matters and services in all areas of law including Conveyancing, Wills Probate and Administration.
-class: services
+class: services traffic
 section: services
 date: 2023-07-20
 permalink: "/legal-services/traffic-and-driving-offences/"
