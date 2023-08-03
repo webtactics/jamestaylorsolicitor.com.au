@@ -815,21 +815,21 @@ ul.off-canvas-list > li.current > a, ul.off-canvas-list > li.active-class > a {
   color: var(--white);
   background-color: var(--primary); font-weight: bold;}
 
-  .hero {height: 400px;background: url(https://ik.imagekit.io/webtactics/jamestaylorsolicitor/img/james-taylor-solicitor-services.jpg) no-repeat center center;width:100%; background-size:cover;position: relative;background-color: var(--black);}
+  .hero {height: 400px;background: url(https://jamestaylorsolicitor.com.au/img/james-taylor-solicitor-services.jpg) no-repeat center center;width:100%; background-size:cover;position: relative;background-color: var(--black);}
 
-  .contact .hero {height: 400px;background: url(https://ik.imagekit.io/webtactics/jamestaylorsolicitor/img/james-taylor-solicitor-contact.jpg) no-repeat center center;width:100%; background-size:cover;position: relative;background-color: var(--black);}
+  .contact .hero {height: 400px;background: url(https://jamestaylorsolicitor.com.au/img/james-taylor-solicitor-contact.jpg) no-repeat center center;width:100%; background-size:cover;position: relative;background-color: var(--black);}
 
-.home .hero{height: 100svh;height: 100vh;background: url(https://ik.imagekit.io/webtactics/jamestaylorsolicitor/img/bathurst-courthouse-1600x900.jpg) no-repeat center center;width:100%; background-size:cover;position: relative;background-color: var(--black);}
+.home .hero{height: 100svh;height: 100vh;background: url(https://jamestaylorsolicitor.com.au/img/bathurst-courthouse-1600x900.jpg) no-repeat center center;width:100%; background-size:cover;position: relative;background-color: var(--black);}
 
   @media (max-width: 1280px) {
-    .home .hero  {height: 60svh;height: 60vh;background: url(https://ik.imagekit.io/webtactics/jamestaylorsolicitor/img/bathurst-courthouse-1600x900.jpg) no-repeat center center;width:100%; background-size:cover;position: relative;}
+    .home .hero  {height: 60svh;height: 60vh;background: url(https://jamestaylorsolicitor.com.au/img/bathurst-courthouse-1600x900.jpg) no-repeat center center;width:100%; background-size:cover;position: relative;}
   }
   @media (max-width: 500px) {
-    .home .hero  {height: 400px;background: url(https://ik.imagekit.io/webtactics/jamestaylorsolicitor/img/bathurst-courthouse-600x400.jpg) no-repeat center center;width:100%; background-size:cover;position: relative;}
+    .home .hero  {height: 400px;background: url(https://jamestaylorsolicitor.com.au/img/bathurst-courthouse-600x400.jpg) no-repeat center center;width:100%; background-size:cover;position: relative;}
 
-    .hero {height: 400px;background: url(https://ik.imagekit.io/webtactics/jamestaylorsolicitor/img/jamestaylorbathurstsolictor-mobile-header-600x400-2.jpg) no-repeat center center;width:100%; background-size:cover;position: relative;background-color: var(--black);}
+    .hero {height: 400px;background: url(https://jamestaylorsolicitor.com.au/img/jamestaylorbathurstsolictor-mobile-header-600x400-2.jpg) no-repeat center center;width:100%; background-size:cover;position: relative;background-color: var(--black);}
 
-    .contact .hero {height: 400px;background: url(https://ik.imagekit.io/webtactics/jamestaylorsolicitor/img/jamestaylorbathurstsolictor-mobile-header-600x400-3.jpg) no-repeat center center;width:100%; background-size:cover;position: relative;background-color: var(--black);}
+    .contact .hero {height: 400px;background: url(https://jamestaylorsolicitor.com.au/img/jamestaylorbathurstsolictor-mobile-header-600x400-3.jpg) no-repeat center center;width:100%; background-size:cover;position: relative;background-color: var(--black);}
 
   }
 
