@@ -938,6 +938,10 @@ grid-template-columns: 2fr 1fr;}
 
   border:1px solid var(--black);
 }
+
+.img400 img {max-width: 400px;}
+
+.img600 img {max-width: 600px;}
 figure {
   margin: 0;
 }
