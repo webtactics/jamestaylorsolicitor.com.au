@@ -873,6 +873,39 @@ ul.off-canvas-list > li.current > a, ul.off-canvas-list > li.active-class > a {
   color: var(--white);
   background-color: var(--primary); font-weight: bold;}
 
+
+  ul.off-canvas-list li ul.second li a {
+    display: block;
+    color: var(--white);
+    background: var(--red);
+   padding: 0.35rem 1.5rem;
+    border-bottom: 1px solid #e6e6e6;
+    transition: background 300ms ease;
+
+  }
+
+  ul.off-canvas-list li ul.second li a:hover {
+    display: block;
+    color: var(--white);
+    background: var(--green);
+    padding: 0.35rem 1.5rem;
+    border-bottom: 1px solid #e6e6e6;
+    transition: background 300ms ease;
+  }
+
+  ul.off-canvas-list li ul.second li.active-class a {
+    border-bottom: 1px solid #e6e6e6;
+    color: var(--white);
+    display: block;
+   padding: 0.35rem 1.5rem;
+    transition: background 300ms ease;
+    background: var(--black);
+  }
+
+
+
+
+
   .hero {background-attachment: fixed;}
 
   .hero {height: 400px;background: url(https://ik.imagekit.io/webtactics/jamestaylor/james-taylor-solicitor-services_Bfah7l1wA.jpg?updatedAt=1691034363837);   background-repeat: repeat;background-position: center top;background-size: auto;background-color: var(--black);background-attachment: fixed;}
