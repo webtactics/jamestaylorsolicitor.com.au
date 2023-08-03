@@ -901,7 +901,7 @@ ul.off-canvas-list > li.current > a, ul.off-canvas-list > li.active-class > a {
     display: block;
    padding: 0.35rem 1.5rem;
     transition: background 300ms ease;
-    background: var(--black);
+    background: var(--primary);
     font-weight: normal;
   }
 
