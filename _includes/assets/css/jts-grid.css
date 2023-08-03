@@ -836,9 +836,9 @@ ul.off-canvas-list > li.current > a, ul.off-canvas-list > li.active-class > a {
   @media (max-width: 600px) {
     .home .hero  {height: 300px;background: url(https://jamestaylorsolicitor.com.au/img/bathurst-courthouse-600x400.jpg);background-repeat: no-repeat;background-position: center top;background-size: contain;background-color: var(--black);background-attachment: fixed;}
 
-    .hero {height: 250px;background: url(https://jamestaylorsolicitor.com.au/img/jamestaylorbathurstsolictor-mobile-header-600x400-2.jpg);}
+    .hero {height: 300px;background: url(https://jamestaylorsolicitor.com.au/img/jamestaylorbathurstsolictor-mobile-header-600x400-2.jpg);}
 
-    .contact .hero {height: 250px;background: url(https://jamestaylorsolicitor.com.au/img/jamestaylorbathurstsolictor-mobile-header-600x400-3.jpg);}
+    .contact .hero {height: 400px;background: url(https://jamestaylorsolicitor.com.au/img/jamestaylorbathurstsolictor-mobile-header-600x400-3.jpg);}
 
   }
 
