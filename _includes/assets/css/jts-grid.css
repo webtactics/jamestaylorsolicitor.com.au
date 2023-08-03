@@ -882,6 +882,7 @@ ul.off-canvas-list > li.current > a, ul.off-canvas-list > li.active-class > a {
     border-bottom: 1px solid var(--lightgrey);
     transition: background 300ms ease;
     font-weight: normal;
+    font-size: 90%;
 
   }
 
