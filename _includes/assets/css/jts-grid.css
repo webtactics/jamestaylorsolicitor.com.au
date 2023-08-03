@@ -931,6 +931,11 @@ grid-template-columns: 2fr 1fr;}
 .imageright {
   float: right;
   padding: 0 0 1rem 1rem;
+
+}
+
+.imageright img {
+
   border:1px solid var(--black);
 }
 figure {
@@ -955,14 +960,11 @@ figcaption {
     padding: 0;
     text-align: center;
     margin: 1rem auto;
-    border:none;
+  
   }
   .imageright img {margin:0 auto;}
 
-  figcaption {
-    max-width: 100%;
-    margin:0 auto;
-  }
+
 
   .hidesmall {display:none;}
 
