@@ -5,7 +5,7 @@ description: James Taylor Bathurst Solicitor is a Criminal and Family Law Lawyer
 class: services
 section: services
 date: 2023-07-20
-permalink: /services/
+permalink: /legal-services/
 eleventyNavigation:
   key: Services
   order: 3

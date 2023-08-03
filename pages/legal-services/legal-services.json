@@ -1,0 +1,10 @@
+{
+    "layout": "layouts/default.njk",
+    "permalink": "legal-services/{{ title | slug }}/index.html",
+    "author": "Anonymous",
+    "class": "services",
+    "tags": [
+      "legal-services"
+    ]
+  }
+  
