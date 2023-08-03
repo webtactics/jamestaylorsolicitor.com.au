@@ -173,11 +173,12 @@ padding: calc(0.5vw + 5px);
 
 }
 
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 600px) {
 .caption-text {
     width: 100%;
     right: auto;
     left: 0;
+    margin: 0 auto 2rem auto;
 
    }
 
