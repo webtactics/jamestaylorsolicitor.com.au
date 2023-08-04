@@ -1,5 +1,5 @@
 {
-    "layout": "layouts/default.njk",
+    "layout": "layouts/post.njk",
     "permalink": "legal-services/{{ title | slug }}/index.html",
     "author": "Anonymous",
     "class": "legal-services",
