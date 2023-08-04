@@ -878,6 +878,10 @@ ul.off-canvas-list > li.current > a, ul.off-canvas-list > li.active-class > a {
     color: var(--primary);
     background-color: var(--black); font-weight: bold;}
 
+ul.off-canvas-list > li.parent > a:hover {
+color: var(--white);
+background-color: var(--primary); font-weight: bold;}
+
   ul.off-canvas-list li ul.second li a {
     display: block;
     color: var(--white);
