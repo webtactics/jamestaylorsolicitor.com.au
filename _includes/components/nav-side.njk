@@ -5,7 +5,7 @@
 <a href="{{ entry.url }}">{{ entry.title }}</a>
 
 {% if entry.children.length %}
-<ul class="second">
+<ul class="second-level">
 {% for child in entry.children %}{{ renderNavListItem(child) }}{% endfor %}
 </ul>
 {% endif %}
