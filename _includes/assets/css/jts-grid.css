@@ -1120,6 +1120,15 @@ grid-template-columns: 2fr 1fr;}
 
 .button-56:hover:after {
   transform: translate(0, 0);
+
+
+  color: transparent;
+  border: none;
+  background: transparent;
+
+
+
+
 }
 
 .button-56:active {
