@@ -113,6 +113,10 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6 {
   font-size: calc(1rem + 1vw); 
 }
 
+.detailpage-sidebar-summary-content-wrapper h4 { font-size: calc(0.5rem + 1vw); }
+.detailpage-sidebar-summary-content-wrapper h4 a { color: var(--black);border:none;text-decoration: none; padding:0;margin:0;}
+.detailpage-sidebar-summary-content-wrapper h4 a:hover { color: var(--primary);border:none;text-decoration: none; padding:0;margin:0;}
+
 p {font-family: 'Open Sans', sans-serif;
 font-style: normal;
   font-weight: normal;
