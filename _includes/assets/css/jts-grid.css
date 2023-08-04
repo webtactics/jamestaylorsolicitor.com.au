@@ -695,10 +695,11 @@ padding: 0.4rem 0;
   width: 160px;
   text-align: center;
   text-decoration: none;
+  border-bottom: 1px solid (var(--lightgrey));
 }
 ul.second-level li a:hover {
-  display: block;
-
+  display: block;  
+  border-bottom: 1px solid (var(--lightgrey));
   color: var(--white);
   background-color: var(--primary);
   text-align: center;
@@ -708,6 +709,7 @@ ul.second-level li a:hover {
 ul.second-level li.active-class > a {
   color: var(--white);
   background-color: var(--primary);
+  border-bottom: 1px solid (var(--lightgrey));
   -webkit-transition: all 0.6s;
   -moz-transition: all 0.6s;
   -ms-transition: all 0.6s;
@@ -717,6 +719,7 @@ ul.second-level li.active-class > a {
 
 ul.main-menu li:hover ul.second-level {
   display: block;
+  
 }
 
 
