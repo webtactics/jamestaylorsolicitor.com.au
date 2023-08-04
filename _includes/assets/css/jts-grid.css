@@ -906,7 +906,7 @@ ul.off-canvas-list > li.parent > a:hover {
 color: var(--white);
 background-color: var(--primary); font-weight: bold;}
 
-  ul.off-canvas-list li ul.second li a {
+  ul.off-canvas-list li ul.second-level li a {
     display: block;
     color: var(--white);
     background: var(--black);
@@ -918,7 +918,7 @@ background-color: var(--primary); font-weight: bold;}
 
   }
 
-  ul.off-canvas-list li ul.second li a:hover {
+  ul.off-canvas-list li ul.second-level li a:hover {
     display: block;
     color: var(--white);
     background: var(--primary);
@@ -928,7 +928,7 @@ background-color: var(--primary); font-weight: bold;}
     font-weight: normal;
   }
 
-  ul.off-canvas-list li ul.second li.active-class a {
+  ul.off-canvas-list li ul.second-level li.active-class a {
     border-bottom: 1px solid var(--lightgrey);
     color: var(--white);
     display: block;
