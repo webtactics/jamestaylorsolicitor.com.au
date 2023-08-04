@@ -1,13 +1,11 @@
 {% extends "layouts/default.njk" %}
 
-{% block hero %}
-{% include "components/hero.njk" %}
-{% endblock %}
 
 
 
 
-{% block content %} <section role="main" class="content">
+{% block content %} 
+<section role="main" class="content">
  <div class="grid-2-columns-2x1">
  <div class="detailwrapper"><article>{{ layoutContent | safe }}</article></div>
  <div class="sidebarwrapper"><aside>{% set postslist = collections.services %}
@@ -15,3 +13,6 @@
  </div>
 </section>
 {% endblock %}
+
+
+
