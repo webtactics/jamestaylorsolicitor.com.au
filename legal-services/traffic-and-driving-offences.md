@@ -2,7 +2,7 @@
 title: Traffic and Driving Offences
 author: Paul Goldsmith
 date: 2023-04-19
-permalink: /legal-services/traffic-and-driving-offences-law-services/
+permalink: /legal-services/traffic-and-driving-offences/
 tags:
   - traffic
 image: https://ik.imagekit.io/webtactics/gtmassage/img/massages/Thai-Hot-Coconut-Oil-Massage.jpg

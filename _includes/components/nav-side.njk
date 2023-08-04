@@ -1,17 +1,14 @@
 
-{% set navPages = collections.all | eleventyNavigation %}
-{% macro renderNavListItem(entry) -%}
-<li{% if entry.url == page.url %} class="active-class"{% endif %}>
-<a href="{{ entry.url }}">{{ entry.title }}</a>
-
-{% if entry.children.length %}
-<ul class="second-level">
-{% for child in entry.children %}{{ renderNavListItem(child) }}{% endfor %}
-</ul>
-{% endif %}
-
-</li>
-{%- endmacro %}
 <ul class="off-canvas-list">
-{%- for entry in navPages %}{{ renderNavListItem(entry) }}{%- endfor -%}
+<li><a href="/">Home</a></li>
+<li><a href="/about/">About</a></li>
+<li><a href="/legal-services/">Services</a>
+<ul class="second-level">
+<li><a href="legal-services/criminal-law-services/">Criminal Law</a></li>
+<li><a href="/legal-services/family-law-services/">Family Law</a></li>
+<li><a href="/legal-services/property-and-conveyancing-law-services/">Property &amp; Conveyancing</a></li>
+<li class="active-class"><a href="/legal-services/traffic-and-driving-offences/">Traffic &amp; Driving</a></li>
+<li><a href="/legal-services/wills-and-estate-planning-services/">Wills &amp; Estate</a></li>
+</ul>
+</li><li><a href="/contact/">Contact</a></li>
 </ul>
