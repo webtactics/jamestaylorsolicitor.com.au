@@ -1,15 +1,21 @@
+
   {% set navPages = collections.all | eleventyNavigation %}
+  
+  {% macro hasActiveChild(entry) -%}
+    {% if entry.url == page.url %}
+      {% return true %}
+    {% endif %}
+    {% for child in entry.children %}
+      {% if hasActiveChild(child) %}
+        {% return true %}
+      {% endif %}
+    {% endfor %}
+    {% return false %}
+  {%- endmacro %}
   
   {% macro renderNavListItem(entry) -%}
     {% set isParent = entry.children.length > 0 %}
-    {% set hasActiveChild = false %}
-    
-    {# Check if any child is active #}
-    {% for child in entry.children %}
-      {% if child.url == page.url or child.children | hasActiveChild %}
-        {% set hasActiveChild = true %}
-      {% endif %}
-    {% endfor %}
+    {% set hasActiveChild = hasActiveChild(entry) %}
     
     <li{% if entry.url == page.url %} class="active-class"{% endif %}
         {% if isParent and hasActiveChild %} class="parent"{% endif %}>
@@ -26,6 +32,8 @@
 <ul class="off-canvas-list">
     {%- for entry in navPages %}{{ renderNavListItem(entry) }}{%- endfor -%}
   </ul>
+
+
 
  
  
