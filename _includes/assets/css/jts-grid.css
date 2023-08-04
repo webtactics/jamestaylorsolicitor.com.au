@@ -1149,14 +1149,14 @@ grid-template-columns: 2fr 1fr;gap: 3rem;}
 }
 
 
-.sidebarsumpic  {
+.detailpage-sidebar-summary-content-wrapper  {
   padding: 0 0 0 0.5rem;
   margin: 0 0 0 0.5rem;
   border-left: 0.3rem solid var(--primary);
   min-height: 3rem;
 }
 
-.sidebarsumpic:hover {
+.detailpage-sidebar-summary-content-wrapper:hover {
   padding: 0 0 0 0.5rem;
   margin: 0 0 0 0.5rem;
   border-left: 0.3rem solid var(--black);
