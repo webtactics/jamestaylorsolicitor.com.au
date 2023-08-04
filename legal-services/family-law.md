@@ -18,7 +18,7 @@ This form of massage is more relaxing than the Traditional Thai massage. Essenti
 
 Thai Hot Coconut Oil Massage helps to eliminate excess water from your body and enhances your immune and nervous systems. For this massage you may also choose aromatic oil, which is not heated, or a very smooth and skin softening milk oil.
 
-There is hardly any oil that can match the quality of coconut oil when it comes to massage. Benefits include:
+There is hardly any oil that can match the quality of coconut oil when it comes to massage. Benefits include:  
 
  - It is very stable. You can leave it for a few hours, you don’t need to worry that it will damage your skin or invite infections.
  - Powerful anti-microbial agents like capric acid and lauric acid in coconut oil do not let microbes infect your skin.
