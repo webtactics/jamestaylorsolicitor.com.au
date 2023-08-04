@@ -4,11 +4,11 @@
   {% macro hasActiveChild(entry) -%}
     {% set isActive = entry.url == page.url %}
     {% for child in entry.children %}
-      {% set isActive = isActive or hasActiveChild(child) %}
+      {% if isActive or hasActiveChild(child) %}
+        {% set isActive = true %}
+      {% endif %}
     {% endfor %}
-    {% set _ = entry.children | map(hasActiveChild) %}
-    {% set isActive = isActive or entry.children | join %}
-    {% return isActive %}
+    {% set _ = true %}
   {%- endmacro %}
   
   {% macro renderNavListItem(entry) -%}
