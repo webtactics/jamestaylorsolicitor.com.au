@@ -1,22 +1,26 @@
 <nav class="childlist">
   {% set navPages = collections.all | eleventyNavigation %}
 
-  {% macro isChildActive(entry) -%}
-    {% set active = false %}
+  {% set activePages = [] %}
+
+  {% for entry in navPages %}
     {% if entry.url == page.url %}
-      {% set active = true %}
+      {% set _ = activePages.push(entry.url) %}
     {% endif %}
     {% for child in entry.children %}
-      {% if isChildActive(child) %}
-        {% set active = true %}
+      {% if child.url == page.url %}
+        {% set _ = activePages.push(child.url) %}
       {% endif %}
     {% endfor %}
-    {{ active }}
+  {% endfor %}
+
+  {% macro isChildActive(url) -%}
+    {{ activePages | includes(url) }}
   {%- endmacro %}
 
   {% macro renderNavListItem(entry) -%}
     {% set isParent = entry.children.length > 0 %}
-    {% set childIsActive = isChildActive(entry) %}
+    {% set childIsActive = isChildActive(entry.url) %}
 
     <li{% if entry.url == page.url or (isParent and childIsActive) %} class="{% if entry.url == page.url %}active-class{% endif %}{% if isParent and childIsActive %} parent{% endif %}">
       <a href="{{ entry.url }}">{{ entry.title }}</a>
