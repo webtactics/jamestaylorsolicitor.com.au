@@ -1,25 +1,12 @@
-{% macro isChildActive(entry, currentPageUrl) -%}
-  {% if entry.url == currentPageUrl %}
-    {% return true %}
-  {% endif %}
-  {% for child in entry.children %}
-    {% if isChildActive(child, currentPageUrl) %}
-      {% return true %}
-    {% endif %}
-  {% endfor %}
-  {% return false %}
-{%- endmacro %}
-
 {% set isParent = entry.children.length > 0 %}
-{% set childIsActive = isChildActive(entry, currentPageUrl) %}
+{% set childIsActive = entry.url == currentPageUrl or isParent and entry.children | map('url') | contains(currentPageUrl) %}
 
-<li{% if entry.url == currentPageUrl or (isParent and childIsActive) %} class="{% if entry.url == currentPageUrl %}active-class{% endif %}{% if isParent and childIsActive %} parent{% endif %}">
+<li{% if childIsActive %} class="{% if entry.url == currentPageUrl %}active-class{% endif %}{% if isParent %} parent{% endif %}"{% endif %}>
   <a href="{{ entry.url }}">{{ entry.title }}</a>
 
   {% if isParent and childIsActive %}
     <ul class="second-level">
       {% for child in entry.children %}
-        {% set childIsActive = isChildActive(child, currentPageUrl) %}
         {% include '_includes/components/nav-item.njk' with { entry: child, currentPageUrl: currentPageUrl } %}
       {% endfor %}
     </ul>
