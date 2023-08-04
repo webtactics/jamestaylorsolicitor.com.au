@@ -1012,7 +1012,11 @@ text-align: center;
 @media (min-width: 1025px) {
 .grid-3-columns {
   grid-template-columns: repeat(3, 1fr);
-}}
+}
+.grid-2-columns {
+  grid-template-columns: repeat(2, 1fr); gap: 2rem;
+}
+}
 
 @media (max-width: 1024px) {
 .grid-3-columns {
@@ -1022,6 +1026,9 @@ text-align: center;
 @media (max-width: 600px) {
 .grid-3-columns {
   grid-template-columns: repeat(1, 1fr);
+  }
+  .grid-2-columns {
+    grid-template-columns: repeat(1, 1fr);
   }
 }
 
