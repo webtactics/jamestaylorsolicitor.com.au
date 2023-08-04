@@ -2,15 +2,16 @@
   {% set navPages = collections.all | eleventyNavigation %}
   
   {% macro hasActiveChild(entry) -%}
+    {% set active = false %}
     {% if entry.url == page.url %}
-      {% return true %}
+      {% set active = true %}
     {% endif %}
     {% for child in entry.children %}
       {% if hasActiveChild(child) %}
-        {% return true %}
+        {% set active = true %}
       {% endif %}
     {% endfor %}
-    {% return false %}
+    {{ active }}
   {%- endmacro %}
   
   {% macro renderNavListItem(entry) -%}
