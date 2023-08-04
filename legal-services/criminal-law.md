@@ -2,6 +2,7 @@
 title: Criminal Law
 author: Paul Goldsmith
 date: 2023-04-19
+permalink: /legal-services/criminal-law-services/
 tags:
   - criminal
 image: https://ik.imagekit.io/webtactics/gtmassage/img/massages/Thai-Hot-Coconut-Oil-Massage.jpg

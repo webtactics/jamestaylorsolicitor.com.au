@@ -2,6 +2,7 @@
 title: Wills & Estate Planning
 author: Paul Goldsmith
 date: 2023-04-19
+permalink: /legal-services/wills-and-estate-planning-services/
 tags:
   - wills
 image: https://ik.imagekit.io/webtactics/gtmassage/img/massages/Thai-Hot-Coconut-Oil-Massage.jpg

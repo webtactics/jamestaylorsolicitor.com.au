@@ -2,6 +2,7 @@
 title: Property & Conveyancing
 author: Paul Goldsmith
 date: 2023-04-19
+permalink: /legal-services/property-and-conveyancing-law-services/
 tags:
   - property
 image: https://ik.imagekit.io/webtactics/gtmassage/img/massages/Thai-Hot-Coconut-Oil-Massage.jpg
