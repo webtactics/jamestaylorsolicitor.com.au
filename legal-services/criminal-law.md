@@ -1,5 +1,5 @@
 ---
-title: Criminal Law Legal Services
+title: Criminal Law
 author: Paul Goldsmith
 date: 2023-04-19
 tags:
