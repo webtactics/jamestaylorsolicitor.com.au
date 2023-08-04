@@ -5,7 +5,8 @@
 
 
 {% block content %} 
-<section role="main" class="content">
+ <div class="caption-text"><h1><span>{{ title }}</span></h1></div>
+<section role="main" class="content">  
  <div class="grid-2-columns-2x1">
  <div class="detailwrapper"><article>{{ layoutContent | safe }}</article></div>
  <div class="sidebarwrapper"><aside>{% set postslist = collections.services %}
