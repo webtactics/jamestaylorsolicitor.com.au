@@ -1,18 +1,26 @@
 <nav class="childlist">
   {% set navPages = collections.all | eleventyNavigation %}
   
-  {% macro renderNavListItem(entry) -%}
-    {% set isParent = entry.children.length > 0 %}
-    {% set hasActiveChild = false %}
-    
+  {% macro hasActiveChild(entry) -%}
+    {% if entry.url == page.url %}
+      {% set _ = activeEntries.append(entry) %}
+    {% endif %}
     {% for child in entry.children %}
-      {% if child.url == page.url or hasActiveChildRecursive(child) %}
-        {% set hasActiveChild = true %}
+      {% if hasActiveChild(child) %}
+        {% set _ = activeEntries.append(child) %}
       {% endif %}
     {% endfor %}
+  {%- endmacro %}
+  
+  {% macro renderNavListItem(entry) -%}
+    {% set isParent = entry.children.length > 0 %}
+    {% set activeEntries = [] %}
+    {% if hasActiveChild(entry) %}
+      {% set _ = activeEntries.append(entry) %}
+    {% endif %}
     
     <li{% if entry.url == page.url %} class="active-class"{% endif %}
-        {% if isParent and hasActiveChild %} class="parent"{% endif %}>
+        {% if isParent and activeEntries | length > 0 %} class="parent"{% endif %}>
       <a href="{{ entry.url }}">{{ entry.title }}</a>
 
       {% if isParent %}
@@ -21,18 +29,6 @@
         </ul>
       {% endif %}
     </li>
-  {%- endmacro %}
-  
-  {# Recursive macro to check active children #}
-  {% macro hasActiveChildRecursive(entry) -%}
-    {% if entry.url == page.url %}
-      {% return true %}
-    {% endif %}
-    {% for child in entry.children %}
-      {% if hasActiveChildRecursive(child) %}
-        {% return true %}
-      {% endif %}
-    {% endfor %}
   {%- endmacro %}
   
   <ul class="main-menu">
