@@ -4,7 +4,7 @@
   {% macro renderNavListItem(entry) -%}
     {% set isParent = entry.children.length > 0 %}
     <li{% if entry.url == page.url %} class="active-class"{% endif %}
-        {% if isParent %} class="is-parent"{% endif %}>
+        {% if isParent %} class="parent"{% endif %}>
       <a href="{{ entry.url }}">{{ entry.title }}</a>
 
       {% if isParent %}
