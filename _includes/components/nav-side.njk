@@ -1,37 +1,25 @@
-  {% set navPages = collections.all | eleventyNavigation %}
+   {% set navPages = collections.all | eleventyNavigation %}
 
-  <script>
-    function isChildActive(entry, currentPageUrl) {
-      if (entry.url === currentPageUrl) {
-        return true;
-      }
-      for (let child of entry.children) {
-        if (isChildActive(child, currentPageUrl)) {
-          return true;
-        }
-      }
-      return false;
-    }
-  </script>
-
-  {% macro renderNavListItem(entry, currentPageUrl) -%}
-    {% set isParent = entry.children.length > 0 %}
-    {% set childIsActive = isChildActive(entry, currentPageUrl) %}
-
-    <li{% if entry.url == currentPageUrl or (isParent and childIsActive) %} class="{% if entry.url == currentPageUrl %}active-class{% endif %}{% if isParent and childIsActive %} parent{% endif %}">
-      <a href="{{ entry.url }}">{{ entry.title }}</a>
-
-      {% if isParent and childIsActive %}
-        <ul class="second">
-          {% for child in entry.children %}{{ renderNavListItem(child, currentPageUrl) }}{% endfor %}
-        </ul>
+  {% macro isChildActive(entry) -%}
+    {% if entry.url == currentPageUrl %}
+      {% return true %}
+    {% endif %}
+    {% for child in entry.children %}
+      {% if isChildActive(child) %}
+        {% return true %}
       {% endif %}
-    </li>
+    {% endfor %}
+    {% return false %}
   {%- endmacro %}
-  
+
 <ul class="off-canvas-list">
-    {%- for entry in navPages %}{{ renderNavListItem(entry) }}{%- endfor -%}
+    {%- for entry in navPages %}
+      {% include '_includes/components/nav-item.njk' with { entry: entry, currentPageUrl: page.url } %}
+    {%- endfor %}
   </ul>
+ 
+ 
+
 
 
 
