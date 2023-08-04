@@ -2,8 +2,8 @@
   {% set navPages = collections.all | eleventyNavigation %}
 
   <ul class="main-menu">
-    {% for entry in navPages %}
-      {% include '_includes/components/nav-item.njk' with { entry: entry, currentPageUrl: page.url, isChildActive: false } %}
-    {% endfor %}
+    {%- for entry in navPages %}
+      {% include '_includes/components/nav-item.njk' with { entry: entry, currentPageUrl: page.url } %}
+    {%- endfor %}
   </ul>
 

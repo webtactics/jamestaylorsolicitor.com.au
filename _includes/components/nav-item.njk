@@ -1,23 +1,25 @@
-{% set isChildActive = false %}
-{% if entry.url == currentPageUrl %}
-  {% set isChildActive = true %}
-{% endif %}
-{% for child in entry.children %}
-  {% if isChildActive %}
-    {% set _ = isChildActive or (child.url == currentPageUrl) %}
-  {% else %}
-    {% set isChildActive = child.url == currentPageUrl %}
+{% macro isChildActive(entry, currentPageUrl) -%}
+  {% if entry.url == currentPageUrl %}
+    {% return true %}
   {% endif %}
-  {% include '_includes/components/nav-item.njk' with { entry: child, currentPageUrl: currentPageUrl, isChildActive: isChildActive } %}
-{% endfor %}
+  {% for child in entry.children %}
+    {% if isChildActive(child, currentPageUrl) %}
+      {% return true %}
+    {% endif %}
+  {% endfor %}
+  {% return false %}
+{%- endmacro %}
 
-<li{% if entry.url == currentPageUrl or (entry.children.length > 0 and isChildActive) %} class="{% if entry.url == currentPageUrl %}active-class{% endif %}{% if entry.children.length > 0 and isChildActive %} parent{% endif %}">
+{% set isParent = entry.children.length > 0 %}
+{% set childIsActive = isChildActive(entry, currentPageUrl) %}
+
+<li{% if entry.url == currentPageUrl or (isParent and childIsActive) %} class="{% if entry.url == currentPageUrl %}active-class{% endif %}{% if isParent and childIsActive %} parent{% endif %}">
   <a href="{{ entry.url }}">{{ entry.title }}</a>
 
-  {% if entry.children.length > 0 and isChildActive %}
+  {% if isParent and childIsActive %}
     <ul class="second-level">
       {% for child in entry.children %}
-        {% include '_includes/components/nav-item.njk' with { entry: child, currentPageUrl: currentPageUrl, isChildActive: false } %}
+        {% include '_includes/components/nav-item.njk' with { entry: child, currentPageUrl: currentPageUrl } %}
       {% endfor %}
     </ul>
   {% endif %}
