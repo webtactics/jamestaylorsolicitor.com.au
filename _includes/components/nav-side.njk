@@ -1,3 +1,4 @@
+
   {% set navPages = collections.all | eleventyNavigation %}
   
   {% macro hasActiveChild(entry) -%}
@@ -16,8 +17,7 @@
     {% set isParent = entry.children.length > 0 %}
     {% set childIsActive = hasActiveChild(entry) %}
     
-    <li{% if entry.url == page.url %} class="active-class"{% endif %}
-        {% if isParent and childIsActive %} class="parent"{% endif %}>
+    <li{% if entry.url == page.url or (isParent and childIsActive) %} class="{% if entry.url == page.url %}active-class{% endif %}{% if isParent and childIsActive %} parent{% endif %}">
       <a href="{{ entry.url }}">{{ entry.title }}</a>
 
       {% if isParent and childIsActive %}
