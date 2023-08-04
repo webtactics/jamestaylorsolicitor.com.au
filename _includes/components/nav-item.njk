@@ -19,6 +19,7 @@
   {% if isParent and childIsActive %}
     <ul class="second-level">
       {% for child in entry.children %}
+        {% set childIsActive = isChildActive(child, currentPageUrl) %}
         {% include '_includes/components/nav-item.njk' with { entry: child, currentPageUrl: currentPageUrl } %}
       {% endfor %}
     </ul>
