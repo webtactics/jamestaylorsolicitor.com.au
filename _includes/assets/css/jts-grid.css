@@ -1082,8 +1082,8 @@ grid-template-columns: 2fr 1fr;}
 /* black button CSS */
 .button-56 {
   align-items: center;
-  background-color: [[$white]];
-  border: 2px solid [[$black]];
+  background-color: var(--white);
+  border: 2px solid var(--black);
   border-radius: 0px;
   box-sizing: border-box;
   color: #111;
@@ -1104,7 +1104,7 @@ grid-template-columns: 2fr 1fr;}
 }
 
 .button-56:after {
-  background-color: [[$black]];
+  background-color: var(--black);
   border-radius: 0px;
   content: "";
   display: block;
@@ -1123,7 +1123,7 @@ grid-template-columns: 2fr 1fr;}
 }
 
 .button-56:active {
-    background-color: [[$white]];
+    background-color: var(--white);
   outline: 0;
 }
 
