@@ -1,11 +1,17 @@
 
-  {% set navPages = collections.all | eleventyNavigation %}
+{% set navPages = collections.all | eleventyNavigation %}
+{% macro renderNavListItem(entry) -%}
+<li{% if entry.url == page.url %} class="active-class"{% endif %}>
+<a href="{{ entry.url }}">{{ entry.title }}</a>
 
-  <ul class="main-menu">
-    {%- for entry in navPages %}
-      <li>
-        {% include '_includes/components/nav-item.njk' with { entry: entry, currentPageUrl: page.url } %}
-      </li>
-    {%- endfor %}
-  </ul>
+{% if entry.children.length %}
+<ul class="second">
+{% for child in entry.children %}{{ renderNavListItem(child) }}{% endfor %}
+</ul>
+{% endif %}
 
+</li>
+{%- endmacro %}
+<ul class="off-canvas-list">
+{%- for entry in navPages %}{{ renderNavListItem(entry) }}{%- endfor -%}
+</ul>
