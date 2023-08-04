@@ -49,6 +49,3 @@ eleventyNavigation:
 - Steal Motor Vehicle-Local Court at Bathurst
 - Rebirthing of motor vehicles-District Court at Sydney
 
-## Test 1 ##
-{% set postslist = collections.services %}
-{% include "components/postlist.njk" %}
