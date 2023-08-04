@@ -3,8 +3,17 @@
   
   {% macro renderNavListItem(entry) -%}
     {% set isParent = entry.children.length > 0 %}
+    {% set hasActiveChild = false %}
+    
+    {# Check if any child is active #}
+    {% for child in entry.children %}
+      {% if child.url == page.url or hasActiveChildRecursive(child) %}
+        {% set hasActiveChild = true %}
+      {% endif %}
+    {% endfor %}
+    
     <li{% if entry.url == page.url %} class="active-class"{% endif %}
-        {% if isParent %} class="parent"{% endif %}>
+        {% if isParent and hasActiveChild %} class="parent"{% endif %}>
       <a href="{{ entry.url }}">{{ entry.title }}</a>
 
       {% if isParent %}
