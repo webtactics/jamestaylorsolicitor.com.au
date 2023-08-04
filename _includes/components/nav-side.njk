@@ -1,23 +1,18 @@
   {% set navPages = collections.all | eleventyNavigation %}
   
   {% macro hasActiveChild(entry) -%}
-    {% if entry.url == page.url %}
-      {% return true %}
-    {% endif %}
+    {% set isActive = entry.url == page.url %}
     {% for child in entry.children %}
-      {% if hasActiveChild(child) %}
-        {% return true %}
-      {% endif %}
+      {% set isActive = isActive or hasActiveChild(child) %}
     {% endfor %}
-    {% return false %}
+    {% set _ = entry.children | map(hasActiveChild) %}
+    {% set isActive = isActive or entry.children | join %}
+    {% return isActive %}
   {%- endmacro %}
   
   {% macro renderNavListItem(entry) -%}
     {% set isParent = entry.children.length > 0 %}
-    {% set childIsActive = false %}
-    {% if hasActiveChild(entry) %}
-      {% set childIsActive = true %}
-    {% endif %}
+    {% set childIsActive = hasActiveChild(entry) %}
     
     <li{% if entry.url == page.url %} class="active-class"{% endif %}
         {% if isParent and childIsActive %} class="parent"{% endif %}>
