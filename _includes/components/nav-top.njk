@@ -2,13 +2,15 @@
   {% set navPages = collections.all | eleventyNavigation %}
   
   {% macro hasActiveChild(entry) -%}
-    {% set isActive = entry.url == page.url %}
+    {% if entry.url == page.url %}
+      {% return true %}
+    {% endif %}
     {% for child in entry.children %}
-      {% if isActive or hasActiveChild(child) %}
-        {% set isActive = true %}
+      {% if hasActiveChild(child) %}
+        {% return true %}
       {% endif %}
     {% endfor %}
-    {% set _ = true %}
+    {% return false %}
   {%- endmacro %}
   
   {% macro renderNavListItem(entry) -%}
@@ -19,7 +21,7 @@
         {% if isParent and childIsActive %} class="parent"{% endif %}>
       <a href="{{ entry.url }}">{{ entry.title }}</a>
 
-      {% if isParent %}
+      {% if isParent and childIsActive %}
         <ul class="second-level">
           {% for child in entry.children %}{{ renderNavListItem(child) }}{% endfor %}
         </ul>
