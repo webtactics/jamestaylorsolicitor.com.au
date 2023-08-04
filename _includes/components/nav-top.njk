@@ -1,39 +1,36 @@
 <nav class="childlist">
   {% set navPages = collections.all | eleventyNavigation %}
 
-  {% set activePages = [] %}
+  <script>
+    function isChildActive(entry, currentPageUrl) {
+      if (entry.url === currentPageUrl) {
+        return true;
+      }
+      for (let child of entry.children) {
+        if (isChildActive(child, currentPageUrl)) {
+          return true;
+        }
+      }
+      return false;
+    }
+  </script>
 
-  {% for entry in navPages %}
-    {% if entry.url == page.url %}
-      {% set _ = activePages.push(entry.url) %}
-    {% endif %}
-    {% for child in entry.children %}
-      {% if child.url == page.url %}
-        {% set _ = activePages.push(child.url) %}
-      {% endif %}
-    {% endfor %}
-  {% endfor %}
-
-  {% macro isChildActive(url) -%}
-    {{ activePages | includes(url) }}
-  {%- endmacro %}
-
-  {% macro renderNavListItem(entry) -%}
+  {% macro renderNavListItem(entry, currentPageUrl) -%}
     {% set isParent = entry.children.length > 0 %}
-    {% set childIsActive = isChildActive(entry.url) %}
+    {% set childIsActive = isChildActive(entry, currentPageUrl) %}
 
-    <li{% if entry.url == page.url or (isParent and childIsActive) %} class="{% if entry.url == page.url %}active-class{% endif %}{% if isParent and childIsActive %} parent{% endif %}">
+    <li{% if entry.url == currentPageUrl or (isParent and childIsActive) %} class="{% if entry.url == currentPageUrl %}active-class{% endif %}{% if isParent and childIsActive %} parent{% endif %}">
       <a href="{{ entry.url }}">{{ entry.title }}</a>
 
       {% if isParent and childIsActive %}
         <ul class="second-level">
-          {% for child in entry.children %}{{ renderNavListItem(child) }}{% endfor %}
+          {% for child in entry.children %}{{ renderNavListItem(child, currentPageUrl) }}{% endfor %}
         </ul>
       {% endif %}
     </li>
   {%- endmacro %}
 
   <ul class="main-menu">
-    {%- for entry in navPages %}{{ renderNavListItem(entry) }}{%- endfor -%}
+    {%- for entry in navPages %}{{ renderNavListItem(entry, page.url) }}{%- endfor -%}
   </ul>
 </nav>
