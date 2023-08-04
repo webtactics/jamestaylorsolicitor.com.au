@@ -669,7 +669,7 @@ ul.main-menu > li.parent > a:hover {
 }
 
 /* Second level nav */
-ul.second-level {
+ul.main-menu li ul.second-level {
   display: none;
   position: absolute;
   top: 100%;
@@ -680,7 +680,7 @@ ul.second-level {
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
 }
 
-ul.second-level li {
+ul.main-menu li ul.second-level li {
   display: block;
   border-top: 1px solid var(--lightgrey);
 }
@@ -688,7 +688,7 @@ ul.second-level li {
 
 
 
-ul.second-level li a {
+ul.main-menu li ul.second-level li a {
   display: block;
 padding: 0.4rem 0;
   color: var(--primary);
@@ -697,7 +697,7 @@ padding: 0.4rem 0;
   text-decoration: none;
   border-bottom: 1px solid (var(--lightgrey));
 }
-ul.second-level li a:hover {
+ul.main-menu li ul.second-level li a:hover {
   display: block;  
   border-bottom: 1px solid (var(--lightgrey));
   color: var(--white);
@@ -706,7 +706,7 @@ ul.second-level li a:hover {
   text-decoration: none;
 }
 
-ul.second-level li.active-class > a {
+ul.main-menu li ul.second-level li.active-class > a {
   color: var(--white);
   background-color: var(--primary);
   border-bottom: 1px solid (var(--lightgrey));
@@ -716,6 +716,7 @@ ul.second-level li.active-class > a {
   -o-transition: all 0.6s;
   transition: all 0.6s;
 }
+
 
 ul.main-menu li:hover ul.second-level {
   display: block;
