@@ -1,9 +1,12 @@
-<!-- Start list Template -->
+
+
+<!-- Start Price list Template -->
+
 <h3>Services:</h3>
 <div class="detailpagesummaryborder"></div>
 <!-- items -->
 {% for post in postslist | reverse %}
-
+<div class="detailpagesummary">
 <div class="grid-detailpage-sidebar-summary">
 <div class="sidebarsumpic">
 <a href="{{ post.url | url }}"><img src="{{ post.data.image }}/tr:w-250,h-250" alt="{{ post.data.imageAlt }}" title="{{ post.data.imageAlt }}" ></a>
@@ -16,6 +19,8 @@
 
 </div>
 </div>
-
+</div>
 {% endfor %}
-<!-- end items -->
+
+
+
