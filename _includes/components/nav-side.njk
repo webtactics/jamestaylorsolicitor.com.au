@@ -1,4 +1,4 @@
-   {% set navPages = collections.all | eleventyNavigation %}
+  {% set navPages = collections.all | eleventyNavigation %}
   
   {% macro renderNavListItem(entry) -%}
     {% set isParent = entry.children.length > 0 %}
@@ -6,7 +6,7 @@
     
     {# Check if any child is active #}
     {% for child in entry.children %}
-      {% if child.url == page.url or hasActiveChildRecursive(child) %}
+      {% if child.url == page.url or child.children | hasActiveChild %}
         {% set hasActiveChild = true %}
       {% endif %}
     {% endfor %}
@@ -26,6 +26,7 @@
 <ul class="off-canvas-list">
     {%- for entry in navPages %}{{ renderNavListItem(entry) }}{%- endfor -%}
   </ul>
+
  
  
  
