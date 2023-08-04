@@ -51,4 +51,4 @@ eleventyNavigation:
 
 ## Test 1 ##
 {% set postslist = collections.services %}
-{% include "components/post-product-default.njk" %}
+{% include "components/postlist.njk" %}
