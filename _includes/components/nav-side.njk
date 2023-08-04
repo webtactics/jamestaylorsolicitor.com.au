@@ -1,8 +1,9 @@
+{% set navPages = collections.all | eleventyNavigation %}
+{% macro renderNavListItem(entry) -%}
+<li{% if entry.url == page.url %} class="active-class"{% endif %}>
+<a href="{{ entry.url }}" title="{{ entry.title }}" alt="{{ entry.title }}">{{ entry.title }}</a>
 
-<ul class="off-canvas-list">
-<li><a href="/">Home</a></li>
-<li><a href="/about/">About</a></li>
-<li><a href="/legal-services/">Services</a>
+  {% if entry.url == "/legal-services/" %}
 <ul class="second-level">
 <li><a href="/legal-services/criminal-law-services/">Criminal Law</a></li>
 <li><a href="/legal-services/family-law-services/">Family Law</a></li>
@@ -10,5 +11,13 @@
 <li><a href="/legal-services/traffic-and-driving-offences/">Traffic &amp; Driving</a></li>
 <li><a href="/legal-services/wills-and-estate-planning-services/">Wills &amp; Estate</a></li>
 </ul>
-</li><li><a href="/contact/">Contact</a></li>
+    {% endif %}
+
+</li>
+{%- endmacro %}
+<ul class="off-canvas-list">
+{%- for entry in navPages %}{{ renderNavListItem(entry) }}{%- endfor -%}
 </ul>
+
+
+
