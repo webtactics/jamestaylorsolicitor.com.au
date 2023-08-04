@@ -1,15 +1,15 @@
 <nav class="childlist">
 <ul class="main-menu">
-<li><a href="/">Home</a></li>
-<li><a href="/about/">About</a></li>
-<li><a href="/legal-services/">Services</a>
+<li{% if entry.url == page.url %} class="active-class"{% endif %}><a href="/">Home</a></li>
+<li{% if entry.url == page.url %} class="active-class"{% endif %}><a href="/about/">About</a></li>
+<li{% if entry.url == page.url %} class="active-class"{% endif %}><a href="/legal-services/">Services</a>
 <ul class="second-level">
-<li><a href="legal-services/criminal-law-services/">Criminal Law</a></li>
-<li><a href="/legal-services/family-law-services/">Family Law</a></li>
-<li><a href="/legal-services/property-and-conveyancing-law-services/">Property &amp; Conveyancing</a></li>
-<li class="active-class"><a href="/legal-services/traffic-and-driving-offences/">Traffic &amp; Driving</a></li>
-<li><a href="/legal-services/wills-and-estate-planning-services/">Wills &amp; Estate</a></li>
+<li{% if entry.url == page.url %} class="active-class"{% endif %}><a href="legal-services/criminal-law-services/">Criminal Law</a></li>
+<li{% if entry.url == page.url %} class="active-class"{% endif %}><a href="/legal-services/family-law-services/">Family Law</a></li>
+<li{% if entry.url == page.url %} class="active-class"{% endif %}><a href="/legal-services/property-and-conveyancing-law-services/">Property &amp; Conveyancing</a></li>
+<li{% if entry.url == page.url %} class="active-class"{% endif %}><a href="/legal-services/traffic-and-driving-offences/">Traffic &amp; Driving</a></li>
+<li{% if entry.url == page.url %} class="active-class"{% endif %}><a href="/legal-services/wills-and-estate-planning-services/">Wills &amp; Estate</a></li>
 </ul>
-</li><li><a href="/contact/">Contact</a></li>
+<li{% if entry.url == page.url %} class="active-class"{% endif %}><a href="/contact/">Contact</a></li>
 </ul>
 </nav>
