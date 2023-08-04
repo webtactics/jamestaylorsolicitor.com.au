@@ -572,7 +572,7 @@ width: 120px;
 }
 
 
-.main-menu > li > a {
+ul.main-menu > li > a {
   padding: 0;
   line-height: 48px;
   font-size: 1.2rem;
@@ -591,7 +591,7 @@ background-color: transparent;
   transition: all 0.6s;
 }
 
-.main-menu > li > a:hover {
+ul.main-menu > li > a:hover {
   line-height: 48px;
   color: var(--white);
   background-color: transparent;
@@ -602,7 +602,7 @@ background-color: transparent;
   -o-transition: all 0.6s;
   transition: all 0.6s;
 }
-.home .main-menu > li > a {
+.home ul.main-menu > li > a, .services ul.main-menu > li > a  {
   color: var(--white);
   background-color: transparent;
   border-bottom: 6px solid var(--primary);
