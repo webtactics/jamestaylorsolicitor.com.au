@@ -3,7 +3,9 @@
 
   <ul class="main-menu">
     {%- for entry in navPages %}
-      {% include '_includes/components/nav-item.njk' with { entry: entry, currentPageUrl: page.url } %}
+      <li>
+        {% include '_includes/components/nav-item.njk' with { entry: entry, currentPageUrl: page.url } %}
+      </li>
     {%- endfor %}
   </ul>
 </nav>
