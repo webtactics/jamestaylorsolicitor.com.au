@@ -11,41 +11,7 @@ eleventyNavigation:
   order: 3
 ---
 
-## James Taylor Bathurst Solictor provides a comprehensive range of legal services in criminal law, family law, property, commerical and traffic legal matters. ## 
+## James Taylor Bathurst Solictor provides a comprehensive range of legal services in criminal law, family law & estate planning, property, commerical and motor vehicle legal matters. ## 
 
-**Below are some of the criminal Law matters James Taylor Bathurst Solicitor have acted in:**
 
-- Sexual Assault Offences.
-- Assault Offences – Common, assault occasion actual bodily harm, reckless wound and others.
-- Apprehended Violence Orders– Personal and Domestic.
-- Centrelink Offences and Centrelink Fraud.
-- Drug Offences – Possess, supply and others
-- Fraud Offences.
-- Driving Manner Dangerous
-- Driving Manner Dangerous Causing Grievous Bodily Harm/Death.
-- Negligent Driving Causing Grievous Bodily Harm/Death.
-- Robbery Offences – Armed/On person, Break and Enter.
-- Stealing
-- Affray and Riot Offences.
-- Resist Arrest, Assault Police, Recklessly/Intentionally Destroy Property.
-- Attempted Murder/ Murder.
-- Firearms Offences – unlicensed, fail to store safely, supply, possess prohibited weapons
-
-<figure class="imageright hidesmall"><img title="James Taylor Bathurst Solicitor" src="https://ik.imagekit.io/webtactics/jamestaylor/police-600x439_1l87ovAaq.jpg?updatedAt=1691040538539" alt="James Taylor Bathurst Solicitor" width="300px" height="auto">
-<figcaption>More than 30 years experience</figcaption>
-</figure>
-
-**Below are some of the most recent Criminal cases James Taylor Bathurst Solicitor have acted in:**
-
-- Supply Firearms/Prohibited Weapons – District Court at Bathurst and Sydney
-- Supply Prohibited Drug – District Court at Bathurst and Parramatta.
-- Sexual Assault- Local Court and District Court at Bathurst.
-- Reckless Wound- Local Court at Bathurst.
-- Appeal-Court of Criminal Appeal-Supreme Court Sydney
-- Centrelink Fraud-District Court at Bathurst.
-- Drive Manner Dangerous Causing Death-District Court at Sydney.
-- Affray/Assault Occasioning Actual Bodily Harm- Local Court at Bathurst.
-- Break and Enter Dwelling-District Court at Bathurst
-- Steal Motor Vehicle-Local Court at Bathurst
-- Rebirthing of motor vehicles-District Court at Sydney
 
