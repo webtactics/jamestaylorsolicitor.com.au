@@ -3,24 +3,24 @@
   
   {% macro hasActiveChild(entry) -%}
     {% if entry.url == page.url %}
-      {% set _ = activeEntries.append(entry) %}
+      {% set active = true %}
     {% endif %}
     {% for child in entry.children %}
       {% if hasActiveChild(child) %}
-        {% set _ = activeEntries.append(child) %}
+        {% set active = true %}
       {% endif %}
     {% endfor %}
   {%- endmacro %}
   
   {% macro renderNavListItem(entry) -%}
     {% set isParent = entry.children.length > 0 %}
-    {% set activeEntries = [] %}
+    {% set active = false %}
     {% if hasActiveChild(entry) %}
-      {% set _ = activeEntries.append(entry) %}
+      {% set active = true %}
     {% endif %}
     
     <li{% if entry.url == page.url %} class="active-class"{% endif %}
-        {% if isParent and activeEntries | length > 0 %} class="parent"{% endif %}>
+        {% if isParent and active %} class="parent"{% endif %}>
       <a href="{{ entry.url }}">{{ entry.title }}</a>
 
       {% if isParent %}
