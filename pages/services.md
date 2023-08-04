@@ -1,5 +1,5 @@
 ---
-layout: layouts/default.njk
+layout: layouts/services.njk
 title: Our Service & Practice Areas
 description: James Taylor Bathurst Solicitor is a Criminal and Family Law Lawyer offering specialist advice and representation in Criminal and Family Law matters and services in all areas of law including Conveyancing, Wills Probate and Administration.
 class: services
@@ -49,4 +49,6 @@ eleventyNavigation:
 - Steal Motor Vehicle-Local Court at Bathurst
 - Rebirthing of motor vehicles-District Court at Sydney
 
-
+## Test 1 ##
+{% set postslist = collections.services %}
+{% include "components/post-product-default.njk" %}
