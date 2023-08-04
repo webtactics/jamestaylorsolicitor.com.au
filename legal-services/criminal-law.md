@@ -5,9 +5,9 @@ date: 2023-04-19
 permalink: /legal-services/criminal-law-services/
 tags:
   - criminal
-image: https://ik.imagekit.io/webtactics/gtmassage/img/massages/Thai-Hot-Coconut-Oil-Massage.jpg
+image: https://ik.imagekit.io/webtactics/jamestaylorsolicitor/img/services/legal-600x400.jpg
 imageAlt: Criminal Law Legal Services
-description: Essential oils are heated and used during this massage which brings deep comfort and the feeling of complete regeneration.
+description: In criminal matters James Taylor has appeared in complex and lengthy trials including murder, sexual assault, commercial drug supply, serious fraud and armed robbery.
 area: criminal
 
 
@@ -15,16 +15,10 @@ area: criminal
 
 
 
-This form of massage is more relaxing than the Traditional Thai massage. Essential oils are heated and used during this massage which brings deep comfort and the feeling of complete regeneration.
+From About
 
-Thai Hot Coconut Oil Massage helps to eliminate excess water from your body and enhances your immune and nervous systems. For this massage you may also choose aromatic oil, which is not heated, or a very smooth and skin softening milk oil.
+In criminal matters James Taylor has appeared in complex and lengthy trials including murder, sexual assault, commercial drug supply, serious fraud and armed robbery.
 
-There is hardly any oil that can match the quality of coconut oil when it comes to massage. Benefits include:
+James has also appeared at New South Wales Parole Board Hearings, Police Integrity Commission Hearings, New South Wales Crime Commission Hearings and Coronial Inquests.
 
- - It is very stable. You can leave it for a few hours, you don’t need to worry that it will damage your skin or invite infections.
- - Powerful anti-microbial agents like capric acid and lauric acid in coconut oil do not let microbes infect your skin.
- - Coconut oil on the skin does not let moisture escape, thus protecting it from drying and cracking.
- - It is rich in vitamin-E and keeps your skin rejuvenated, young, and healthy.
- - Coconut massage oil contains many antioxidants, so it can keep you looking young even in your seventies. These antioxidants do not let the skin wrinkle and also protects it from other adverse effects of aging, like sagging, peeling, and discolouration.
- - Coconut oil penetrates the skin very easily while massaging and can serve very well if used as a carrier oil for other herbal extracts, essential oils, or medicines.
- - The fragrance of coconut oil is earthy and soothing and keeps you fresh all day and eliminating body odour.
+As an involved and concerned lawyer, James Taylor regularly appears in Bail Applications including weekend Bail Applications. He also regularly appears in the Children’s Court and the Local and District Courts for pleas of guilty, defended hearings, trials-jury and Judge alone, bail applications, sentence hearings, severity appeals, conviction appeals, committal hearings and other hearings.
