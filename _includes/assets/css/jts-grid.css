@@ -856,13 +856,14 @@ ul.off-canvas-list {
   padding: 0;
 }
 ul.off-canvas-list li a {
-  border-bottom: 1px solid #e6e6e6;
+  border-bottom: 1px solid var(--lightgrey);
   color: var(--white);
   display: block;
   padding: 0.75rem;
   transition: background 300ms ease;
-  background: #3A3A3A;
+  background: var(--mattblack);
 }
+
 ul.off-canvas-list li a:hover, ul.off-canvas-list li a:focus {
   color: var(--black);
   background: var(--primary);
@@ -873,6 +874,9 @@ ul.off-canvas-list > li.current > a, ul.off-canvas-list > li.active-class > a {
   color: var(--white);
   background-color: var(--primary); font-weight: bold;}
 
+  ul.off-canvas-list > li.parent > a {
+    color: var(--primary);
+    background-color: var(--black); font-weight: bold;}
 
   ul.off-canvas-list li ul.second li a {
     display: block;
