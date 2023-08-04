@@ -4,6 +4,12 @@
 <li{% if entry.url == page.url %} class="active-class"{% endif %}>
 <a href="{{ entry.url }}">{{ entry.title }}</a>
 
+
+{% if entry.url == "/legal-services/" %}  
+<li class="active-class parent"><a href="/legal-services/">Services</a></li>
+{% endif %}
+
+
 {% if entry.children.length %}
 <ul class="second-level">
 {% for child in entry.children %}{{ renderNavListItem(child) }}{% endfor %}
