@@ -1,23 +1,23 @@
 <nav class="childlist">
   {% set navPages = collections.all | eleventyNavigation %}
-  
-  {% macro hasActiveChild(entry) -%}
+
+  {% macro isChildActive(entry) -%}
     {% set active = false %}
     {% if entry.url == page.url %}
       {% set active = true %}
     {% endif %}
     {% for child in entry.children %}
-      {% if hasActiveChild(child) %}
+      {% if isChildActive(child) %}
         {% set active = true %}
       {% endif %}
     {% endfor %}
     {{ active }}
   {%- endmacro %}
-  
+
   {% macro renderNavListItem(entry) -%}
     {% set isParent = entry.children.length > 0 %}
-    {% set childIsActive = hasActiveChild(entry) %}
-    
+    {% set childIsActive = isChildActive(entry) %}
+
     <li{% if entry.url == page.url or (isParent and childIsActive) %} class="{% if entry.url == page.url %}active-class{% endif %}{% if isParent and childIsActive %} parent{% endif %}">
       <a href="{{ entry.url }}">{{ entry.title }}</a>
 
@@ -28,7 +28,7 @@
       {% endif %}
     </li>
   {%- endmacro %}
-  
+
   <ul class="main-menu">
     {%- for entry in navPages %}{{ renderNavListItem(entry) }}{%- endfor -%}
   </ul>
