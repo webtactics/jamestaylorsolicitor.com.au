@@ -2,7 +2,9 @@
 
 
 
-
+  {% block hero %}
+  {% include "components/hero-detail.njk" %}
+  {% endblock %}
 
 {% block content %} 
  <div class="caption-text"><h1><span>{{ title }}</span></h1></div>
