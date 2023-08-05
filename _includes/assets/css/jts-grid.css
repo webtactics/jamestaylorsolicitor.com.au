@@ -469,21 +469,21 @@ span.title-bar-title {display:block;text-indent:34px;padding:0;}
   color: var(--white);
 }
 button.success, .button.success {
-  background-color: var(--primarylight);
+  background-color: var(--white);
   border-width: 0.1rem;
-  border-color: var(--primary);
-  color: var(--white);
-  font-size: 1.3rem;
+  border-color: var(--black);
+  color: var(--black);
+  font-size: 1rem;
   padding: 0.5rem 2rem;
   margin: 0 auto;
   text-transform: uppercase;
   text-decoration:none;
 }
 button.success:hover, button.success:focus, .button.success:hover, .button.success:focus {
-  background-color: var(--primary);
+  background-color: var(--black);
   color: var(--white);
   border-width: 0.1rem;
-  border-color: var(--white);
+  border-color: var(--primary);
 }
 
 
