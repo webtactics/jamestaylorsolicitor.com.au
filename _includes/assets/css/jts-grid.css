@@ -190,6 +190,7 @@ padding: calc(0.5vw + 5px);
 padding: 0;
     }
 .legal-services    .caption-text {
+  position: absolute;
       width: 100%;
       right: auto;
       left: 0;
