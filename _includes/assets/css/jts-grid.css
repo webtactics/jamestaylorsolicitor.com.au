@@ -1084,6 +1084,9 @@ grid-template-columns: 2fr 1fr;gap: 3rem;}
      transition: box-shadow 0.2s ease-in-out;
      border: 1px solid var(--primarydark);
   }
+
+
+  .sidebarwrapper h3 {color: var(--black);font-size: 1.5rem;font-weight:700;}
     
 /* black button CSS */
 .button-56 {
