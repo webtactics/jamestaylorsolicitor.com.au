@@ -142,7 +142,9 @@ line-height: 1.5rem;}
 .servicescontent {padding:  2rem 0 4rem;}
 
 .legal-services .content {  padding:  1rem 1rem 4rem;}
-
+@media screen and (max-width: 600px) {
+  .legal-services .content {  padding:  3rem  4rem;}
+}
 
 .caption-text { 
 max-width: 1280px;
