@@ -2,8 +2,10 @@
 
 
 
-  {% block hero %}
-  {% include "components/hero-detail.njk" %}
+{% block hero %}
+<section class="sliderbox hide-for-print">
+<div class="hero" style="background: url({{ image }} alt='{{ title }}' title='{{ title }}');" ></div>
+</section>
   {% endblock %}
 
 {% block content %} 
