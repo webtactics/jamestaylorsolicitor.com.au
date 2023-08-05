@@ -1095,26 +1095,6 @@ grid-template-columns: 2fr 1fr;gap: 3rem;}
 
     
 /* black button CSS */
-{% extends "layouts/default.njk" %}
-
-{% block hero %}
-{% include "components/hero.njk" %}
-{% endblock %}
-
-{% block content %}
-<div class="caption-text"><h1><span>{{ title }}</span></h1></div>
-<section role="main" class="content">  
-
-{{ layoutContent | safe }}
-<div class="servicescontent">
-    <h3>Practice Areas:</h3>
-  {% set postslist = collections.services | reverse %}
-{% include "components/postslist-3wide.njk" %}
-  </div>
-
-</section>
-{% endblock %}
-
 
 
 
