@@ -935,7 +935,7 @@ background-color: var(--primary); font-weight: bold;}
 
   .contact .hero {height: 400px;background: url(https://ik.imagekit.io/webtactics/jamestaylor/2000x400/james-taylor-solicitor-contact_bL-q3aMlL.jpg?updatedAt=1691109167674);background-repeat: repeat;background-position: center top;background-size: auto;background-color: var(--black);background-attachment: fixed;}
 
-  .legal-services .hero {height: 400px;background-repeat: repeat;background-position: center top;background-size: auto;background-color: var(--black);background-attachment: fixed;}
+  .legal-services .herodetail {height: 400px;background-repeat: repeat;background-position: center top;background-size: auto;background-color: var(--black);background-attachment: fixed;}
 
   .property .hero {height: 400px;background: url(https://ik.imagekit.io/webtactics/jamestaylor/2000x400/property_t66cf8cG_.jpg?updatedAt=1691106375332);background-repeat: repeat;background-position: center top;background-size: auto;background-color: var(--black);background-attachment: fixed;}
 
