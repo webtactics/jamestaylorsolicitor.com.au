@@ -935,7 +935,7 @@ background-color: var(--primary); font-weight: bold;}
 
   .contact .hero {height: 400px;background: url(https://ik.imagekit.io/webtactics/jamestaylor/2000x400/james-taylor-solicitor-contact_bL-q3aMlL.jpg?updatedAt=1691109167674);background-repeat: repeat;background-position: center top;background-size: auto;background-color: var(--black);background-attachment: fixed;}
 
-  .legal-services .herodetail {height: 400px;background-repeat: repeat;background-position: center top;background-size: auto;background-color: var(--black);background-attachment: fixed;}
+ 
 
   .property .hero {height: 400px;background: url(https://ik.imagekit.io/webtactics/jamestaylor/2000x400/property_t66cf8cG_.jpg?updatedAt=1691106375332);background-repeat: repeat;background-position: center top;background-size: auto;background-color: var(--black);background-attachment: fixed;}
 
@@ -957,6 +957,8 @@ background-color: var(--primary); font-weight: bold;}
     .hero {height: 300px;background: url(https://ik.imagekit.io/webtactics/jamestaylor/jamestaylorbathurstsolictor-mobile-header-600x400-2_AkP7b8h3m.jpg?updatedAt=1691040123876);background-position: right top;}
 
     .contact .hero {height: 300px;background: url(https://ik.imagekit.io/webtactics/jamestaylor/jamestaylorbathurstsolictor-mobile-header-600x400-3_VZPlWT02R.jpg?updatedAt=1691040123881);}
+
+    .legal-services .hero {display:none;}
 
   }
 
