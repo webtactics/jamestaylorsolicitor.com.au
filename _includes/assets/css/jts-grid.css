@@ -248,7 +248,9 @@ width: 100%;
       -moz-transition: all 1s;
       -ms-transition: all 1s;
       -o-transition: all 1s;
-      transition: all 1s;}
+      transition: all 1s;
+      box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+    }
       .scrolled .logo img {max-width:220px;
           -webkit-transition: all 1s;
       -moz-transition: all 1s;
