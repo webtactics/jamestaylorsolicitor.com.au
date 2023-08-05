@@ -189,7 +189,14 @@ padding: calc(0.5vw + 5px);
 .caption-text h1 span { 
 padding: 0;
     }
-    
+.legal-services    .caption-text {
+      width: 100%;
+      right: auto;
+      left: 0;
+      top: 100px;
+      margin: 3rem auto 1rem auto;
+  
+     }
 
 }
         .headerwrapper {
