@@ -1095,17 +1095,42 @@ grid-template-columns: 2fr 1fr;gap: 3rem;}
 
     
 /* black button CSS */
+{% extends "layouts/default.njk" %}
+
+{% block hero %}
+{% include "components/hero.njk" %}
+{% endblock %}
+
+{% block content %}
+<div class="caption-text"><h1><span>{{ title }}</span></h1></div>
+<section role="main" class="content">  
+
+{{ layoutContent | safe }}
+<div class="servicescontent">
+    <h3>Practice Areas:</h3>
+  {% set postslist = collections.services | reverse %}
+{% include "components/postslist-3wide.njk" %}
+  </div>
+
+</section>
+{% endblock %}
+
+
+
+
+/* CSS */
 .button-56 {
   align-items: center;
-  background-color: var(--white);
-  border: 2px solid var(--black);
-  border-radius: 0px;
+  background-color: #fee6e3;
+  border: 2px solid #111;
+  border-radius: 8px;
   box-sizing: border-box;
   color: #111;
   cursor: pointer;
   display: flex;
+  font-family: Inter,sans-serif;
   font-size: 16px;
-  height: 40px;
+  height: 48px;
   justify-content: center;
   line-height: 24px;
   max-width: 100%;
@@ -1119,11 +1144,11 @@ grid-template-columns: 2fr 1fr;gap: 3rem;}
 }
 
 .button-56:after {
-  background-color: var(--black);
-  border-radius: 0px;
+  background-color: #111;
+  border-radius: 8px;
   content: "";
   display: block;
-  height: 40px;
+  height: 48px;
   left: 0;
   width: 100%;
   position: absolute;
@@ -1135,17 +1160,10 @@ grid-template-columns: 2fr 1fr;gap: 3rem;}
 
 .button-56:hover:after {
   transform: translate(0, 0);
-
-
-  color: transparent;
-  border: none;
-  background: transparent;
-
-
 }
 
 .button-56:active {
-    background-color: var(--white);
+  background-color: #ffdeda;
   outline: 0;
 }
 
