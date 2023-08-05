@@ -284,14 +284,14 @@ display: none;
 }
 .logo {position:absolute;right:0;text-align: right;}
 .logo img {
-max-width:176px;max-height:auto;aspect-ratio: 408 / 139;
+max-width:176px;max-height:auto;aspect-ratio: 404 / 140;
 -webkit-transition: all 1s;
 -moz-transition: all 1s;
 -ms-transition: all 1s;
 -o-transition: all 1s;
 transition: all 1s;}
 .scrolled .logo img {
-  max-width:147px;max-height:auto;aspect-ratio: 408 / 139;
+  max-width:176px;max-height:auto;aspect-ratio: 404 / 140;
 -webkit-transition: all 1s;
 -moz-transition: all 1s;
 -ms-transition: all 1s;
