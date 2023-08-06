@@ -20,6 +20,11 @@
   to = "/legal-services/"
 
 
+[[redirects]]
+  from = "https://www.jamestaylorsolicitor.com.au/"
+  to = "https://jamestaylorsolicitor.com.au/"
+
+
 # The default HTTP status code is 301, but you can define a different one e.g.
 
 # Headers rule example
