@@ -1211,11 +1211,11 @@ aspect-ratio: 450 / 270;
 
 }
 
-.img250 img {max-width: 250px;aspect-ratio: 4 / 3;}
+.img250 img {max-width: 250px;height:auto;aspect-ratio: 1 / 1;}
 
-.img400 img {max-width: 400px;aspect-ratio: 1 / 1;}
+.img400 img {max-width: 400px;height:auto;aspect-ratio: 1 / 1;}
 
-.img600 img {max-width: 600px;aspect-ratio: 60 / 36;}
+.img600 img {max-width: 600px;height:auto;aspect-ratio: 60 / 36;}
 figure {
   margin: 0;
 }
