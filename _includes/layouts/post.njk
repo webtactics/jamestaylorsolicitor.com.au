@@ -10,12 +10,13 @@ section: post
 <div class="item postdetail">
 <div class="postdetailimage" align="center"><img src="{{ image }}/tr:w-900,h-600" alt="{{ imageAlt }}" title="{{ imageAlt }}"></div>
 
+
+<div class="postdetailcontent">  
+{% if description %}
 <div class="postdetaildescription">     
-{% if description %}<p><strong> {{ description }} </strong></p>{% endif %}
+<p><strong> {{ description }} </strong></p>
 </div>
-
-
-<div class="postdetailcontent">     
+{% endif %}   
 {{ layoutContent | safe }}
 </div>
 
