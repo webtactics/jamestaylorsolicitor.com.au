@@ -1105,7 +1105,7 @@ grid-template-columns: 2fr 1fr;gap: 3rem;}
   
 
   .postsumsummary {color:rgba(129,129,129,1.00);padding:0.5rem 0;min-height:150px;font-size:1rem;}
-  .newssumbutton {margin:-2rem 0 0 0;}
+  .newssumbutton {margin:0;}
   
   .NewsSummary {
     margin: 0 0 1.8750rem 0;
