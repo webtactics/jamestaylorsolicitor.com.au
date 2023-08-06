@@ -95,8 +95,8 @@ a:hover {
   color: var(--white);
   border: none;
   text-decoration: none;
-  border-bottom: 1px dotted var(--primarydark);
-  background-color: var(--primarylight);
+  border-bottom: 1px solid var(--black);
+  background-color: var(--primarydark);
 
 }
 
