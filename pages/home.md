@@ -17,11 +17,8 @@ eleventyNavigation:
 
 James Taylor has been a practicing solicitor for more than 30 years. 
 
-<div class="servicescontent">
-<h3>James taylor Bathurst Solictor Practice Areas:</h3>
-{% set postslist = collections.services | reverse %}
-{% include "components/postslist-3wide.njk" %}
-  </div>
+{% renderFile "./pages/about.md" %}
+
 
 *“Being contacted by the police about a criminal offence, attending the police station, receiving court attendance notices for criminal and driving offences or any other involvement in traffic matters can be a concerning and worrying experience.*
 
