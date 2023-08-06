@@ -2,7 +2,7 @@
 layout: layouts/default.njk
 title: Contact James Taylor Bathurst Solicitor
 class: contact
-description: 
+description: How to contact James Taylor Bathurst Solictor
 section: contact
 date: 2023-07-20
 permalink: /contact/

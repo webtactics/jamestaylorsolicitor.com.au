@@ -6,10 +6,9 @@
 
 {% block content %}
 <div class="caption-text"><h1><span>{{ title }}</span></h1></div>
-<section role="main" class="content">  
+<main class="content">  
 
 {{ layoutContent | safe }}
-
 
 <div class="servicescontent">
 <h3>James Taylor Bathurst Solictor Practice Areas:</h3>
@@ -17,9 +16,8 @@
 {% include "components/postslist-3wide.njk" %}
 </div>
 
-
 {% include "pages/home-second.md" %}
 
-</section>
+</main>
 {% endblock %}
 

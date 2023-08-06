@@ -6,7 +6,8 @@ class: services
 
 
 {{ layoutContent | safe }}
+
 <div class="servicescontent">
-  {% set postslist = collections.services | reverse %}
+{% set postslist = collections.services | reverse %}
 {% include "components/postslist.njk" %}
-  </div>
+</div>
