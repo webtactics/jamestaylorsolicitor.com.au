@@ -1111,7 +1111,7 @@ grid-template-columns: 2fr 1fr;gap: 3rem;}
     font-size: 1.5rem;
     
   }
-  .postsumtitle h3a {
+  .postsumtitle h3 a {
     color: var(--primary);
     border-bottom: 1px dotted var(--primary);
     padding: 0 0.25rem;
