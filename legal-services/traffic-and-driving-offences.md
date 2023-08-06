@@ -7,7 +7,7 @@ tags:
   - traffic
 image: https://ik.imagekit.io/webtactics/jamestaylorsolicitor/img/services/traffic-law-600x400.jpg
 imageAlt: Traffic Law Legal Services
-description: James Taylor Bathurst Solictor is an experienced traffic lawyer who isa committed to getting you the best possible outcome.
+description: James Taylor Bathurst Solictor is an experienced traffic lawyer who is committed to getting you the best possible outcome.
 area: traffic
 
 
