@@ -1,6 +1,6 @@
 <section class="grid-3-columns" >
 	{% for post in postslist | reverse %}
-	<div class="NewsSummaryHome">
+	<div class="NewsSummary">
 		<article{% if post.url == url %} data-current="current item"{% endif %} >
 			
 	
@@ -20,7 +20,7 @@
 
 
 
-<div class="NewsSummarySummaryHome">
+<div class="postsumsummary">
 {% if post.data.description %}<p>{{ post.data.description }}</p>{% endif %}
 </div>
 
