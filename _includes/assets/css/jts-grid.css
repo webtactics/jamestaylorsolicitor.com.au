@@ -974,7 +974,7 @@ background-color: var(--primary); font-weight: bold;}
   }
 
 
-  .sliderbox {border-bottom: 1rem solid var(--black);}
+  .sliderbox {border-bottom: 0.1rem solid var(--black);}
 
 
   .hero {background-attachment: fixed;}
