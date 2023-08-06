@@ -163,8 +163,8 @@ padding:0;}
 .home .servicescontent {padding:  1rem 0 1rem;}
 
 .legal-services .content {  padding:  1rem 1rem 4rem;}
-.cta.content {  padding:  1rem 1rem 4rem;min-height: 5rem;}
-.legal-services .cta.content {  padding:  1rem 1rem 4rem;min-height: 5rem;}
+
+.cta.content {  padding:  2rem 1rem 4rem;min-height: 5rem;}
 @media screen and (max-width: 600px) {
   .legal-services .content {  padding:  1rem 0 4rem;}
 }
