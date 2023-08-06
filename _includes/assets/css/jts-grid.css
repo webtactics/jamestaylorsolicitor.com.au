@@ -1123,7 +1123,12 @@ grid-template-columns: 2fr 1fr;gap: 3rem;}
   .Postimagehover .image-overlay .overlay-icon img{width:70px;height:70px}
   
 
+  .postlistimg {
+height:270px;
+width:450px;
+aspect-ratio: 450 / 270;
 
+  }
   
   .NewsSummary {
     margin: 0 0 1.8750rem 0;
