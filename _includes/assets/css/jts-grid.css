@@ -1223,7 +1223,7 @@ figcaption {
 
  
 
-  .hidesmall {display:none;}
+  .hidesmall, .hideforsmall {display:none;}
 
 }
 
