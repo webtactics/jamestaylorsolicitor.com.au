@@ -1,7 +1,7 @@
 
 
 
-<figure class="imageright img250"><img title="James Taylor Bathurst Solicitor" src="https://ik.imagekit.io/webtactics/jamestaylor/police-600x440_RhPEtvR1R.jpg?updatedAt=1691292961121" alt="James Taylor Bathurst Solicitor" width="400px" height="auto">
+<figure class="imageright img250 hideforsmall"><img title="James Taylor Bathurst Solicitor" src="https://ik.imagekit.io/webtactics/jamestaylor/police-600x440_RhPEtvR1R.jpg?updatedAt=1691292961121" alt="James Taylor Bathurst Solicitor" width="400px" height="auto">
 <figcaption>More than 30 years experiencea</figcaption>
 </figure>
 
