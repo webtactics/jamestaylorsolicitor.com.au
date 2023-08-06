@@ -12,9 +12,7 @@
 [[redirects]]
   from = "/home/"
   to = "/"
-[[redirects]]
-  from = "/services/"
-  to = "/legal-services/"
+
 
 
 
