@@ -13,5 +13,5 @@ eleventyNavigation:
 
 ## James Taylor Bathurst Solictor provides a comprehensive range of legal services in criminal law, family law & estate planning, property, commerical and motor vehicle legal matters. ## 
 
-James Taylor Bathurst Solictor is available to provide expert advice to meet the needs of business, families, individuals and institutional clients across the following fields:
+
 
