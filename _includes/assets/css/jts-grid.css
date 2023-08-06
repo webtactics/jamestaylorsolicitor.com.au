@@ -505,7 +505,7 @@ span.title-bar-title {display:block;text-indent:34px;padding:0;}
 }
 button.success, .button.success {
   background-color: var(--white);
-  border: 0.5rem solid var(--black);
+  border: 0.3rem solid var(--black);
   color: var(--black);
   font-size: 1rem;
   padding: 0.4rem 1.3rem;
@@ -520,7 +520,7 @@ button.success, .button.success {
 button.success:hover, button.success:focus, .button.success:hover, .button.success:focus {
   background-color: var(--black);
   color: var(--white);
-  border: 0.5rem solid var(--white);
+  border: 0.3rem solid var(--white);
   -webkit-transition: all 0.6s;
   -moz-transition: all 0.6s;
   -ms-transition: all 0.6s;
