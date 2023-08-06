@@ -196,7 +196,7 @@ padding: calc(0.5vw + 5px);
 
 
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 700px) {
 .caption-text {
     width: 100%;
     right: auto;
@@ -218,7 +218,7 @@ padding: 0;
     }
 .legal-services    .caption-text {
 width: 100%;
-  margin: 3rem auto 1rem auto;
+  margin: 3rem auto 0 auto;
   
      }
 
