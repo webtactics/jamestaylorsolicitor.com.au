@@ -71,14 +71,14 @@ a {
   color: var(--primarydark);
   text-decoration: none;
   cursor: pointer;
-  border-bottom: 1px dotted var(--black);
+
 }
 
 a:hover {
   color: var(--white);
   border: none;
-background: transparent;
-border-bottom: 1px solid var(--black);
+  text-decoration: none;
+
 }
 
 h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6 {
