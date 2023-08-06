@@ -1132,6 +1132,8 @@ grid-template-columns: 2fr 1fr;gap: 3rem;}
 .detailpage-sidebar-summary-content-wrapper h4 a { color: var(--black);border:none;text-decoration: none; padding:0;margin:0;background:transparent;}
 .detailpage-sidebar-summary-content-wrapper h4 a:hover { color: var(--primary);border:none;text-decoration: none; padding:0;margin:0;background:transparent;}
 
+.postdetailcontent {padding: 2rem 0;}
+
   .sidebarwrapper h3 {color: var(--black);font-size: calc(1.5rem + 0.5rem);}
   .servicescontent h3 {color: var(--black); font-size: calc(1.5rem + 0.5rem);}
 
