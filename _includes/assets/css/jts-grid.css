@@ -1089,19 +1089,19 @@ grid-template-columns: 2fr 1fr;gap: 3rem;}
   grid-template-columns: 1fr 3fr;}
 
 
-  .CGBlogSummaryField {position:relative;text-align:center}
+  .Postimagehover {position:relative;text-align:center}
 
-  .CGBlogSummaryField a {padding:0;border:none;}
+  .Postimagehover a {padding:0;border:none;}
   
-  .CGBlogSummaryField img{width:100%}
+  .Postimagehover img{width:100%}
   
-  .CGBlogSummaryField .image-overlay{position:absolute;top:0;left:0;width:100%;height:100%;background-color:rgba(0,0,0,.3);-webkit-transition:all .2s;-moz-transition:all .2s;-ms-transition:all .2s;-o-transition:all .2s;transition:all .2s;opacity:0;overflow:hidden}
+  .Postimagehover .image-overlay{position:absolute;top:0;left:0;width:100%;height:100%;background-color:rgba(0,0,0,.3);-webkit-transition:all .2s;-moz-transition:all .2s;-ms-transition:all .2s;-o-transition:all .2s;transition:all .2s;opacity:0;overflow:hidden}
   
-  .CGBlogSummaryField:hover .image-overlay{opacity:1;background-color:rgba(0,0,0,.3);}
+  .Postimagehover:hover .image-overlay{opacity:1;background-color:rgba(0,0,0,.3);}
   
-  .CGBlogSummaryField .image-overlay .overlay-icon{width:70px;height:70px;display:block;border-radius:50%;margin:-70px auto 0;opacity:0;-webkit-transition:all .2s;-moz-transition:all .2s;-ms-transition:all .2s;-o-transition:all .2s;transition:all .2s}
-  .CGBlogSummaryField:hover .image-overlay .overlay-icon{opacity:1;margin:70px auto 0}
-  .CGBlogSummaryField .image-overlay .overlay-icon img{width:70px;height:70px}
+  .Postimagehover .image-overlay .overlay-icon{width:70px;height:70px;display:block;border-radius:50%;margin:-70px auto 0;opacity:0;-webkit-transition:all .2s;-moz-transition:all .2s;-ms-transition:all .2s;-o-transition:all .2s;transition:all .2s}
+  .Postimagehover:hover .image-overlay .overlay-icon{opacity:1;margin:70px auto 0}
+  .Postimagehover .image-overlay .overlay-icon img{width:70px;height:70px}
   
 
   .NewsSummarySummaryHome {color:rgba(129,129,129,1.00);padding:0.5rem 0;min-height:150px;font-size:1rem;}
