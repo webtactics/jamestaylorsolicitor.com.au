@@ -19,9 +19,6 @@ From About
 
 In criminal matters James Taylor has appeared in complex and lengthy trials including murder, sexual assault, commercial drug supply, serious fraud and armed robbery.
 
-<figure class="imageright hidesmall"><img title="James Taylor Bathurst Solicitor" src="https://ik.imagekit.io/webtactics/jamestaylor/police-600x439_1l87ovAaq.jpg?updatedAt=1691040538539" alt="James Taylor Bathurst Solicitor" width="300px" height="auto">
-<figcaption>More than 30 years experience</figcaption>
-</figure>
 
 James has also appeared at New South Wales Parole Board Hearings, Police Integrity Commission Hearings, New South Wales Crime Commission Hearings and Coronial Inquests.
 
