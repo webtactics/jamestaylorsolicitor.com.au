@@ -2,7 +2,7 @@
 
 
 <figure class="imageright img200"><img title="James Taylor Bathurst Solicitor" src="https://ik.imagekit.io/webtactics/jamestaylor/police-600x440_RhPEtvR1R.jpg?updatedAt=1691292961121" alt="James Taylor Bathurst Solicitor" width="400px" height="auto">
-<figcaption>More than 30 years experience</figcaption>
+<figcaption>More than 30 years experiencea</figcaption>
 </figure>
 
 <p><em>“Being contacted by the police about a criminal offence, attending the police station, receiving court attendance notices for criminal and driving offences or any other involvement in traffic matters can be a concerning and worrying experience.</em></p>
