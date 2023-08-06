@@ -8,9 +8,18 @@
  <div class="caption-text"><h1><span>{{ title }}</span></h1></div>
 <section role="main" class="content">  
  <div class="grid-2-columns-2x1">
- <div class="detailwrapper"><article>{{ layoutContent | safe }}</article></div>
- <div class="sidebarwrapper"><aside>{% set postslist = collections.services %}
-{% include "components/postslist-sidebar.njk" %}</aside></div>
+
+ <div class="detailwrapper">
+{{ layoutContent | safe }}
+</div>
+<div class="sidebarwrapper">
+<aside>
+<h3>Practice Areas:</h3>
+{% set postslist = collections.services %}
+{% include "components/postslist-sidebar.njk" %}
+</aside>
+</div>
+
  </div>
 </section>
 {% endblock %}
