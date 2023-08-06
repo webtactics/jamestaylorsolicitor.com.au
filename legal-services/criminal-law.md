@@ -7,7 +7,7 @@ tags:
   - criminal
 image: https://ik.imagekit.io/webtactics/jamestaylorsolicitor/img/services/legal-600x400.jpg
 imageAlt: Criminal Law Legal Services
-description: In criminal matters James Taylor has appeared in complex and lengthy trials including murder, sexual assault, commercial drug supply, serious fraud and armed robbery.
+description: James Taylor has appeared in complex and lengthy trials including murder, sexual assault, commercial drug supply, serious fraud and armed robbery.
 area: criminal
 
 
@@ -18,6 +18,10 @@ area: criminal
 From About
 
 In criminal matters James Taylor has appeared in complex and lengthy trials including murder, sexual assault, commercial drug supply, serious fraud and armed robbery.
+
+<figure class="imageright hidesmall"><img title="James Taylor Bathurst Solicitor" src="https://ik.imagekit.io/webtactics/jamestaylor/police-600x439_1l87ovAaq.jpg?updatedAt=1691040538539" alt="James Taylor Bathurst Solicitor" width="300px" height="auto">
+<figcaption>More than 30 years experience</figcaption>
+</figure>
 
 James has also appeared at New South Wales Parole Board Hearings, Police Integrity Commission Hearings, New South Wales Crime Commission Hearings and Coronial Inquests.
 
@@ -41,9 +45,7 @@ As an involved and concerned lawyer, James Taylor regularly appears in Bail Appl
 - Attempted Murder/ Murder.
 - Firearms Offences – unlicensed, fail to store safely, supply, possess prohibited weapons
 
-<figure class="imageright hidesmall"><img title="James Taylor Bathurst Solicitor" src="https://ik.imagekit.io/webtactics/jamestaylor/police-600x439_1l87ovAaq.jpg?updatedAt=1691040538539" alt="James Taylor Bathurst Solicitor" width="300px" height="auto">
-<figcaption>More than 30 years experience</figcaption>
-</figure>
+
 
 **Below are some of the most recent Criminal cases James Taylor Bathurst Solicitor have acted in:**
 

@@ -6,8 +6,8 @@ permalink: /legal-services/wills-and-estate-planning-services/
 tags:
   - wills
 image: https://ik.imagekit.io/webtactics/jamestaylorsolicitor/img/services/wills-600x400.jpg
-imageAlt: wills Law Legal Services
-description: Essential oils are heated and used during this massage which brings deep comfort and the feeling of complete regeneration.
+imageAlt: Wills & Estate Planning
+description:  James Taylor Bathurst Solicitor can draft your Will and other testamentary documentation and advise you in relation to your estate.
 area: wills
 
 
