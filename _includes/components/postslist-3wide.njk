@@ -1,7 +1,7 @@
 <section class="grid-3-columns" >
 	{% for post in postslist | reverse %}
 	<div class="NewsSummary">
-		<article{% if post.url == url %} data-current="current item"{% endif %} >
+		<summary>
 			
 	
 
@@ -30,7 +30,7 @@
 
 
 
-		</article>
+		</summary>
 		</div>
 	{% endfor %}
 </section>
