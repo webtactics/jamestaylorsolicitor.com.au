@@ -1188,7 +1188,7 @@ grid-template-columns: 2fr 1fr;gap: 3rem;}
 
 }
 
-.img200 img {max-width: 300px;aspect-ratio: 16 / 9;}
+.img250 img {max-width: 250px;aspect-ratio: 4 / 3;}
 
 .img400 img {max-width: 400px;aspect-ratio: 1 / 1;}
 
