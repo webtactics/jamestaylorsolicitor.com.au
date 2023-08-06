@@ -9,11 +9,7 @@
 <section role="main" class="content">  
 
 {{ layoutContent | safe }}
-<div class="servicescontent">
-    <h3>Practice Areas:</h3>
-  {% set postslist = collections.services | reverse %}
-{% include "components/postslist-3wide.njk" %}
-  </div>
+
 
 </section>
 {% endblock %}
