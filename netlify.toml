@@ -19,14 +19,14 @@ package = "@netlify/plugin-sitemap"
   [plugins.inputs]
   buildDir = "_site"
   exclude = [
-    # By file Path
+
   'https://jamestaylorsolicitor.com.au/404/',
   'https://jamestaylorsolicitor.com.au/404/index.html',
   'https://jamestaylorsolicitor.com.au/admin/',
-  'https://jamestaylorsolicitor.com.au/admin/email-templates/confirmation/',
-  'https://jamestaylorsolicitor.com.au/admin/email-templates/email-change/',
-  'https://jamestaylorsolicitor.com.au/admin/email-templates/invitation/',
-  'https://jamestaylorsolicitor.com.au/admin/email-templates/invitation/',
+  'https://jamestaylorsolicitor.com.au/admin/email-templates/confirmation/index.html',
+  'https://jamestaylorsolicitor.com.au/admin/email-templates/email-change/index.html',
+  'https://jamestaylorsolicitor.com.au/admin/email-templates/invitation/index.html',
+  'https://jamestaylorsolicitor.com.au/admin/email-templates/invitation/index.html',
   
   
   ]
