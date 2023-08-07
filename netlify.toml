@@ -17,7 +17,7 @@
 package = "@netlify/plugin-sitemap"
 
   [plugins.inputs]
-  buildDir = "public"
+  buildDir = "_site"
   exclude = [
     # By file Path
   'https://jamestaylorsolicitor.com.au/404',
