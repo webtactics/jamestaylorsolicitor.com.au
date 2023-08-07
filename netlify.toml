@@ -13,7 +13,22 @@
   from = "/home/"
   to = "/"
 
+[[plugins]]
+package = "@netlify/plugin-sitemap"
 
+  [plugins.inputs]
+  buildDir = "public"
+  exclude = [
+    # By file Path
+  'https://jamestaylorsolicitor.com.au/404',
+  'https://jamestaylorsolicitor.com.au/admin',
+  'https://jamestaylorsolicitor.com.au/admin/email-templates/confirmation',
+  'https://jamestaylorsolicitor.com.au/admin/email-templates/email-change',
+  'https://jamestaylorsolicitor.com.au/admin/email-templates/invitation',
+  'https://jamestaylorsolicitor.com.au/admin/email-templates/invitation',
+  
+  
+  ]
 
 
 
