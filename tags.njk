@@ -12,7 +12,7 @@ permalink: /legal-services/{{ tag }}/
 layout: layouts/default.njk
 eleventyComputed:
   title: "Tagged “{{ tag }}”"
-  metaDescription: "All posts from the Blog tagged with “{{ tag }}”"
+  metaDescription: "All Practice Areas tagged with “{{ tag }}”"
 ---
 
 <h1>Tagged “{{ tag }}”</h1>
@@ -21,5 +21,5 @@ eleventyComputed:
 {% include "components/postslist.njk" %}
 
 <nav>
-  <a href="{{ '/blog/' | url }}">← Blog index</a>
+  <a href="{{ '/legal-services/' | url }}">← Services index</a>
 </nav>
