@@ -6,6 +6,8 @@ section: about
 class: about
 date: 2023-07-20
 permalink: /about/
+metadata:
+  title: 
 eleventyNavigation:
   key: About
   order: 2
