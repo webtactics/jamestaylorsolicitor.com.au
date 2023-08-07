@@ -22,12 +22,12 @@ package = "@netlify/plugin-sitemap"
   exclude = [
 
   'https://jamestaylorsolicitor.com.au/404/',
-  'https://jamestaylorsolicitor.com.au/404/index.html',
+  'https://jamestaylorsolicitor.com.au/404.html',
   'https://jamestaylorsolicitor.com.au/admin/',
-  'https://jamestaylorsolicitor.com.au/admin/email-templates/confirmation/index.html',
-  'https://jamestaylorsolicitor.com.au/admin/email-templates/email-change/index.html',
-  'https://jamestaylorsolicitor.com.au/admin/email-templates/invitation/index.html',
-  'https://jamestaylorsolicitor.com.au/admin/email-templates/invitation/index.html',
+  'https://jamestaylorsolicitor.com.au/admin/email-templates/confirmation.html',
+  'https://jamestaylorsolicitor.com.au/admin/email-templates/email-change.html',
+  'https://jamestaylorsolicitor.com.au/admin/email-templates/invitation.html',
+
   
   
   ]
