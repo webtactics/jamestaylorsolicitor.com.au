@@ -78,7 +78,7 @@ a {
 }
 
 a:hover {
-  color: var(--white);
+  color: var(--black);
   border: none;
   text-decoration: none;
 
