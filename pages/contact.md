@@ -5,6 +5,8 @@ class: contact
 description: How to contact James Taylor Bathurst Solictor
 section: contact
 date: 2023-07-20
+metadata:
+  title: Criminal and Family Law Lawyer Bathurst NSW
 permalink: /contact/
 eleventyNavigation:
   key: Contact
