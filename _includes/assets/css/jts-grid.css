@@ -1036,7 +1036,7 @@ background-color: var(--primary); font-weight: bold;}
 
 
 
-  span.ctaphone, span.ctaphone img {}
+  span.ctaphone a {white-space: wrap;}
 
 
 
