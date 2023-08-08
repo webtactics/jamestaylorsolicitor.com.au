@@ -902,6 +902,8 @@ margin:5px 0;
   border-bottom: none;
   transition: all 0.3s;
 }
+
+span.phonetext {font-size:34px;line-height: 44px;text-align:right;color: var(--white);}
  {
   color: var(--white);
   text-align: left;
