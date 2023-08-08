@@ -910,7 +910,7 @@ span.phonetext {font-size:1rem;line-height: 34px;text-align:right;color: var(--w
   -ms-transition: all 0.6s;
   -o-transition: all 0.6s;
   transition: all 0.6s;}
-.menusocial:hover .phonetext {font-size:1rem;line-height: 34px;text-align:right;color: var(--black);display: flex;justify-content: center;-webkit-transition: all 0.6s;
+.menusocial:hover .phonetext {font-size:1rem;line-height: 34px;font-weight:700;text-align:right;color: var(--black);display: flex;justify-content: center;-webkit-transition: all 0.6s;
   -moz-transition: all 0.6s;
   -ms-transition: all 0.6s;
   -o-transition: all 0.6s;
@@ -943,7 +943,7 @@ margin: 0;
   -o-transition: all 0.6s;
   transition: all 0.6s;}
 
-  .ctacallwrapper  .menusocial > li > a {line-height: 34px;margin: 0;}
+.ctacallwrapper  .menusocial > li > a {line-height: 34px;margin: 0;}
 
 .mobilemenu {padding:0 0 1rem;}
 ul.off-canvas-list {
