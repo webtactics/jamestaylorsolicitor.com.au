@@ -838,7 +838,7 @@ ul.footer-menu li {
     border: none;
     position: relative;
     right: 0;
-    width: 2rem;
+    width: 150px;
     text-align: center;
 }
 
@@ -847,8 +847,8 @@ ul.footer-menu li {
 .menusocial > li > a {
   padding: 0;
   line-height: 54px;
-  font-size: 2.4rem;
-  width:34px;
+  font-size: 1rem;
+  width:auto;
   height:34px;
 text-decoration: none;
 font-weight: 700;
