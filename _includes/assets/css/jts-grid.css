@@ -829,7 +829,7 @@ ul.footer-menu li {
     padding: 0.5rem;
   }
 }
-.menusocial img {float:left; padding:0 0.5rem 0 0;}
+.menusocial img {float:left; padding:0 0.25rem 0 0;background-color: var(--red);}
 
 .menusocial > li {
     display: inline-block;
@@ -869,7 +869,7 @@ margin:10px 0;
 
 
 .menusocial > li > a:hover {
-  background-color: #4267B2;
+  background-color: var(--black);
   border-bottom: none;
   transition: all 0.3s;
 }
@@ -898,12 +898,13 @@ margin:5px 0;
 }
 .scrolled .menusocial > li > a:hover {
  
-  background-color: #4267B2;
+  background-color: var(--black);
   border-bottom: none;
   transition: all 0.3s;
 }
 
 span.phonetext {font-size:1rem;line-height: 34px;text-align:right;color: var(--primary);display: flex;justify-content: center;}
+.menusocial:hover .phonetext {font-size:1rem;line-height: 34px;text-align:right;color: var(--white);display: flex;justify-content: center;}
  {
   color: var(--white);
   text-align: left;
