@@ -904,7 +904,7 @@ margin:5px 0;
   transition: all 0.3s;
 }
 
-span.phonetext {font-size:1rem;line-height: 34px;text-align:right;color: var(--white);display: flex;justify-content: center;font-family: 'Encode Sans Condensed',sans-serif;}
+span.phonetext {font-size:1rem;line-height: 34px;text-align:right;color: var(--white);display: flex;justify-content: center;}
 .menusocial:hover .phonetext {font-size:1rem;line-height: 34px;text-align:right;color: var(--black);display: flex;justify-content: center;font-family: 'Encode Sans Condensed',sans-serif;}
 
 .mobilesocialwrapper {background-color: var(--mattblack);}
