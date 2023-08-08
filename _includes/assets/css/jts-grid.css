@@ -919,18 +919,9 @@ span.phonetext {font-size:1rem;line-height: 34px;text-align:right;color: var(--w
 
 .mobilesocialwrapper ul.menusocial li {
 float: left;
-margin: 0 10px 0 0;
+margin: 0 10px 0 1rem;
 }
-.mobilesocialwrapper .menusocial > li {
-  display: inline-block;
-  padding: 0;
-  margin: 0;
-  border: none;
-  position: relative;
-  right: 0;
-  width: auto;
-  text-align: center;
-}
+
  {
   color: var(--white);
   text-align: left;
