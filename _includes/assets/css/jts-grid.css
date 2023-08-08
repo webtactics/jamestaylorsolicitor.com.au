@@ -851,7 +851,7 @@ ul.footer-menu li {
   width:auto;
   height:34px;
 text-decoration: none;
-font-weight: 700;
+font-weight: 400;
 cursor: pointer;
 display: block;
 position: relative;
@@ -879,10 +879,11 @@ margin:10px 0;
 
 .scrolled .menusocial > li > a {
   line-height: 44px;
-  width:34px;
+  font-size: 1rem;
+  width:auto;
   height:34px;
 text-decoration: none;
-font-weight: 700;
+font-weight: 400;
 cursor: pointer;
 display: block;
 position: relative;
