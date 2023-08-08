@@ -945,7 +945,7 @@ margin: 0;
 
 .ctacallwrapper  .menusocial > li > a {line-height: 34px;margin: 0;}
 
-svg:hover {
+.ctacallwrapper ul.menusocial li img svg:hover {
   fill: red;
 }
 
