@@ -915,7 +915,7 @@ span.phonetext {font-size:1rem;line-height: 34px;text-align:right;color: var(--w
   -o-transition: all 0.6s;
   transition: all 0.6s;}
 
-.mobilesocialwrapper {background-color: var(--mattblack);margin: 1rem 0 0 0;min-height:44px;}
+.mobilesocialwrapper {background-color: var(--mattblack);margin: 1rem 0 0 0;min-height:64px;padding:5px 0;}
  {
   color: var(--white);
   text-align: left;
