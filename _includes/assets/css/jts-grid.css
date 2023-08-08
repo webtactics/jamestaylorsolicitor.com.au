@@ -856,7 +856,7 @@ cursor: pointer;
 display: block;
 position: relative;
 border-bottom: none;
-background-color: var(--white);
+background-color: transparent;
 margin:10px 0;
 -webkit-transition: all 0.6s;
   -moz-transition: all 0.6s;
