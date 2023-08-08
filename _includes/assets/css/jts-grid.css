@@ -927,7 +927,7 @@ margin: 0 10px;
 .ctacallwrapper:hover {margin: -0.5rem 0;min-height:38px;padding:0;background-color: var(--white);border: 2px solid var(--black); }
 
 .ctacallwrapper ul.menusocial li {
-float: left;
+  float: none;
 margin: 0;
 }
 
