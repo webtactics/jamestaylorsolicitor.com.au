@@ -829,7 +829,8 @@ ul.footer-menu li {
     padding: 0.5rem;
   }
 }
-.menusocial img {float:left; padding:0;background-color: var(--mattblack);}
+.menusocial img {float:left; padding:0;background-color: var(--white);}
+.menusocial:hover img {float:left; padding:0;background-color: var(--primary);}
 
 .menusocial > li {
     display: inline-block;
