@@ -922,7 +922,7 @@ span.phonetext {font-size:1rem;line-height: 34px;text-align:right;color: var(--w
 float: left;
 margin: 0 10px;
 }
-.cta.content p {margin:0;}
+.cta.content p {margin:0.5rem 0;}
 
 .ctacallwrapper {margin:0;height:34px;padding:0;width:160px; }
 .ctacallwrapper:hover {margin:0;height:34px;padding:0; }
