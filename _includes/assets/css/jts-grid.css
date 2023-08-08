@@ -239,7 +239,7 @@ width: 100%;
    @media only screen and (min-width: 1025px) {  
     .headerwrapper {
     display: grid;
-    grid-template-columns: 120px 280px 1fr 50px;
+    grid-template-columns: 120px 280px 1fr 150px;
     grid-template-areas:
       "hamburger logo navwrapper socialwrapper";
       grid-template-rows: 54px; } 
@@ -251,7 +251,7 @@ width: 100%;
    @media only screen and (min-width: 1500px) {  
     .headerwrapper {
     display: grid;
-    grid-template-columns: 120px 360px 1fr 50px;
+    grid-template-columns: 120px 360px 1fr 150px;
     grid-template-areas:
       "hamburger logo navwrapper socialwrapper";
       grid-template-rows: 54px; } 
