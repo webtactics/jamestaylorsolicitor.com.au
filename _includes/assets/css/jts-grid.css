@@ -74,7 +74,7 @@ a {
   color: var(--primarydark);
   text-decoration: none;
   cursor: pointer;
-  white-space: nowrap; }
+ }
 
 
 
@@ -1091,6 +1091,7 @@ text-align: center;
   color: var(--primary);
   border-bottom: 1px dotted var(--primary);
   padding: 0 0.25rem;
+  white-space: nowrap;
 }
 
 .footerwrap p a:hover {
