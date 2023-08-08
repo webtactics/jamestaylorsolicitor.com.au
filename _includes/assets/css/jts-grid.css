@@ -1068,15 +1068,14 @@ text-align: center;
 .footerwrap p {
   color: var(--white);
   font-size: 0.875rem;
-  white-space: nowrap;
-  
 }
+
 .footerwrap p a {
   color: var(--primary);
   border-bottom: 1px dotted var(--primary);
-  padding: 0 0.25rem;white-space: nowrap;
-
+  padding: 0 0.25rem;
 }
+
 .footerwrap p a:hover {
   background: var(--white);
   color: var(--black);
