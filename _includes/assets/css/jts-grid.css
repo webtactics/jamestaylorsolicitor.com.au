@@ -831,6 +831,7 @@ ul.footer-menu li {
   }
 }
 .menusocial img {float:left; padding:0;background-color: var(--white);}
+.menusocial svg {float:left; padding:0;background-color: var(--white);}
 .menusocial:hover img {float:left; padding:0;background-color: var(--white);}
 
 .menusocial > li {
