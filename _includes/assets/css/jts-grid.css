@@ -945,6 +945,10 @@ margin: 0;
 
 .ctacallwrapper  .menusocial > li > a {line-height: 34px;margin: 0;}
 
+svg:hover {
+  fill: red;
+}
+
 .mobilemenu {padding:0 0 1rem;}
 ul.off-canvas-list {
   list-style-type: none;
