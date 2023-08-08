@@ -830,7 +830,7 @@ ul.footer-menu li {
   }
 }
 .menusocial img {float:left; padding:0;background-color: var(--white);}
-.menusocial:hover img {float:left; padding:0;background-color: var(--primary);}
+.menusocial:hover img {float:left; padding:0;background-color: var(--white);}
 
 .menusocial > li {
     display: inline-block;
@@ -857,7 +857,7 @@ cursor: pointer;
 display: block;
 position: relative;
 border-bottom: none;
-background-color: var(--white);
+background-color: var(--black);
 margin:10px 0;
 -webkit-transition: all 0.6s;
   -moz-transition: all 0.6s;
@@ -870,7 +870,7 @@ margin:10px 0;
 
 
 .menusocial > li > a:hover {
-  background-color: var(--black);
+  background-color: var(--white);
   border-bottom: none;
   transition: all 0.3s;
 }
@@ -889,7 +889,7 @@ cursor: pointer;
 display: block;
 position: relative;
 border-bottom: none;
-background-color: var(--white);
+background-color: var(--black);
 margin:5px 0;
 -webkit-transition: all 0.6s;
   -moz-transition: all 0.6s;
@@ -899,13 +899,13 @@ margin:5px 0;
 }
 .scrolled .menusocial > li > a:hover {
  
-  background-color: var(--black);
+  background-color: var(--white);
   border-bottom: none;
   transition: all 0.3s;
 }
 
-span.phonetext {font-size:1rem;line-height: 34px;text-align:right;color: var(--primary);display: flex;justify-content: center;}
-.menusocial:hover .phonetext {font-size:1rem;line-height: 34px;text-align:right;color: var(--white);display: flex;justify-content: center;}
+span.phonetext {font-size:1rem;line-height: 34px;text-align:right;color: var(--white);display: flex;justify-content: center;}
+.menusocial:hover .phonetext {font-size:1rem;line-height: 34px;text-align:right;color: var(--black);display: flex;justify-content: center;}
  {
   color: var(--white);
   text-align: left;
