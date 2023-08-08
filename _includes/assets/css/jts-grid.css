@@ -903,7 +903,7 @@ margin:5px 0;
   transition: all 0.3s;
 }
 
-span.phonetext {font-size:1rem;line-height: 44px;text-align:right;color: var(--white);display: flex;justify-content: center;}
+span.phonetext {font-size:1rem;line-height: 54px;text-align:right;color: var(--white);display: flex;justify-content: center;}
  {
   color: var(--white);
   text-align: left;
