@@ -829,7 +829,7 @@ ul.footer-menu li {
     padding: 0.5rem;
   }
 }
-.menusocial img {float:left; padding:0 0.25rem 0 0;background-color: var(--red);}
+.menusocial img {float:left; padding:0;background-color: var(--mattblack);}
 
 .menusocial > li {
     display: inline-block;
