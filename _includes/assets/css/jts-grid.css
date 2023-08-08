@@ -905,7 +905,7 @@ margin:5px 0;
 }
 
 span.phonetext {font-size:1rem;line-height: 34px;text-align:right;color: var(--white);display: flex;justify-content: center;}
-.menusocial:hover .phonetext {font-size:1rem;line-height: 34px;text-align:right;color: var(--black);display: flex;justify-content: center;font-family: 'Encode Sans Condensed',sans-serif;}
+.menusocial:hover .phonetext {font-size:1rem;line-height: 34px;text-align:right;color: var(--black);display: flex;justify-content: center;}
 
 .mobilesocialwrapper {background-color: var(--mattblack);}
  {
