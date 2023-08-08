@@ -942,7 +942,7 @@ margin: 0;
   -o-transition: all 0.6s;
   transition: all 0.6s;}
 
-
+  .ctacallwrapper  .menusocial > li > a {line-height: 34px;margin: 0;}
 
 .mobilemenu {padding:0 0 1rem;}
 ul.off-canvas-list {
