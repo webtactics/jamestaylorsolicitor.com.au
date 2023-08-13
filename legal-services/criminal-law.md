@@ -43,7 +43,6 @@ As an involved and concerned lawyer, James Taylor regularly appears in Bail Appl
 - Firearms Offences – unlicensed, fail to store safely, supply, possess prohibited weapons
 
 
-
 **Below are some of the most recent Criminal cases James Taylor Bathurst Solicitor have acted in:**
 
 - Supply Firearms/Prohibited Weapons – District Court at Bathurst and Sydney
