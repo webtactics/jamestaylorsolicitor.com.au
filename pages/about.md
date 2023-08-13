@@ -40,7 +40,6 @@ Often lecturing at the local Driver Awareness Program James Taylor has a thoroug
 <figcaption>Clear, precise legal advice</figcaption>
 </figure>
 James Taylor understands that your driver’s licence is very important and that going without a licence for any period of time can be very difficult.
-
  
 **James’ vast experience enables him to be able to advise you of the best possible outcomes and how your criminal and traffic matters shall be dealt with including pleading guilty or not guilty and running a defending hearing or trial.**
 
