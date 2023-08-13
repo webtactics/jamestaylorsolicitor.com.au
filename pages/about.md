@@ -44,7 +44,7 @@ James Taylor understands that your driver’s licence is very important and that
  
 **James’ vast experience enables him to be able to advise you of the best possible outcomes and how your criminal and traffic matters shall be dealt with including pleading guilty or not guilty and running a defending hearing or trial.**
 
-James’ vast experience means that you will receive the best possible advice and or representation in all kinds of criminal and traffic matters. 
+James’ experience means that you will receive the best possible advice and or representation in all kinds of criminal and traffic matters. 
 
 James knows how important it is for someone to have the best possible legal representation in criminal and traffic matters.
 
