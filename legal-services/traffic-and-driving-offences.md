@@ -15,6 +15,10 @@ area: traffic
 
 
 
-Traffic content here
+
 
 Being charged with a traffic offence and losing your licence can be overwhelming. But it doesn’t have to be. James Taylor is an experienced traffic lawyer who isa committed to getting you the best possible outcome.
+
+James Taylor understands that your driver’s licence is very important and that going without a licence for any period of time can be very difficult.
+
+James’ vast experience enables him to be able to advise you of the best possible outcomes and how your criminal and traffic matters shall be dealt with including pleading guilty or not guilty and running a defending hearing or trial.
