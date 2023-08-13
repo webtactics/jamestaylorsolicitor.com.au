@@ -15,4 +15,4 @@ area: family
 
 
 
-Rewrite: James Taylor is an expert in handling financial settlements, parenting agreements and superannuation splitting. James is very skilled in advising you through those difficult family times like separation and divorce, children's issues, property settlements and drafting and negotiating financial agreements.
+James Taylor is an expert in handling financial settlements, parenting agreements and superannuation splitting. James is very skilled in advising clients through those difficult family times like separation and divorce, children's issues, property settlements and drafting and negotiating financial agreements.
