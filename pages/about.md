@@ -39,9 +39,9 @@ Often lecturing at the local Driver Awareness Program James Taylor has a thoroug
 <figure class="imageright img600"><img title="James Taylor Bathurst Solicitor" src="https://ik.imagekit.io/webtactics/jamestaylor/traffic-camera-600x360_1TIdmloy_.jpg?updatedAt=1691036542658" alt="James Taylor Bathurst Solicitor" width="600px" height="auto">
 <figcaption>Clear, precise legal advice</figcaption>
 </figure>
+
 James Taylor understands that your driver’s licence is very important and that going without a licence for any period of time can be very difficult.
 
- 
 **James’ vast experience enables him to be able to advise you of the best possible outcomes and how your criminal and traffic matters shall be dealt with including pleading guilty or not guilty and running a defending hearing or trial.**
 
 James’ experience means that you will receive the best possible advice and or representation in all kinds of criminal and traffic matters. 
