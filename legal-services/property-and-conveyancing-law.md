@@ -14,7 +14,7 @@ area: property
 ---
 
 
-Property Law Legal Services rewrite
+
 
 Are you Buying or Selling residential or commercial property?  Buying or selling your property is a major financial transaction and it is important to use a qualified solicitor to assist you with the process.
 
