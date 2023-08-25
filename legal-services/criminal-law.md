@@ -7,7 +7,7 @@ tags:
   - criminal
 image: https://ik.imagekit.io/webtactics/jamestaylorsolicitor/img/services/legal-600x400.jpg
 imageAlt: Criminal Law Legal Services
-description: James Taylor Bathurst Solicitor has appeared in complex and lengthy trials including murder, sexual assault, commercial drug supply, serious fraud and armed robbery.
+description: James Taylor's' commitment to his clients makes him the go-to choice for anyone in need of skilled and effective legal representation from the most minor to the most serious criminal charges.
 area: criminal
 
 
@@ -15,9 +15,11 @@ area: criminal
 
 
 
-James Taylor Bathurst Solicitor provides the highest quality criminal law help to individuals facing criminal charges in Bathurst, surrounding areas and all across New South Wales. His commitment to his clients makes him a go-to choice for anyone in need of skilled and effective legal representation from the most minor to the most serious criminal charges.
+## James Taylor Bathurst Solicitor provides the highest quality criminal law help to individuals facing criminal charges in Bathurst, surrounding areas and all across New South Wales. ##
 
-His reputation is built on our ability to consistently deliver outstanding results for his clients. With 30 years of experience, James Taylor possesses the expertise, knowledge, and skills necessary to handle a wide range of criminal law matters.
+**James Taylor's' commitment to his clients makes him the go-to choice for anyone in need of skilled and effective legal representation from the most minor to the most serious criminal charges.**
+
+His reputation is built on an ability to consistently deliver outstanding results for clients. With 30 years of experience, James Taylor possesses the expertise, knowledge, and skills necessary to handle a wide range of criminal law matters.
 
 **Whether you are facing charges related to drug offenses, domestic violence, traffic offenses, assault and violent crimes, fraud and white-collar crimes or sexual offenses our team is here to fight for your rights and ensure you receive the best possible outcome.**
 
@@ -31,6 +33,8 @@ James Taylor Solicitor has acted for Defendants in Police Applications for Appre
 
 ### Traffic Offences ###
 Whether you are facing charges for drink driving, driving with illicit drug in system dangerous driving, dangerous/negligent driving causing grievous bodily harm/death, speeding, negligent driving or other traffic offences, James Taylor Solicitor can provide expert guidance and representation. He understands the potential consequences of traffic offences and work diligently to protect your rights and minimise the impact on your life. James Taylor Solicitor regularly appears for clients in appeals for Licence Suspensions and Cancellations in the Local Court.
+
+For more details concerning Traffic and Driving Offences visit [Traffic Offences](/legal-services/traffic-offences/)
 
 ### Assault and Violent Crimes ###
 Being charged with assault or any violent crime can have severe consequences. James Taylor Solicitor has vast experience and a thorough understanding of relevant legislation and case law and can develop effective defence strategies tailored to your specific case. James Taylor Solicitor has acted for clients charged with Common assault, Assault occasioning actual bodily harm, Assault occasioning actual bodily harm in company, Reckless wound, Assault causing grievous bodily harm and Affray. He regularly appears for client charges with criminal offences in the Local and District Court.
