@@ -16,7 +16,9 @@ area: family
 
 ## James Taylor Solicitor has 30 years’ experience in acting for clients in family law matters. ##
 
-James regularly appears for clients in family law matters in the Family and Federal Circuit Court of Australia at Dubbo (Circuit Court), at Parramatta, Sydney, Newcastle and Sydney. He also appears in the Local Court for urgent family law applications involving children. He also regularly appears for clients at mediation and in court in matters involving the parties’ children, property and divorce.
+James regularly appears for clients in family law matters in the Family and Federal Circuit Court of Australia at Dubbo (Circuit Court), at Parramatta, Sydney, Newcastle and Sydney. 
+
+He also appears in the Local Court for urgent family law applications involving children. He also regularly appears for clients at mediation and in court in matters involving the parties’ children, property and divorce.
 
 **James Taylor Solicitor can give you experienced and expert advice about your legal rights and options available to settle any proceedings at the outset, which includes your most important assets, your marriage, your children; and your property.**
 
@@ -36,7 +38,7 @@ James Taylor Solicitor can help you:
 
 #### Property & Financial settlements ####
 
-- When you get divorced or end a de facto relationship you’ll need to divide up the property and financial assets that you and your partner have. How property and financial settlements are dealt with is outlined in the Family Law Act.
+When you get divorced or end a de facto relationship you’ll need to divide up the property and financial assets that you and your partner have. How property and financial settlements are dealt with is outlined in the Family Law Act.
 
 **James Taylor Solicitor can help you:**
 
