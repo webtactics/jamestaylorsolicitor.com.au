@@ -38,7 +38,9 @@ James Taylor Solicitor Conveyancing Services covers a variety of transactions an
 - Mortgage registering
 - Property transaction and property settlement
 
-**James Taylor Solicitors conveyancing services are provided on a fixed fee basis. This means that you will be advised at the start of your matter, of fees for all the work involved in the conveyance, from preparing or reviewing the contract of sale, lease agreement etc., through to the final settlement process.**
+**James Taylor Solicitors conveyancing services are provided on a fixed fee basis.**
+
+**This means that you will be advised at the start of your matter, of fees for all the work involved in the conveyance, from preparing or reviewing the contract of sale, lease agreement etc., through to the final settlement process.**
 
 We can help you by reviewing your contract and ensuring you are aware of your legal rights and obligations. We can also assist you with the preparation of your contract and ensure that your interests are protected.
 
