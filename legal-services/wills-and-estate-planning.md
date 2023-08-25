@@ -16,7 +16,7 @@ area: wills
 
 
 
-## James Taylor Solicitor can help you get peace of mind in knowing that your loved ones are provided for. ##
+## James Taylor Solicitor can help provide peace of mind in knowing that your loved ones are provided for. ##
 
 With 30 years experience, James Taylor Bathurst Solicitor can expertly draft your Will and other testamentary documentation and advise you in relation to your estate.
 
