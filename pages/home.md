@@ -15,9 +15,19 @@ eleventyNavigation:
 
 ## Criminal and Family Law Lawyer ##
 
-**James Taylor Bathurst Solicitor is a Criminal and Family Law Lawyer offering specialist advice and or representation in Criminal and Family Law matters and services in all areas of law including Conveyancing, Wills Probate and Administration.**
+**James Taylor Bathurst Solicitor is a Criminal and Family Law Lawyer offering specialist advice and or representation in <a href="/legal-services/criminal-law-services/" title="Criminal Law">Criminal Law</a>, <a href="/legal-services/family-law-services/" title="Family Law">Family Law</a> matters and in other areas of law including Conveyancing, Wills Probate and Administration.**
 
-James Taylor has been a practicing solicitor for more than 30 years. 
+James Taylor Solicitor has been practicing as a solicitor in Central Western New South Wales for the last 30 years.
+
+James Taylor Bathurst Solicitor offers expertise and experienced legal services in: 
+
+<ul>
+<li><a href="/legal-services/criminal-law-services/" title="Criminal Law">Criminal Law</a></li>
+<li><a href="/legal-services/family-law-services/" title="Family Law">Family Law</a></li>
+<li><a href="/legal-services/property-and-conveyancing-law-services/" title="Property &amp; Conveyancing">Property &amp; Conveyancing</a></li>
+<li><a href="/legal-services/traffic-and-driving-offences/" title="Traffic and Driving Offences">Traffic and Driving Offences</a></li>
+<li><a href="/legal-services/wills-and-estate-planning-services/" title="Wills &amp; Estate Planning">Wills &amp; Estate Planning</a></li>
+</ul>
 
 
 

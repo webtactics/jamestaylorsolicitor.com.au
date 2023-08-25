@@ -7,7 +7,7 @@ tags:
   - criminal
 image: https://ik.imagekit.io/webtactics/jamestaylorsolicitor/img/services/legal-600x400.jpg
 imageAlt: Criminal Law Legal Services
-description: James Taylor's' commitment to his clients makes him the go-to choice for anyone in need of skilled and effective legal representation from the most minor to the most serious criminal charges.
+description: More than 30 years experience and thousands of criminal trials makes James Taylor Solicitor the go-to choice for anyone in need of skilled and effective legal representation from the most minor to the most serious criminal charges.
 area: criminal
 
 
