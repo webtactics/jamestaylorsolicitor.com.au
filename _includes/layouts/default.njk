@@ -17,12 +17,11 @@
  <div class="caption-text"><h1><span>{{ title }}</span></h1></div>
 <main class="content">  
 {{ layoutContent | safe }}
+{% include "components/global/calltoaction.html" %}
 </main>
 {% endblock %}
 
-{% block calltoactioncontent %}
-{% include "components/global/calltoaction.html" %}
-{% endblock %}
+
 
 
 <footer class="footernavwrapper"> 
