@@ -53,13 +53,13 @@ When you get divorced or end a de facto relationship you’ll need to divide up 
 
 When the Court looks at a property dispute between two people who were married or partners, it follows four steps:
 
-- Identify and value: The Court will first look at what property, debts or liabilities and financial resources each of you have at the time of your Court hearing. If you and your partner have already made some decisions about your property before the hearing the Court can also include this in its assessment. You will need to tell the Court about all of your property, assets, debts, liabilities and financial resources.
+- **Identify and value:** The Court will first look at what property, debts or liabilities and financial resources each of you have at the time of your Court hearing. If you and your partner have already made some decisions about your property before the hearing the Court can also include this in its assessment. You will need to tell the Court about all of your property, assets, debts, liabilities and financial resources.
 
-- Assess contributions: The Court will then look at what each of you have contributed both financially and in other forms towards the property. This will help them determine what percentage of the net value of the property you and your partner are entitled to. The Court may do this by looking at all of your property and assets together, or take each asset individually and assess it.
+- **Assess contributions:** The Court will then look at what each of you have contributed both financially and in other forms towards the property. This will help them determine what percentage of the net value of the property you and your partner are entitled to. The Court may do this by looking at all of your property and assets together, or take each asset individually and assess it.
 
-- Assess other factors: Other factors, like differences in your income and earning capacity and the time and cost spent looking after your children, are taken into account by the Court. Depending on these factors, the Court may adjust the percentage of the net value of the property that you or your partner are entitled to.
+- **Assess other factors:** Other factors, like differences in your income and earning capacity and the time and cost spent looking after your children, are taken into account by the Court. Depending on these factors, the Court may adjust the percentage of the net value of the property that you or your partner are entitled to.
 
-- Make an order: Once it has reviewed all of these factors, the Court will make an order that it believes is a just and equitable outcome for you and your partner. The Court has the power to make orders regardless of when or how property or assets were acquired or in whose name they are held.
+- **Make an order:** Once it has reviewed all of these factors, the Court will make an order that it believes is a just and equitable outcome for you and your partner. The Court has the power to make orders regardless of when or how property or assets were acquired or in whose name they are held.
 
 If you were married, your property settlement can be finalised up to 12 months after your divorce is finalised. There are some situations where it can take longer than 12 months, like if there’s an application to set aside a property order or change a maintenance order.
 
