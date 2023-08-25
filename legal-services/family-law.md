@@ -61,7 +61,7 @@ When the Court looks at a property dispute between two people who were married o
 
 - **Make an order:** Once it has reviewed all of these factors, the Court will make an order that it believes is a just and equitable outcome for you and your partner. The Court has the power to make orders regardless of when or how property or assets were acquired or in whose name they are held.
 
-If you were married, your property settlement can be finalised up to 12 months after your divorce is finalised. There are some situations where it can take longer than 12 months, like if there’s an application to set aside a property order or change a maintenance order.
+If you were married, your property settlement can be finalised up to 12 months after your divorce is finalised. There are some situations where it can take longer than 12 months, such as if there’s an application to set aside a property order or change a maintenance order.
 
 If you were in a de facto relationship, you may apply for a property and maintenance order within two years of your relationship ending. The process is the same for de facto relationships as it is for married couples.
 
@@ -75,7 +75,7 @@ James Taylor Solicitor can help you:
 - Represent you in a Parenting Order hearing.
 - Determine if you can apply to enforce a Parenting Order.
 
-Parenting Orders:
+**Parenting Orders:**
 
 A Parenting Order is an order made by the Family Court of Australia or the Federal Circuit Court of Australia and deals with the parenting of a child. These are often made when the children’s parents separate or divorce, but can also be made at other times.
 
