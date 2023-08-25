@@ -19,7 +19,7 @@ area: criminal
 
 **James Taylor's' commitment to his clients makes him the go-to choice for anyone in need of skilled and effective legal representation from the most minor to the most serious criminal charges.**
 
-His reputation is built on an ability to consistently deliver outstanding results for clients. With 30 years of experience, James Taylor possesses the expertise, knowledge, and skills necessary to handle a wide range of criminal law matters.
+Our reputation is built on an ability to consistently deliver outstanding results for clients. With 30 years of experience, James Taylor possesses the expertise, knowledge, and skills necessary to handle a wide range of criminal law matters.
 
 **Whether you are facing charges related to drug offenses, domestic violence, traffic offenses, assault and violent crimes, fraud and white-collar crimes or sexual offenses our team is here to fight for your rights and ensure you receive the best possible outcome.**
 
@@ -33,7 +33,6 @@ James Taylor Solicitor has acted for Defendants in Police Applications for Appre
 
 ### Traffic Offences ###
 Whether you are facing charges for drink driving, driving with illicit drug in system dangerous driving, dangerous/negligent driving causing grievous bodily harm/death, speeding, negligent driving or other traffic offences, James Taylor Solicitor can provide expert guidance and representation. He understands the potential consequences of traffic offences and work diligently to protect your rights and minimise the impact on your life. James Taylor Solicitor regularly appears for clients in appeals for Licence Suspensions and Cancellations in the Local Court.
-
 
 <p>For more details concerning Traffic and Driving Offences visit <a href="/legal-services/traffic-and-driving-offences/" title="Traffic and Driving Offences" alt="Traffic and Driving Offences link">Traffic Offences</a></p>
 
