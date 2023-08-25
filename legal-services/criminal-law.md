@@ -34,7 +34,8 @@ James Taylor Solicitor has acted for Defendants in Police Applications for Appre
 ### Traffic Offences ###
 Whether you are facing charges for drink driving, driving with illicit drug in system dangerous driving, dangerous/negligent driving causing grievous bodily harm/death, speeding, negligent driving or other traffic offences, James Taylor Solicitor can provide expert guidance and representation. He understands the potential consequences of traffic offences and work diligently to protect your rights and minimise the impact on your life. James Taylor Solicitor regularly appears for clients in appeals for Licence Suspensions and Cancellations in the Local Court.
 
-For more details concerning Traffic and Driving Offences visit [Traffic Offences](/legal-services/traffic-offences/)
+
+<p>For more details concerning Traffic and Driving Offences visit <a href="/legal-services/traffic-and-driving-offences/" title="Traffic and Driving Offences" alt="Traffic and Driving Offences link">Traffic Offences</a></p>
 
 ### Assault and Violent Crimes ###
 Being charged with assault or any violent crime can have severe consequences. James Taylor Solicitor has vast experience and a thorough understanding of relevant legislation and case law and can develop effective defence strategies tailored to your specific case. James Taylor Solicitor has acted for clients charged with Common assault, Assault occasioning actual bodily harm, Assault occasioning actual bodily harm in company, Reckless wound, Assault causing grievous bodily harm and Affray. He regularly appears for client charges with criminal offences in the Local and District Court.
