@@ -16,8 +16,8 @@ area: wills
 
 
 
-## James Taylor Solicitor can help provide peace of mind in knowing that your loved ones are provided for. ##
+## James Taylor Solicitor provides in-depth Wills & Estate Planning advice with a friendly and caring approach. ##
 
 With 30 years experience, James Taylor Bathurst Solicitor can expertly draft your Will and other testamentary documentation and advise you in relation to your estate.
 
-**James Taylor Solicitor provides in-depth Wills & Estate Planning advice with a friendly and caring approach.**
+**James Taylor Solicitor can help provide peace of mind in knowing that your loved ones are provided for.**
