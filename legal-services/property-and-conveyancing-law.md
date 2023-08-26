@@ -17,13 +17,11 @@ area: property
 
 ## James Taylor Solicitor can help you buy, sell and lease properties. He has been acting for clients buying and selling rural, residential and commercial properties for the last 30 years. ##
 
-He takes a simple competitive fixed fee approach to your conveyancing fees that has all the inclusions you need for a stress-free property transaction. 
+We take a simple competitive fixed fee approach to your conveyancing fees that has all the inclusions you need for a stress-free property transaction. 
 
 ### Fixed fee conveyancing ###
 
-James Taylor Solicitor provides in-depth property law advice with a friendly and caring approach.
-
-James Taylor Solicitor Conveyancing Services covers a variety of transactions and transaction types including:
+James Taylor Solicitor provides in-depth property law advice with a friendly and caring approach. Our Conveyancing Services cover a variety of transactions and transaction types including:
 
 - Sale of residential property
 - Purchase of residential property
