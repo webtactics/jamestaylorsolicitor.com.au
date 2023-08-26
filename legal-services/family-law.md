@@ -7,7 +7,7 @@ tags:
   - family
 image: https://ik.imagekit.io/webtactics/jamestaylorsolicitor/img/services/family-law-services-600x400.jpg
 imageAlt: Family Law Legal Services
-description: James Taylor regularly appears for clients in family law matters in the Family and Federal Circuit Court of Australia at Dubbo (Circuit Court), at Parramatta, Sydney, Newcastle and Sydney. He also appears in the Local Court for urgent family law applications involving children.
+description: James Taylor Solicitor can give you experienced and expert advice about your legal rights and options available to settle any proceedings at the outset, which includes your most important assets, your marriage, your children; and your property.
 area: family
 
 
