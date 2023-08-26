@@ -8,7 +8,8 @@ class: services
 {{ layoutContent | safe }}
 
 <div class="servicescontent">
+<h3>James Taylor Bathurst Solicitor offers expertise and experienced legal services in:</h3>
 {% set postslist = collections.services | reverse %}
-{% include "components/postslist.njk" %}
+{% include "components/postslist-3wide.njk" %}
 </div>
 {% include "components/global/liability.html" %}
