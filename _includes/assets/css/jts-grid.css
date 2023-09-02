@@ -127,7 +127,7 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6 {
   font-size: calc(1.6rem + 1vw); 
 }
 .home .content h2 {
-  font-size: calc(1.6rem + 1vw) / 0.8; 
+  font-size: calc(1.4rem + 1vw); 
 
 
 }
