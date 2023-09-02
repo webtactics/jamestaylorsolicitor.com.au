@@ -152,7 +152,29 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6 {
 .h3, h3 {
   font-size: calc(1.2rem + 0.5rem);}
 
+  .sidebarwrapper h3 {color: var(--black);font-size: calc(1.5rem + 0.5rem);}
+  .servicescontent h3 {color: var(--black); font-size: calc(1.4rem + 0.5rem);}
 
+  .postsumtitle {padding:1rem 0 0 0;}
+
+ 
+  .postsumtitle h3 {
+    color: var(--primary);
+    font-size: calc(1.5rem + 0.5rem); 
+    line-height: 1.1;
+    
+  }
+  .postsumtitle h3 a {
+    color: var(--primary);
+    border:none;
+    padding: 0 0.25rem;
+  
+  }
+  .postsumtitle h3 a:hover {
+    background: var(--white);
+    color: var(--black);
+    border:none;
+  }
 .h4, h4 {
   font-size: calc(1rem + 0.5rem);}
 
@@ -1235,29 +1257,12 @@ aspect-ratio: 450 / 270;
 
 
 
-  .sidebarwrapper h3 {color: var(--black);font-size: calc(1.5rem + 0.5rem);}
-  .servicescontent h3 {color: var(--black); font-size: calc(1.5rem + 0.5rem);}
+
 
   .postsumtitle {padding:1rem 0 0 0;}
 
  
-  .postsumtitle h3 {
-    color: var(--primary);
-    font-size: calc(1.5rem + 0.5rem); 
-    line-height: 1.1;
-    
-  }
-  .postsumtitle h3 a {
-    color: var(--primary);
-    border:none;
-    padding: 0 0.25rem;
-  
-  }
-  .postsumtitle h3 a:hover {
-    background: var(--white);
-    color: var(--black);
-    border:none;
-  }
+
  
   .postsumsummary {color:var(--text);padding:0.5rem 0;min-height:125px;font-size:1rem;}
   .newssumbutton {margin:0 0 1rem 0;}
