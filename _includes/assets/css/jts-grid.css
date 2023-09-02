@@ -152,7 +152,7 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6 {
 .h3, h3 {
   font-size: calc(1.2rem + 0.5rem);}
 
-  .sidebarwrapper h3 {color: var(--black);font-size: calc(1.5rem + 0.5rem);}
+  .sidebarwrapper h3 {color: var(--black);font-size: calc(1.4rem + 0.5rem);}
   .servicescontent h3 {color: var(--black); font-size: calc(1.4rem + 0.5rem);}
 
   .postsumtitle {padding:1rem 0 0 0;}
