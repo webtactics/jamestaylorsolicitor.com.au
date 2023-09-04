@@ -92,15 +92,17 @@ a:hover {
   text-decoration: none;
   cursor: pointer;
   border-bottom: 1px dotted var(--primarydark);
+  transition: all 0.6s ease-in-out;
 
 }
 
 .content p a:hover {
-  color: var(--white);
+  color: var(--black);
   border: none;
   text-decoration: none;
-  border-bottom: 1px solid var(--black);
-  background-color: var(--primarydark);
+  border-bottom: 3px solid var(--black);
+  background-color: var(--white);
+  transition: all 0.6s ease-in-out;
 
 }
 
