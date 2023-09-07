@@ -1315,6 +1315,11 @@ figcaption {
   max-width: auto;
   margin:0 auto;
 }
+@media (max-width: 800px) {
+  .img400 img {max-width: 300px;height:auto;aspect-ratio: 1 / 1;}
+
+.img600 img {max-width:400px;height:auto;aspect-ratio: 60 / 36;}
+}
 @media (max-width: 600px) {
 
   .imageright {
