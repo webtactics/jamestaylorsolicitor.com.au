@@ -1299,7 +1299,7 @@ aspect-ratio: 450 / 270;
 
 .img400 img {max-width: 400px;height:auto;aspect-ratio: 1 / 1;}
 
-.img600 img {width:600px;max-width:50%;height:auto;aspect-ratio: 60 / 36;}
+.img600 img {max-width:600px;height:auto;aspect-ratio: 60 / 36;}
 
 figure {
   margin: 0;
