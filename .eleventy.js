@@ -75,12 +75,7 @@ module.exports = function(eleventyConfig) {
     return content;
   });
 
-    // add metagen plugin
-  const metagen = require('eleventy-plugin-metagen');
 
-module.exports = (eleventyConfig) => {
-    eleventyConfig.addPlugin(metagen);
-};
 
 
   // Don't process folders with static assets e.g. images
