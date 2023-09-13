@@ -23,12 +23,12 @@ eleventyNavigation:
 
 **During this time James Taylor has represented hundreds of clients in a very broad range of matters at the Children’s Court, Local Court, District Court and Supreme Court of New South Wales.**
 
-*“Being contacted by the police about a criminal offence, attending the police station, receiving court attendance notices for criminal and driving offences or any other involvement in traffic matters can be a concerning and worrying experience. From my past experience in representing clients in criminal and driving offences I understand client’s concerns and what is at stake and most importantly what needs to be done to provide clients with the best possible representation. I pride myself and take great satisfaction from making sure that my clients obtain the best possible results in all matters”*
-
-
 In criminal matters James Taylor has appeared in complex and lengthy trials including murder, sexual assault, commercial drug supply, serious fraud and armed robbery. 
 
 James has also appeared at New South Wales Parole Board Hearings, Police Integrity Commission Hearings, New South Wales Crime Commission Hearings and Coronial Inquests. 
+
+*“Being contacted by the police about a criminal offence, attending the police station, receiving court attendance notices for criminal and driving offences or any other involvement in traffic matters can be a concerning and worrying experience. From my past experience in representing clients in criminal and driving offences I understand client’s concerns and what is at stake and most importantly what needs to be done to provide clients with the best possible representation. I pride myself and take great satisfaction from making sure that my clients obtain the best possible results in all matters”*
+
 
 As an involved and concerned lawyer, James Taylor regularly appears in Bail Applications including weekend Bail Applications. He also regularly appears in the Children’s Court and the Local and District Courts for pleas of guilty, defended hearings, trials-jury and Judge alone, bail applications, sentence hearings, severity appeals, conviction appeals, committal hearings and other hearings.
 
