@@ -41,8 +41,7 @@ In Traffic matters James regularly appears for clients who have been issued with
 <figcaption>Clear, precise legal advice</figcaption>
 </figure>
 
-Often lecturing at the local Driver Awareness Program, James Taylor has a thorough understanding of the applicable traffic legislation. 
-James’ experience in Traffic Law means that he is able to provide clients with clear, precise and thorough advice in all types of traffic matters including Drink Driving, Driving Under the Influence, Drug Driving, Police Radar, Speed Camera, Dangerous Driving, Dangerous Driving Causes Death or Grievous Bodily Harm, Street Racing, Drive Speed Dangerous, Suspended Drivers Licence, Disqualified Driving, Licence Appeals, Applications to quash Habitual Traffic Offences Declarations and much more.
+Often lecturing at the local Driver Awareness Program, James Taylor has a thorough understanding of the applicable traffic legislation. James Taylors experience in Traffic Law means that he is able to provide clients with clear, precise and thorough advice in all types of traffic matters including Drink Driving, Driving Under the Influence, Drug Driving, Police Radar, Speed Camera, Dangerous Driving, Dangerous Driving Causes Death or Grievous Bodily Harm, Street Racing, Drive Speed Dangerous, Suspended Drivers Licence, Disqualified Driving, Licence Appeals, Applications to quash Habitual Traffic Offences Declarations and much more.
 
 **James’ experience means that you will receive the best possible advice and or representation in all kinds of criminal law, family law, property & conveyancing and traffic and driving offences.**
 
