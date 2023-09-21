@@ -416,10 +416,10 @@ transition: all 1s;}
 }
 
 .offcanvas h3 {
-  color: var(--white);
+  color: var(--primary);
   text-align: left;
   padding-left: 1rem;
-  background: var(--primary);
+  background: var(--white);
   height: 64px;
   line-height: 64px;
   margin: 0 0 2px 0;
