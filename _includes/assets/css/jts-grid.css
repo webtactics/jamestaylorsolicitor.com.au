@@ -193,7 +193,7 @@ line-height: 1.5rem;
 margin: 0 0 1rem 0;
 padding:0;}
 
-p.em {
+p em {
 font-style: italic;
 color: var(--black);
 }
