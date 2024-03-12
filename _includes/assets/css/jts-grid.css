@@ -218,16 +218,17 @@ color: var(--black);
   margin:0;
   padding: 0;
   text-align: right; 
-  color: var(--primary);
-  font-size: calc(2.4rem + 1vw);
+  color: var(--white);
+  font-size: calc(3rem + 1vw);
   z-index: 2;
+  line-height: 1;
 
   
    }
   
   .caption-text h1 span { 
   background: var(--black);
-  padding: 0.68rem;
+  padding: 0.5rem;
   }
   
   
