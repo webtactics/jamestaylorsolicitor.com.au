@@ -197,17 +197,80 @@ p em {
 font-style: italic;
 color: var(--black);
 }
+.home .caption-text { 
+  width: calc(100vw - 2rem);
+  max-width: 1280px;
+    margin:80vh auto 0 auto;
+    position: relative;
+    z-index: 2;
+    }
 
+    .caption-text { 
+      width: calc(100vw - 2rem);
+      max-width: 1280px;
+      margin:40vh auto 0 auto;
+      position: relative;
+      z-index: 2;
 
-.container {
-  margin: 10vh auto 0 auto;
-  background-color: var(--white);
+        }
+  
+  .caption-text h1 { 
+  margin:0;
+  padding: 0;
+  text-align: right; 
+  color: var(--primarydarker);
+  font-size: calc(2rem + 1vw);
   z-index: 2;
-  position: relative;
-}
+
+  
+   }
+  
+  .caption-text h1 span { 
+  background: var(--black);
+  padding: 0.68rem;
+  }
+  
+  
+  
+  
+  @media screen and (max-width: 700px) {
+    .home .caption-text { 
+      margin:60vh 0 0;
+      position: relative;
+      z-index: 2;
+      width: 100%;
+      }
+
+
+  .caption-text {
+      width: 100%;
+      margin:40vh 0 0;
+      position: relative;
+      z-index: 2;
+  
+     }
+  
+     .caption-text h1 { 
+      margin:0;
+      text-align: left; 
+      padding: 1rem;
+      background: var(--black);
+      
+       }
+      
+  .caption-text h1 span { 
+  padding: 0;
+      }
+
+  
+  }
+
+.home .container {margin: 10vh auto 0 auto;  background-color: var(--white);z-index: 2;position: relative; }
+.container {margin: 10vh auto 0 auto;  background-color: var(--white);z-index: 2; position: relative; }
 
 @media screen and (max-width: 768px) {
-  .container {position: relative; margin: 0 auto; }
+  .home .container {margin: 10vh auto 0 auto;  background-color: var(--white);z-index: 2;position: relative; }
+  .container {margin: 10vh auto 0 auto;  background-color: var(--white);z-index: 2; position: relative; }
 }
 .content {
   margin: 0 auto;
@@ -232,62 +295,7 @@ color: var(--black);
   .legal-services .cta.content {  padding:  1rem 1rem 4rem;}
 }
 
-.caption-text { 
-max-width: 1280px;
-margin:-5rem auto 3rem auto;
-position: relative;
-}
 
-.home .caption-text { 
-  max-width: 1280px;
-  margin:-6rem auto 3rem auto;
-  position: relative;
-  }
-
-
-.caption-text h1 { 
-margin:0;
-text-align: right; 
-color: var(--white);
-font-size: calc(2rem + 1vw);
-
- }
-
-.caption-text h1 span { 
-background: var(--black);
-padding: calc(0.5vw + 5px);
-}
-
-
-
-
-@media screen and (max-width: 700px) {
-.caption-text {
-    width: 100%;
-    right: auto;
-    left: 0;
-    margin: 0 auto 1rem auto;
-
-   }
-
-   .caption-text h1 { 
-    margin:0;
-    text-align: left; 
-    padding: 1rem;
-    background: var(--black);
-    
-     }
-    
-.caption-text h1 span { 
-padding: 0;
-    }
-.legal-services    .caption-text {
-width: 100%;
-  margin: 3rem auto 0 auto;
-  
-     }
-
-}
         .headerwrapper {
           display: grid;
           grid-template-columns: 120px 1fr;
