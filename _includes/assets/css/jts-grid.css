@@ -187,7 +187,7 @@ color: var(--black);
     .caption-text { 
       width: calc(100vw - 2rem);
       max-width: 1280px;
-      margin:40vh auto 0 auto;
+      margin:35vh auto 0 auto;
       position: relative;
       z-index: 2;
 
@@ -224,7 +224,7 @@ color: var(--black);
 
   .caption-text {
       width: 100%;
-      margin:35vh 0 0;
+      margin:40vh 0 0;
       position: relative;
       z-index: 2;
   
