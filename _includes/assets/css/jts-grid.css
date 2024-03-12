@@ -128,28 +128,7 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6 {
 .h2, h2 {
   font-size: calc(2rem + 1vw); 
 }
-.home .content h3 {
-  font-size: calc(1.4rem + 1vw); 
-  color: var(--black);
 
-}
-.home .content h3 a {
-  line-height: inherit;
-  color: var(--primary);
-  text-decoration: none;
-  cursor: pointer;
-  border-bottom: 2px dotted var(--primarydark);
-
-}
-
-.home .content h3 a:hover {
-  color: var(--white);
-  border: none;
-  text-decoration: none;
-  border-bottom: 2px solid var(--black);
-  background-color: var(--primary);
-
-}
 
 .h3, h3 {
   font-size: calc(1.2rem + 0.5rem);}
