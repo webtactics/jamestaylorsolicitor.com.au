@@ -1076,6 +1076,18 @@ background-color: var(--primary); font-weight: bold;}
     object-fit: cover;}
 
 
+    .internal .hero {height: 40svh;height: 40vh; width:100vw;
+      position: fixed;
+      top: 0;
+      left: 0;
+      z-index: -2;}
+   .internal .hero img {height: 40svh;height: 40vh;width: 100vw; 
+      position: fixed;
+      top: 0;
+      left: 0;
+      object-fit: cover;}
+
+
 
 
 
