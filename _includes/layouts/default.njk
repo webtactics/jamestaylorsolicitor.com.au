@@ -4,7 +4,8 @@
 {% include "components/head.njk" %}
 
 	
-<body class=" {{ class }} " >
+{% block bodyclass %}<body class="internal {{ class }} " >{% endblock %}
+  
 {% include "components/header.njk" %}
   {% include "components/off-canvas.njk" %}
   {% block hero %}

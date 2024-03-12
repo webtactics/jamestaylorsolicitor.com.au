@@ -1,5 +1,5 @@
 ---
-layout: layouts/default.njk
+layout: layouts/contact.njk
 title: Contact James Taylor Bathurst Solicitor
 class: contact
 description: How to contact James Taylor Bathurst Solictor
