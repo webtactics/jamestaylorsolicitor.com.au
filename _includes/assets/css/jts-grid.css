@@ -179,7 +179,7 @@ color: var(--black);
 .home .caption-text { 
   width: calc(100vw - 2rem);
   max-width: 1280px;
-    margin:100vh auto 0 auto;
+    margin:90vh auto 0 auto;
     position: relative;
     z-index: 2;
     }
@@ -245,7 +245,7 @@ color: var(--black);
   
   }
 
-.home .container {margin: 3rem auto 0 auto;  background-color: var(--white);z-index: 2;position: relative; }
+.home .container {margin: 4vh auto 0 auto;  background-color: var(--white);z-index: 2;position: relative; }
 .container {margin: 10vh auto 0 auto;  background-color: var(--white);z-index: 2; position: relative; }
 
 @media screen and (max-width: 768px) {
