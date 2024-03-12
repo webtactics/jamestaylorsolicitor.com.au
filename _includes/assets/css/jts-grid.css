@@ -128,12 +128,12 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6 {
 .h2, h2 {
   font-size: calc(2rem + 1vw); 
 }
-.home .content h2 {
+.home .content h3 {
   font-size: calc(1.4rem + 1vw); 
   color: var(--black);
 
 }
-.home .content h2 a {
+.home .content h3 a {
   line-height: inherit;
   color: var(--primary);
   text-decoration: none;
@@ -142,7 +142,7 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6 {
 
 }
 
-.home .content h2 a:hover {
+.home .content h3 a:hover {
   color: var(--white);
   border: none;
   text-decoration: none;
