@@ -246,7 +246,7 @@ color: var(--black);
   }
 
 .home .container {margin: 4vh auto 0 auto;  background-color: var(--white);z-index: 2;position: relative; }
-.container {margin: 10vh auto 0 auto;  background-color: var(--white);z-index: 2; position: relative; }
+.container {margin: 9vh auto 0 auto;  background-color: var(--white);z-index: 2; position: relative; }
 
 @media screen and (max-width: 768px) {
   .home .container {margin: 10vh auto 0 auto;  background-color: var(--white);z-index: 2;position: relative; }
@@ -275,6 +275,7 @@ color: var(--black);
 .detailcontent {  margin: 0 auto;
   width: calc(100vw - 2rem);
   max-width: 1280px;
+  padding: 4rem .5rem;
 }
 .home .servicescontent {padding:  0 0 2rem;}
 
