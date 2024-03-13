@@ -1364,6 +1364,7 @@ aspect-ratio: 450 / 270;
   margin: 0 0 0 1rem;
   border-left: 0.6rem solid var(--primary);
   min-height: 3rem;
+  transition: color 500ms, text-decoration-color 1500ms;
 }
 
 .detailpage-sidebar-summary-content-wrapper:hover {
@@ -1371,6 +1372,7 @@ aspect-ratio: 450 / 270;
   margin: 0 0 0 1rem;
   border-left: 0.6rem solid var(--black);
   min-height: 3rem;
+  transition: color 500ms, text-decoration-color 1500ms;
 }
 
 
