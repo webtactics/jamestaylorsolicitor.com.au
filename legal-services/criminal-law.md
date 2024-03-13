@@ -17,6 +17,10 @@ area: criminal
 
 ## James Taylor Bathurst Solicitor provides the highest quality criminal law help to individuals facing criminal charges in Bathurst, surrounding areas and all across New South Wales. ##
 
+<div class="postdetailimage" align="center">
+<img src="{{ image }}/tr:w-800,h-533" alt="{{ imageAlt }}" title="{{ imageAlt }}" width="800px" height="600px" class="postimg">
+</div>
+
 **James Taylor's' commitment to his clients makes him the go-to choice for anyone in need of skilled and effective legal representation from the most minor to the most serious criminal charges.**
 
 Our reputation is built on an ability to consistently deliver outstanding results for clients. With 30 years of experience, James Taylor possesses the expertise, knowledge, and skills necessary to handle a wide range of criminal law matters.
