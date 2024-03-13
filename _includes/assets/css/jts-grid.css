@@ -272,7 +272,7 @@ color: var(--black);
   min-height: 200px;
 }
 
-.detailconent {  margin: 0 auto;
+.detailcontent {  margin: 0 auto;
   max-width: 1280px;
 }
 .home .servicescontent {padding:  0 0 2rem;}
