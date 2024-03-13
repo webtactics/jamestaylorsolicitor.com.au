@@ -1189,6 +1189,7 @@ text-align: center;
   color: var(--white);
   font-size: 0.9rem;
   font-size: clamp(0.9rem, 2vw + 1rem, 1rem);
+  line-height: 1.8;
 }
 
 .footerwrap p a {
