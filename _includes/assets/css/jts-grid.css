@@ -1186,8 +1186,8 @@ text-align: center;
 }
 .footerwrap p {
   color: var(--white);
-  font-size: 0.875rem;
-}
+  font-size: 0.9rem;
+  font-size: clamp(0.9rem, 2vw + 1rem, 1rem);
 
 .footerwrap p a {
   color: var(--white);
