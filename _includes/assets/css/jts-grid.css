@@ -1199,7 +1199,7 @@ text-align: center;
   text-decoration-thickness: 0.1rem; 
   text-decoration-style: solid; 
   text-decoration-color: var(--primary); 
-  text-underline-offset: 0.5rem;
+  text-underline-offset: 0.4rem;
   transition: color 500ms, text-decoration-color 1500ms;
 }
 
@@ -1210,7 +1210,7 @@ text-align: center;
   text-decoration-thickness: 0.1rem;  
   text-decoration-style: solid; 
   text-decoration-color: var(--white); 
-  text-underline-offset: 0.5rem;
+  text-underline-offset: 0.4rem;
   transition: color 500ms, text-decoration-color 1500ms;
 }
 
