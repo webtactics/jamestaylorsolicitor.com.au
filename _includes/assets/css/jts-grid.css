@@ -273,11 +273,7 @@ color: var(--black);
 }
 
 .detailconent {  margin: 0 auto;
-  padding: 4rem .5rem;
-  z-index: 2;
   max-width: 1280px;
-  background-color: var(--white);
-  min-height: 200px;
 }
 .home .servicescontent {padding:  0 0 2rem;}
 
