@@ -903,6 +903,7 @@ ul.footer-menu li {
   background-color: transparent;
   border:none;
   width: 120px;
+  text-decoration: none;
  
 }
 
@@ -916,6 +917,7 @@ ul.footer-menu li {
   background-color: var(--primary);
   border:none;
   width: 120px;
+  text-decoration: none;
 }
 .footer-menu > li.current > a, .footer-menu > li.active-class > a {
   -webkit-transition: all 0.6s;
@@ -1071,12 +1073,14 @@ ul.off-canvas-list li a {
   padding: 0.75rem;
   transition: background 300ms ease;
   background: var(--mattblack);
+  text-decoration: none;
 }
 
 ul.off-canvas-list li a:hover, ul.off-canvas-list li a:focus {
   color: var(--black);
   background: var(--primary);
   font-weight: bold;
+  text-decoration: none;
 }
 
 ul.off-canvas-list > li.current > a, ul.off-canvas-list > li.active-class > a {
