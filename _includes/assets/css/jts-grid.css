@@ -122,11 +122,13 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6 {
 
 
 .h1, h1 {
-  font-size: calc(2rem + 1vw); 
+  font-size: 3rem;
+  font-size: clamp(2.75rem, 2vw + 1.5rem, 4rem);
   }
   
 .h2, h2 {
-  font-size: calc(2rem + 1vw); 
+  font-size: 2.5rem;
+  font-size: clamp(2.5rem, 2vw + 1.5rem, 3.75rem);
 }
 
 
@@ -157,7 +159,9 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6 {
     border:none;
   }
 .h4, h4 {
-  font-size: calc(1rem + 0.5rem);}
+  font-size: 2rem;
+  font-size: clamp(1.8750rem, 2vw + 1.5rem, 3rem);
+}
 
 
 
@@ -198,8 +202,8 @@ color: var(--black);
   padding: 0;
   text-align: right; 
   color: var(--white);
-  font-size: 2.5rem;
-  font-size: clamp(2.25rem, 2vw + 1.5rem, 3.25rem);
+  font-size: 3rem;
+  font-size: clamp(2.75rem, 2vw + 1.5rem, 4rem);
   z-index: 2;
   line-height: 1.3;
 
