@@ -1312,8 +1312,7 @@ aspect-ratio: 450 / 270;
     min-height:125px;
   
   }
-  .postsumhome {color:var(--text);
-    font-size:1rem;
+  .postsumhome {
   display: -webkit-box;
   -webkit-line-clamp:3;
   -webkit-box-orient:vertical;
