@@ -1198,8 +1198,8 @@ text-align: center;
   white-space: nowrap;
   text-decoration-thickness: 0.1rem; 
   text-decoration-style: solid; 
-  text-decoration-color: var(--primarylight); 
-  text-underline-offset: 0.2rem;
+  text-decoration-color: var(--lightgrey); 
+  text-underline-offset: 0.4rem;
   transition: color 500ms, text-decoration-color 1500ms;
 }
 
@@ -1207,10 +1207,10 @@ text-align: center;
   background: var(--white);
   color: var(--black);
   border: none;
-  text-decoration-thickness: 0.1rem; 
+  text-decoration-thickness: 0.1rem;  
   text-decoration-style: solid; 
   text-decoration-color: var(--primarydark); 
-  text-underline-offset: 0.2rem;
+  text-underline-offset: 0.4rem;
   transition: color 500ms, text-decoration-color 1500ms;
 }
 
