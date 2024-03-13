@@ -200,7 +200,7 @@ color: var(--black);
   color: var(--white);
   font-size: calc(3rem + 1vw);
   z-index: 2;
-  line-height: 1;
+  line-height: 1.5;
 
   
    }
