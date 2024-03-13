@@ -16,6 +16,10 @@ area: family
 
 ## James Taylor Solicitor has 30 years’ experience in acting for clients in family law matters. ##
 
+<div class="postdetailimage" align="center">
+<img src="{{ image }}/tr:w-800,h-533" alt="{{ imageAlt }}" title="{{ imageAlt }}" width="800px" height="600px" class="postimg">
+</div>
+
 James regularly appears for clients in family law matters in the Family and Federal Circuit Court of Australia at Dubbo (Circuit Court), at Parramatta, Sydney, Newcastle and Sydney. 
 
 He also appears in the Local Court for urgent family law applications involving children. He also regularly appears for clients at mediation and in court in matters involving the parties’ children, property and divorce.
