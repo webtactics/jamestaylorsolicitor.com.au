@@ -1248,7 +1248,7 @@ grid-template-columns: 2fr 1fr;gap: 3rem;}
   filter: brightness(1.2);
   }
 
-.grid-detailpage-sidebar-summary:hover .detailpage-sidebar-summary-content-wrapper {border-left: .6rem solid var(--black);}
+.grid-detailpage-sidebar-summary:hover .detailpage-sidebar-summary-content-wrapper {border-left: .6rem solid var(--black); transition: color 500ms, text-decoration-color 1500ms;}
 
   .Postimagehover {position:relative;text-align:center}
 
