@@ -15,7 +15,9 @@ area: property
 
 
 
-## James Taylor Solicitor can help you buy, sell and lease properties. He has been acting for clients buying and selling rural, residential and commercial properties for the last 30 years. ##
+## James Taylor Solicitor can help you buy, sell and lease properties. ##
+
+### Taylor has been acting for clients buying and selling rural, residential and commercial properties for more than 30 years. ###
 
 <div class="postdetailimage" align="center">
 <img src="{{ image }}/tr:w-800,h-533" alt="{{ imageAlt }}" title="{{ imageAlt }}" width="800px" height="600px" class="postimg">
