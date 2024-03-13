@@ -72,7 +72,7 @@ a img {border: 0;}
 a {
   line-height: inherit;
   color: var(--primarydark);
-  text-decoration: none;
+
   cursor: pointer;
  }
 
@@ -81,7 +81,7 @@ a {
 a:hover {
   color: var(--black);
   border: none;
-  text-decoration: none;
+
 
 }
 
