@@ -1190,16 +1190,26 @@ text-align: center;
 }
 
 .footerwrap p a {
-  color: var(--primary);
-  border-bottom: 1px dotted var(--primary);
+  color: var(--white);
+  border: none;
   padding: 0 0.25rem;
   white-space: nowrap;
+  text-decoration-thickness: 0.1rem; 
+  text-decoration-style: solid; 
+  text-decoration-color: var(--primarylight); 
+  text-underline-offset: 0.2rem;
+  transition: color 500ms, text-decoration-color 1500ms;
 }
 
 .footerwrap p a:hover {
   background: var(--white);
   color: var(--black);
-  border-bottom: 1px solid var(--red);
+  border: none;
+  text-decoration-thickness: 0.1rem; 
+  text-decoration-style: solid; 
+  text-decoration-color: var(--primarydark); 
+  text-underline-offset: 0.2rem;
+  transition: color 500ms, text-decoration-color 1500ms;
 }
 
 
