@@ -1251,11 +1251,14 @@ aspect-ratio: 450 / 270;
 .detailpage-sidebar-summary-content-wrapper h4 a { color: var(--black);border:none;text-decoration: none; padding:0;margin:0;background:transparent;}
 .detailpage-sidebar-summary-content-wrapper h4 a:hover { color: var(--primary);border:none;text-decoration: none; padding:0;margin:0;background:transparent;}
 
-.postdetailcontent {padding: 2rem 0;}
+.postdetailcontent {padding: 0;}
+.postdetailimage {padding: 2rem 0;}
+
 
 @media (max-width: 768px) {
   .postdetailcontent {padding: 1rem;}
   .sidebarwrapper {padding: 1rem;}
+  .postdetailimage {padding: 1rem 0;}
   }
 
 
