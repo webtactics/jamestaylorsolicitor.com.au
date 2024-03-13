@@ -1268,7 +1268,7 @@ aspect-ratio: 450 / 270;
 
 
 @media (max-width: 768px) {
-  .sidebarwrapper {padding: 1rem;}
+  .sidebarwrapper {padding: 1rem 0;}
   .postdetailimage {padding: 1rem 0;}
   }
 
