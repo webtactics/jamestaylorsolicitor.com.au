@@ -134,8 +134,8 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6 {
   .postsumtitle h3 {
     color: var(--primary);
     line-height: 1.1;
-    font-size: 1.6rem;
-  font-size: clamp(1.4rem, 2vw + 1.5rem, 2rem);
+    font-size: 80%;
+
     
   }
   .postsumtitle h3 a {
