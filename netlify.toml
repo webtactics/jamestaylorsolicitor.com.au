@@ -19,6 +19,7 @@ package = "@netlify/plugin-sitemap"
   [plugins.inputs]
   buildDir = "_site"
   prettyURLs = true
+  trailingSlash = true
   exclude = [
 
   'https://jamestaylorsolicitor.com.au/404/',
