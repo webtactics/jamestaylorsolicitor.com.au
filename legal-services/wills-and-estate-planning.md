@@ -5,7 +5,7 @@ date: 2023-04-19
 permalink: /legal-services/wills-and-estate-planning-services/
 tags:
   - wills
-image: https://ik.imagekit.io/webtactics/jamestaylorsolicitor/img/services/wills-600x400.jpg
+image: https://ik.imagekit.io/webtactics/jamestaylorsolicitor/static/img/services/wills-600x400.jpg
 imageAlt: Wills & Estate Planning
 description:  With 30 years experience, James Taylor Bathurst Solicitor can expertly draft your Will and other testamentary documentation and advise you in relation to your estate.
 area: wills

@@ -5,7 +5,7 @@ date: 2023-04-19
 permalink: /legal-services/family-law-services/
 tags:
   - family
-image: https://ik.imagekit.io/webtactics/jamestaylorsolicitor/img/services/family-law-services-600x400.jpg
+image: https://ik.imagekit.io/webtactics/jamestaylorsolicitor/static/img/services/family-law-services-600x400.jpg
 imageAlt: Family Law Legal Services
 description: James Taylor Solicitor can give you experienced and expert advice about your legal rights and options available to settle any proceedings at the outset, which includes your most important assets, your marriage, your children; and your property.
 area: family
