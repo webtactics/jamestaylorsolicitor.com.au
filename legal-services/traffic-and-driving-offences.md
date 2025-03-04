@@ -1,7 +1,7 @@
 ---
 title: Traffic and Driving Offences
 author: Paul Goldsmith
-date: 2023-04-19
+date: 2025-03-03
 permalink: /legal-services/traffic-and-driving-offences/
 tags:
   - traffic
@@ -21,7 +21,9 @@ area: traffic
 <img src="{{ image }}/tr:w-800,h-533" alt="{{ imageAlt }}" title="{{ imageAlt }}" width="800px" height="600px" class="postimg">
 </div>
 
-We understand the potential consequences of traffic offences and work diligently to protect your rights and minimise impact, as much as possible, on your life. We know the importance of a drivers licence, and that going without a licence for any period of time can be very difficult.
+We understand the potential consequences of traffic offences and work diligently to protect your rights and minimise impact, as much as possible, on your life. 
+
+We know the importance of a drivers licence, and that going without a licence for any period of time can be very difficult.
 
 **James Taylor Solicitor regularly appears for clients in appeals for Licence Suspensions and Cancellations.**
 
