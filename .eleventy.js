@@ -3,26 +3,18 @@ const CleanCSS = require("clean-css");
 const UglifyJS = require("uglify-js");
 const htmlmin = require("html-minifier");
 const eleventyNavigationPlugin = require("@11ty/eleventy-navigation");
+const metagen = require('eleventy-plugin-metagen');
+const redirectsPlugin = require('eleventy-plugin-redirects');
 
-module.exports = function(eleventyConfig) {
-
-  // Eleventy Navigation https://www.11ty.dev/docs/plugins/navigation/
+module.exports = function (eleventyConfig) {
+  // Eleventy Navigation Plugin
   eleventyConfig.addPlugin(eleventyNavigationPlugin);
 
-  // Configuration API: use eleventyConfig.addLayoutAlias(from, to) to add
-  // layout aliases! Say you have a bunch of existing content using
-  // layout: post. If you don’t want to rewrite all of those values, just map
-  // post to a new file like this:
-  // eleventyConfig.addLayoutAlias("post", "layouts/my_new_post_layout.njk");
-
   // Merge data instead of overriding
-  // https://www.11ty.dev/docs/data-deep-merge/
   eleventyConfig.setDataDeepMerge(true);
 
   // Add support for maintenance-free post authors
-  // Adds an authors collection using the author key in our post frontmatter
-  // Thanks to @pdehaan: https://github.com/pdehaan
-  eleventyConfig.addCollection("authors", collection => {
+  eleventyConfig.addCollection("authors", (collection) => {
     const blogs = collection.getFilteredByGlob("posts/*.md");
     return blogs.reduce((coll, post) => {
       const author = post.data.author;
@@ -37,23 +29,22 @@ module.exports = function(eleventyConfig) {
     }, {});
   });
 
-  // Date formatting (human readable)
-  eleventyConfig.addFilter("readableDate", dateObj => {
+  // Date formatting filters
+  eleventyConfig.addFilter("readableDate", (dateObj) => {
     return DateTime.fromJSDate(dateObj).toFormat("dd LLL yyyy");
   });
 
-  // Date formatting (machine readable)
-  eleventyConfig.addFilter("machineDate", dateObj => {
+  eleventyConfig.addFilter("machineDate", (dateObj) => {
     return DateTime.fromJSDate(dateObj).toFormat("yyyy-MM-dd");
   });
 
   // Minify CSS
-  eleventyConfig.addFilter("cssmin", function(code) {
+  eleventyConfig.addFilter("cssmin", function (code) {
     return new CleanCSS({}).minify(code).styles;
   });
 
   // Minify JS
-  eleventyConfig.addFilter("jsmin", function(code) {
+  eleventyConfig.addFilter("jsmin", function (code) {
     let minified = UglifyJS.minify(code);
     if (minified.error) {
       console.log("UglifyJS error: ", minified.error);
@@ -62,67 +53,83 @@ module.exports = function(eleventyConfig) {
     return minified.code;
   });
 
-  // Minify HTML output
-  eleventyConfig.addTransform("htmlmin", function(content, outputPath) {
-    if (outputPath.indexOf(".html") > -1) {
-      let minified = htmlmin.minify(content, {
-        useShortDoctype: true,
-        removeComments: true,
-        collapseWhitespace: true
-      });
-      return minified;
-    }
-    return content;
-  });
 
-
-
-
-  // Don't process folders with static assets e.g. images
-  eleventyConfig.addPassthroughCopy("favicon.ico");
-  eleventyConfig.addPassthroughCopy("android-chrome-192x192.png");
-  eleventyConfig.addPassthroughCopy("android-chrome-512x512.png");
-  eleventyConfig.addPassthroughCopy("apple-touch-icon.png");
-  eleventyConfig.addPassthroughCopy("favicon-16x16.png");
-  eleventyConfig.addPassthroughCopy("favicon-32x32.png");
-  eleventyConfig.addPassthroughCopy("site.webmanifest");
-  eleventyConfig.addPassthroughCopy({ static: "/" });
-  eleventyConfig.addPassthroughCopy("admin/");
-  eleventyConfig.addPassthroughCopy("_redirects.txt");
-  // We additionally output a copy of our CSS for use in Netlify CMS previews
-  eleventyConfig.addPassthroughCopy("_includes/assets/css/jts-grid.css");
-    // We additionally output a copy of our js for use in Netlify CMS previews
-  eleventyConfig.addPassthroughCopy("_includes/assets/js/script.js");
+  // Redirects
   module.exports = function(eleventyConfig) {
-  eleventyConfig.addPassthroughCopy("script.js");
-  };
+    config.addPlugin(redirectsPlugin, {
+      template: 'netlify', // netlify, vercel or clientSide
+    })
+  }
 
-  /* Markdown Plugins */
+
+
+      // limit filter for arrays
+      eleventyConfig.addFilter("limit", function (arr, limit) {
+        return arr.slice(0, limit);
+      });
+  
+
+
+
+    // Minify HTML output
+    eleventyConfig.addTransform("htmlmin", function(content, outputPath) {
+      if (outputPath.indexOf(".html") > -1) {
+        let minified = htmlmin.minify(content, {
+          useShortDoctype: true,
+          removeComments: true,
+          collapseWhitespace: true
+        });
+        return minified;
+      }
+      return content;
+    });
+
+  // Metagen plugin
+  eleventyConfig.addPlugin(metagen);
+
+  // Layout aliases
+  eleventyConfig.addLayoutAlias("default", "layouts/grid-default.njk");
+  eleventyConfig.addWatchTarget("./_includes/");
+
+  // Passthrough copies
+  eleventyConfig.addPassthroughCopy("favicon.ico");
+  eleventyConfig.addPassthroughCopy("static/img");
+  eleventyConfig.addPassthroughCopy("static/fonts");
+  eleventyConfig.addPassthroughCopy("static/assets");
+  eleventyConfig.addPassthroughCopy("static/results");
+  eleventyConfig.addPassthroughCopy("static");
+  eleventyConfig.addPassthroughCopy("admin/");
+  eleventyConfig.addPassthroughCopy("js");
+  eleventyConfig.addPassthroughCopy("_includes/assets/css/gtsc-grid.css");
+  eleventyConfig.addPassthroughCopy("_includes/assets/js/script.js");
+  eleventyConfig.addPassthroughCopy("lightbox.js");
+  eleventyConfig.addPassthroughCopy("slick.min.js");
+  eleventyConfig.addPassthroughCopy("assets/js/lightbox.js");
+  eleventyConfig.addPassthroughCopy("assets/js/slick.min.js");
+  eleventyConfig.addPassthroughCopy("script.js");
+  eleventyConfig.addPassthroughCopy("**/*.jpg");
+
+
+
+  // Copy any .pdf file to `_site`, via Glob pattern
+	// Keeps the same directory structure.
+	eleventyConfig.addPassthroughCopy("**/*.pdf");
+
+  // Markdown plugins
   let markdownIt = require("markdown-it");
   let markdownItAnchor = require("markdown-it-anchor");
   let options = {
-    breaks: true,
-    linkify: true,
     html: true,
   };
-
   let opts = {
-    permalink: false
+    permalink: false,
   };
 
-  eleventyConfig.setLibrary("md", markdownIt(options)
-    .use(markdownItAnchor, opts)
-  );
+  eleventyConfig.setLibrary("md", markdownIt(options).use(markdownItAnchor, opts));
 
   return {
     templateFormats: ["md", "njk", "liquid"],
-
-    // If your site lives in a different subdirectory, change this.
-    // Leading or trailing slashes are all normalized away, so don’t worry about it.
-    // If you don’t have a subdirectory, use "" or "/" (they do the same thing)
-    // This is only used for URLs (it does not affect your file structure)
     pathPrefix: "/",
-
     markdownTemplateEngine: "liquid",
     htmlTemplateEngine: "njk",
     dataTemplateEngine: "njk",
@@ -130,7 +137,7 @@ module.exports = function(eleventyConfig) {
       input: ".",
       includes: "_includes",
       data: "_data",
-      output: "_site"
-    }
+      output: "_site",
+    },
   };
 };
