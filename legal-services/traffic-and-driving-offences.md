@@ -5,7 +5,7 @@ date: 2025-03-03
 permalink: /legal-services/traffic-and-driving-offences/
 tags:
   - traffic
-image: https://ik.imagekit.io/webtactics/jamestaylorsolicitor/static/img/services/traffic-law-600x400.jpg
+image: https://ik.imagekit.io/webtactics/jamestaylor/services/traffic-law-600x400_iDhNWgbTm.jpg
 imageAlt: Traffic Law Legal Services
 description: We understand the potential consequences of traffic offences and works diligently to protect your rights and minimise impact, as much as possible, on your life.
 area: traffic

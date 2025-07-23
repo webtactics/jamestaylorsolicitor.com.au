@@ -5,7 +5,7 @@ date: 2023-04-19
 permalink: /legal-services/property-and-conveyancing-law-services/
 tags:
   - property
-image: https://ik.imagekit.io/webtactics/jamestaylorsolicitor/static/img/services/property-law-600x400.jpg
+image: https://ik.imagekit.io/webtactics/jamestaylor/services/property-law-600x400_KZwzRzkEzS.jpg
 imageAlt: Property & Conveyancing Law Legal Services. Buying or selling your property is a major financial transaction and it is important to use a qualified solicitor to assist you with the process.
 description: Buying or selling your property is a major financial transaction and it is important to use a qualified solicitor to assist you with the process.
 area: property
