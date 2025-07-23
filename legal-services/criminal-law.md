@@ -5,7 +5,7 @@ date: 2023-04-19
 permalink: /legal-services/criminal-law-services/
 tags:
   - criminal
-image: https://ik.imagekit.io/webtactics/jamestaylorsolicitor/static/img/services/legal-600x400.jpg
+image: https://ik.imagekit.io/webtactics/jamestaylor/services/legal-600x400_531pyrVY57.jpg?updatedAt=1753309076919
 imageAlt: Criminal Law Legal Services
 description: More than 30 years experience and thousands of criminal trials makes James Taylor Solicitor the go-to choice for anyone in need of skilled and effective legal representation from the most minor to the most serious criminal charges.
 area: criminal
