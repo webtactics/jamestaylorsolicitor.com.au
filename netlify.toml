@@ -22,12 +22,12 @@ package = "@netlify/plugin-sitemap"
   trailingSlash = true
   exclude = [
 
-  'https://jamestaylorsolicitor.com.au/404/',
-  'https://jamestaylorsolicitor.com.au/404.html',
-  'https://jamestaylorsolicitor.com.au/admin/',
-  'https://jamestaylorsolicitor.com.au/admin/email-templates/confirmation.html',
-  'https://jamestaylorsolicitor.com.au/admin/email-templates/email-change.html',
-  'https://jamestaylorsolicitor.com.au/admin/email-templates/invitation.html',
+  'https://jamestaylorbathurstlawyer.com.au/404/',
+  'https://jamestaylorbathurstlawyer.com.au/404.html',
+  'https://jamestaylorbathurstlawyer.com.au/admin/',
+  'https://jamestaylorbathurstlawyer.com.au/admin/email-templates/confirmation.html',
+  'https://jamestaylorbathurstlawyer.com.au/admin/email-templates/email-change.html',
+  'https://jamestaylorbathurstlawyer.com.au/admin/email-templates/invitation.html',
 
   
   
