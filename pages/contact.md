@@ -1,6 +1,6 @@
 ---
 layout: layouts/contact.njk
-title: Contact James Taylor Bathurst Solicitor
+title: Contact James Taylor Bathurst Lawyer
 class: contact
 description: How to contact James Taylor Bathurst Solictor
 section: contact
@@ -20,10 +20,10 @@ eleventyNavigation:
 
 
 <h2>Contact Details</h2>
-<p>Address: <a title="James Taylor Bathurst Solicitor Map" alt="James Taylor Bathurst Solicitor Map" href="https://goo.gl/maps/VH3KrRsjfEAdpWns9" target="_blank" rel="noopener">Suite A, 238 Howick St, Bathurst NSW 2795</a><br>
-Mobile: <a title="Call James Taylor Bathurst Solicitor" alt="Call James Taylor Bathurst Solicitor" href="tel:+61400316661">0400 316 661</a><br>
+<p>Address: <a title="James Taylor Bathurst Lawyer Map" alt="James Taylor Bathurst Lawyer Map" href="https://goo.gl/maps/VH3KrRsjfEAdpWns9" target="_blank" rel="noopener">Suite A, 238 Howick St, Bathurst NSW 2795</a><br>
+Mobile: <a title="Call James Taylor Bathurst Lawyer" alt="Call James Taylor Bathurst Lawyer" href="tel:+61400316661">0400 316 661</a><br>
 Email: <a title="Email jtaylorsolicitor@gmail.com" alt="Email jtaylorsolicitor@gmail.com" href="mailto:jtaylorsolicitor@gmail.com">jtaylorsolicitor@gmail.com</a><br>
-Website: <a href="/" title="James Taylor Bathurst Solicitor Website" alt="James Taylor Bathurst Solicitor Website">jamestaylorsolicitor.com.au</a></p>
+Website: <a href="/" title="James Taylor Bathurst Lawyer Website" alt="James Taylor Bathurst Lawyer Website">jamestaylorbathurstlawyer.com.au</a></p>
 
 
 <div class="responsive-embed widescreen">

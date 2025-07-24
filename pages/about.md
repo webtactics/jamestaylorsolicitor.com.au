@@ -1,7 +1,7 @@
 ---
 layout: layouts/default.njk
-title: About James Taylor Bathurst Solicitor
-description: James Taylor Bathurst Solicitor – Criminal and Family Law Lawyer offering specialist advice and or representation in Criminal and Family Law matters and services in all areas of law including Conveyancing, Wills Probate and Administration.
+title: About James Taylor Bathurst Lawyer
+description: James Taylor Bathurst Lawyer – Criminal and Family Law Lawyer offering specialist advice and or representation in Criminal and Family Law matters and services in all areas of law including Conveyancing, Wills Probate and Administration.
 section: about
 class: about
 date: 2023-07-20
@@ -17,8 +17,8 @@ eleventyNavigation:
 
 ## James Taylor has more than 30 years’ experience in criminal law, family law, property & conveyancing and traffic & driving offences. ## 
 
-<figure class="imageright img400"><img title="James Taylor Bathurst Solicitor" src="https://ik.imagekit.io/webtactics/jamestaylor/james-taylor_qBI8lcRRc.jpg?updatedAt=1691026940168" alt="James Taylor Bathurst Solicitor" width="400px" height="400px">
-<figcaption>James Taylor Bathurst Solicitor</figcaption>
+<figure class="imageright img400"><img title="James Taylor Bathurst Lawyer" src="https://ik.imagekit.io/webtactics/jamestaylor/james-taylor_qBI8lcRRc.jpg?updatedAt=1691026940168" alt="James Taylor Bathurst Lawyer" width="400px" height="400px">
+<figcaption>James Taylor Bathurst Lawyer</figcaption>
 </figure>
 
 **During this time James Taylor has represented hundreds of clients in a very broad range of matters at the Children’s Court, Local Court, District Court and Supreme Court of New South Wales.**
@@ -37,7 +37,7 @@ James Taylor regularly appears in Bail Applications including weekend Bail Appli
 
 In Traffic matters James regularly appears for clients who have been issued with Infringement Notices by police or private Prosecutors and or clients who have been charged by the police for Traffic offences. James Taylor regularly appears for clients in Drink Driving and speeding matters and appeals against Roads and Maritime Services Licence Suspensions.
 
-<figure class="imageright img600"><img title="James Taylor Bathurst Solicitor" src="https://ik.imagekit.io/webtactics/jamestaylor/traffic-camera-600x360_1TIdmloy_.jpg?updatedAt=1691036542658" alt="James Taylor Bathurst Solicitor" width="600px" height="360px">
+<figure class="imageright img600"><img title="James Taylor Bathurst Lawyer" src="https://ik.imagekit.io/webtactics/jamestaylor/traffic-camera-600x360_1TIdmloy_.jpg?updatedAt=1691036542658" alt="James Taylor Bathurst Lawyer" width="600px" height="360px">
 <figcaption>Clear, precise legal advice</figcaption>
 </figure>
 
