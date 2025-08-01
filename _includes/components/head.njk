@@ -10,7 +10,7 @@
 <meta name="view-transition" content="same-origin">
 
 <title>{{ title or metadata.title }} - {{ metadata.title }}</title>
-<link rel="canonical" href="https://jamestaylorbathurstlawyer.com.au/{{ page.url or post.url or permalink }}" />
+<link rel="canonical" href="https://jamestaylorbathurstlawyer.com.au{{ page.url or post.url or permalink }}" />
 <meta name="description" content="{{ description or metadata.description or eleventyComputed.description }}" />
 <meta property="og:title" content="{{ title or metadata.title }}" />
 <meta property="og:description" content="{{ description or metadata.description or eleventyComputed.description }}" />
